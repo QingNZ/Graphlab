@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Graph Lab Website
 
 This is the website of our academic research group at Australian National University.
 
