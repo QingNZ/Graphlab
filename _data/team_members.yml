@@ -12,7 +12,7 @@
 
 - name: Qing Wang
   photo: rock.jpg
-  info: Associate Professor <a href="http://http://users.cecs.anu.edu.au/~u5170295/">webpage</a>
+  info: Associate Professor 
   email: qing.wang@anu.edu.au
   number_educ: 3
   education1: Ph.D. (Dr.rer.nat.), Christian-Albrechts-University Kiel, Germany
@@ -30,9 +30,9 @@
   education3:
   education4:
   
-  - name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
+  - name: Qing Wang
+  photo: rock.jpg
+  info: Associate professor, <a href="http://http://users.cecs.anu.edu.au/~u5170295/">webpage</a>
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
