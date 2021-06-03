@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Research highlights
+### Research highlights
 
 (For a full list of publications see [below](#full-list-of-publications))
 
@@ -49,7 +49,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+### List of publications
 
 {% for publi in site.data.publist %}
 
