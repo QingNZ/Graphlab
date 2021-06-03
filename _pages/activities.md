@@ -6,12 +6,18 @@ sitemap: false
 permalink: /activities/
 ---
 
-# Weekly Study Group
+## Weekly Study Group
 
-Date/Time: Thursdays (2-3pm) of every month, except for the 1st Thursday
-Venue: Board room 4.15, Hanna Neumann Building (145)
+**Date/Time:** 
 
-# Group Talks
+Thursdays (2-3pm) of every month, except for the 1st Thursday
+
+
+**Venue:** 
+
+Board room 4.15, Hanna Neumann Building (145)
+
+## Group Talks
 
 ...
 
