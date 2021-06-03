@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "Graph Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Graph Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -191,6 +191,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
