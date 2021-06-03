@@ -6,12 +6,10 @@ sitemap: false
 permalink: /team/
 ---
 
-# Team Members
+## Team Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
