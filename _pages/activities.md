@@ -16,7 +16,7 @@ permalink: /activities/
 **Venue:** 
 <ul>
   <li>Board room 4.15, Hanna Neumann Building (145)</li>
-<\ul>
+</ul>
   
 ### Group Talks
 
