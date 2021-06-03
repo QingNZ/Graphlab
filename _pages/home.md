@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a team of researchers at the [ANU School of Computing](https://cs.anu.edu.au/). Our overarching research goal is to explore and understand graph-structured data, which is ubiquitously used for representing complex objects and their relationships in today's real-world applications, such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages.
+We are a reseach team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data, which is ubiquitously used for representing complex objects and their relationships in today's real-world applications, such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
