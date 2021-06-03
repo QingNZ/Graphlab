@@ -1,4 +1,4 @@
-  name: Qing Wang
+- name: Qing Wang
   photo: rock.jpg
   info: Associate professor, <a href="http://http://users.cecs.anu.edu.au/~u5170295/">webpage</a>
   email: milan.allan@gmail.com
@@ -8,7 +8,7 @@
   education3: B.Eng. South China University of Technology, China
 
 
-  name: "This could be you !"
+- name: "This could be you !"
   photo: rock.jpg
   info: PhD student
   email: xxxn@gmail.com
