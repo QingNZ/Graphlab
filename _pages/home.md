@@ -32,7 +32,7 @@ We are a team of researchers at the [ANU School of Computing](https://cs.anu.edu
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu3.jpg" alt="Slide 3" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu4.jpg" alt="Slide 4" />
         </div>
         <div class="item">
