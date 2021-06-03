@@ -9,12 +9,12 @@ permalink: /activities/
 ### Weekly Study Group
 
 <ul style="list-style-type:none">
-<li>**Date/Time:** 
+<li>Date/Time:
 <ul>
   <li>2-3pm Thursdays of every month, except for the 1st Thursday</li>
 </ul></li>
   
-<li>**Venue:** 
+<li>Venue:
 <ul>
   <li>Board room 4.15, Hanna Neumann Building (145)</li>
   </ul></li>
