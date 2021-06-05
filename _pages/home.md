@@ -9,8 +9,9 @@ permalink: /
 We are a reseach team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data. In today's real-world applications, graphs are ubiquitously used for representing complex objects and their relationships such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages. We focus on the following research areas:
 
 <ul>
+    <li> Graph management and analysis</li>
     <li> Graph algorithms</li>
-    <li> Graph mining and learning</li>
+    <li> Graph machine learning</li>
     <li> Bridging between graph theory and machine learning</li>
 </ul>
 
