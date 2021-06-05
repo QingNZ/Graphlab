@@ -27,7 +27,7 @@
     display:  Nature Communications 12, 298 (2021)
   highlight: 1
   
-  - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
+- title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: TiNHigh.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
@@ -37,7 +37,7 @@
   highlight: 1
   news2:
  
-  - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
+- title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
   image: TiNHigh.png
   description: 1Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: M. Farhan, Q. Wang
@@ -47,7 +47,7 @@
   highlight: 1
   news2:
  
-    - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
+- title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
   image: TiNHigh.png
   description: 2Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: M. Iftikhar, Q. Wang
