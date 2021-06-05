@@ -27,4 +27,14 @@
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021
   highlight: 1
   news2:
+  
+- title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
+  image: TiNHigh.png
+  description: 2Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: A. Wijesinghe, Q. Wang
+  link:
+    url: http://users.cecs.anu.edu.au/~u5170295/papers/nips-wijesinghe-2019.pdf
+    display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019
+  highlight: 1
+  news2:
 
