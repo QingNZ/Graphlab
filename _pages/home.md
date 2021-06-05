@@ -74,7 +74,6 @@ Current projects:
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" class="img-responsive" width="50%" style="float: left" />
     <div>  <p>{{ project.title }}</p> </div>
-    <div><p>{{ project.info }}</p> </div>
     </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
