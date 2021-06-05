@@ -26,4 +26,34 @@
     url: https://www.nature.com/articles/s41467-020-20529-x
     display:  Nature Communications 12, 298 (2021)
   highlight: 1
+  
+  - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
+  image: TiNHigh.png
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
+  link:
+    url: https://arxiv.org/abs/2104.09733
+    display: ACM SIGMOD International Conference on Management of Data, 2021
+  highlight: 1
+  news2:
+ 
+  - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
+  image: TiNHigh.png
+  description: 1Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: M. Farhan, Q. Wang
+  link:
+    url: https://arxiv.org/abs/2102.08529
+    display: The 24th International Conference on Extending Database Technology (EDBT), 2021
+  highlight: 1
+  news2:
+ 
+    - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
+  image: TiNHigh.png
+  description: 2Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: M. Iftikhar, Q. Wang
+  link:
+    url: https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29
+    display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021
+  highlight: 1
+  news2:
 
