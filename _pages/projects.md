@@ -1,9 +1,9 @@
 ---
-title: "Graph Lab - Research"
+title: "Graph Lab - Projects"
 layout: textlay
-excerpt: "Graph Lab -- Research"
+excerpt: "Graph Lab -- Projects"
 sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
 
