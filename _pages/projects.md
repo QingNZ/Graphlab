@@ -25,6 +25,8 @@ Below is the t-SNE visualization of the 2-D node embedding space for the Pubmed 
 **Shortest-Path Algorithms**.
 One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
 
+The figure below shows that our <a href="https://github.com/mufarhan/highway_labelling"> Highway Labelling (HL)</a> technique can construct distance labelling linearly in terms of the number of landmarks, which confirms its scalability, while answering distance queries on large networks efficiently.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-spa1.png){: style="width: 700px; float: center; margin: 10px  10px"}
 
 
