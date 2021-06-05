@@ -1,10 +1,10 @@
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-SPG.png
-  description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding a rerouting sequence from one shortest path to another shortest path that only differs in one vertex and finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
+  description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
   authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
   link:
     url: https://arxiv.org/abs/2104.09733
-    display: ACM SIGMOD International Conference on Management of Data, 2021 (paper link)
+    display: ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021 (paper link)
   highlight: 1
   news2:
  
@@ -24,17 +24,17 @@
   authors: M. Iftikhar, Q. Wang
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29
-    display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021
+    display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
   highlight: 1
   news2:
   
 - title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
-  image: TiNHigh.png
-  description: 2Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  image: NIPS2019-DFNets.png
+  description: We propose a novel spectral convolutional neural network model on graph-structured data, namely Distributed Feedback-Looped Networks (DFNets). This model is incorporated with a robust class of spectral graph filters, called feedback-looped filters, to provide better localization on vertices, while still attaining fast convergence and linear memory requirements.
   authors: A. Wijesinghe, Q. Wang
   link:
-    url: http://users.cecs.anu.edu.au/~u5170295/papers/nips-wijesinghe-2019.pdf
-    display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019
+    url: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
+    display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 (paper link)
   highlight: 1
   news2:
 
