@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-### Current projects
+### Current Projects
 
 Below are some projects that we currently work on:
 
