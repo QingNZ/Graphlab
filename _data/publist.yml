@@ -69,12 +69,12 @@
   news2: 
  
 - title: "FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks"
-  image: 
-  description: 
+  image: WSDM2018-FACH.png
+  description: We study the hierarchical community detection problem in large networks and show that it is NP-hard. We leverage a fast network sparsification technique to improve the efficiency of a cut-based algorithm for detecting a cohesive hierarchy in a large-scale network.
   authors: M. Rezvani, Q. Wang, and W. Liang
   link:
     url: https://dl.acm.org/doi/10.1145/3159652.3159704
     display: The 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018 (paper link)
-  highlight: 0
+  highlight: 1
   news2:  
 
