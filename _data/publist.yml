@@ -1,7 +1,7 @@
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-SPG.png
   description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
-  authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
+  authors: Y. Wang, Q. Wang, H. Koehler, and Y. Lin
   link:
     url: https://arxiv.org/abs/2104.09733
     display: ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021 (paper link)
@@ -11,7 +11,7 @@
 - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
   image: EDBT2021-IncUpdate.png
   description: If a graph is dynamically changing over time, how can we efficiently find the shortest path distance between any two vertices? We propose an online incremental method to efficiently answer distance queries over very large dynamic graphs. We have empirically evaluated the efficiency and scalability of the proposed algorithm over 12 large real-world networks.
-  authors: M. Farhan, Q. Wang
+  authors: M. Farhan and Q. Wang
   link:
     url: https://arxiv.org/abs/2102.08529
     display: The 24th International Conference on Extending Database Technology (EDBT), 2021 (paper link)
@@ -21,20 +21,49 @@
 - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
   image: PAKDD2021-dK-Project.png
   description: Many networks such as social networks often contain sensitive relationships among individuals, (e.g., friendships and acquaintances) or sensitive attributes of individuals (e.g., age, location and race). We develop a framework for publishing higher-order network statistics, i.e., joint degree distribution, under strong mathematical guarantees of node differential privacy.
-  authors: M. Iftikhar, Q. Wang
+  authors: M. Iftikhar and Q. Wang
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
   highlight: 1
   news2:
+    
+- title: "dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees"
+  image: 
+  description: 
+  authors: M. Iftikhar, Q. Wang, and Y. Lin
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_15
+    display: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020 (paper link)
+  highlight: 0
+  news2:
   
 - title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
   image: NIPS2019-DFNets.png
   description: We propose a novel spectral convolutional neural network model on graph-structured data, namely Distributed Feedback-Looped Networks (DFNets). This model is incorporated with a robust class of spectral graph filters, called feedback-looped filters, to provide better localization on vertices, while still attaining fast convergence and linear memory requirements.
-  authors: A. Wijesinghe, Q. Wang
+  authors: A. Wijesinghe and Q. Wang
   link:
     url: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
     display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 (paper link)
   highlight: 1
   news2:
 
+- title: "A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks"
+  image: EDBT2019-HL.png
+  description: Answering exact shortest path distance queries is a fundamental task in graph theory. Despite a tremendous amount of research on the subject, there is still no satisfactory solution that can scale to billion-scale complex networks. We develop a highly scalable solution for answering exact distance queries over massive complex networks.
+  authors: M. Farhan, Q. Wang, Y. Lin, and B. Mckay
+  link:
+    url: https://arxiv.org/abs/1812.02363
+    display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
+  highlight: 1
+  news2:
+  
+- title: "Publishing Differentially Private Datasets via Stable Microaggregation"
+  image: 
+  description: 
+  authors: M. Iftikhar, Q. Wang, and Y. Lin
+  link:
+    url: https://openproceedings.org/2019/conf/edbt/EDBT19_paper_281.pdf
+    display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
+  highlight: 0
+  news2: 
