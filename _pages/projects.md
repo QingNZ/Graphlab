@@ -27,7 +27,7 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM 
 
 The figure below shows that our <a href="https://github.com/mufarhan/highway_labelling"> Highway Labelling (HL)</a> technique can construct distance labelling linearly in terms of the number of landmarks, which confirms its scalability, while answering distance queries on large networks efficiently.
 
-![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-spa1.png){: style="width: 700px; float: center; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-spa1.png){: style="width: 800px; float: center; margin: 10px  10px"}
 
 
 
