@@ -1,5 +1,5 @@
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
-  image: SIGMOD2021-QbS.png
+  image: SIGMOD2021-SPG.png
   description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding a rerouting sequence from one shortest path to another shortest path that only differs in one vertex and finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
   authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
   link:
