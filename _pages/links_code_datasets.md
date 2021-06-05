@@ -1,12 +1,12 @@
 ### Code
 
 <ul>
-<li>DFNets: Distributed Feedback-Looped Networks</li>
-<li><strong>Highway Label:</strong>https://github.com/mufarhan/highway_labelling</li>
+<li><strong>Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a></li>
+<li><strong>Highway Labelling: </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a></li>
 </ul>
 
 
 
-<br><strong>DFNets: Distributed Feedback-Looped Networks:</strong> See <a href="https://github.com/wokas36/DFNets">code</a></p>
+
 
 ### Datasets
