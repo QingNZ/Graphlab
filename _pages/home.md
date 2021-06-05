@@ -72,8 +72,8 @@ Current projects:
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" class="img-responsive" width="50%" style="float: left" />
-     <br>{{ project.title }}</br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" class="img-responsive" width="100%" style="float: left" />
+     <br>{{ project.title }}
     </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
