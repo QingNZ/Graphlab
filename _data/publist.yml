@@ -1,10 +1,11 @@
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-QbS.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
+  description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, particularly when investigating the structure of the solution space of a combinatorial problem based on shortest paths, 
+for example, finding a rerouting sequence from one shortest path to another shortest path that only differs in one vertex, finding critical edges and vertices whose removal can destroy all shortest paths between two vertices, and the variants such as finding links common to all shortest paths between two vertices.
+  authors: Y. Wang, Q. Wang, H. Koehler, and Y. Lin, ACM SIGMOD International Conference on Management of Data, 2021 
   link:
     url: https://arxiv.org/abs/2104.09733
-    display: ACM SIGMOD International Conference on Management of Data, 2021
+    display: Paper link
   highlight: 1
   news2:
  
