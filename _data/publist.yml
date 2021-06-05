@@ -67,3 +67,14 @@
     display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
   highlight: 0
   news2: 
+ 
+- title: "FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks"
+  image: 
+  description: 
+  authors: M. Rezvani, Q. Wang, and W. Liang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3159652.3159704
+    display: The 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018 (paper link)
+  highlight: 0
+  news2:  
+
