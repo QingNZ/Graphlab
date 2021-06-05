@@ -60,11 +60,28 @@ We are a reseach team at the [School of Computing](https://cs.anu.edu.au/), Aust
   </a>
 </div>
 
+Current projects:
 
+{% assign number_printed = 0 %}
 {% for project in site.data.projects %}
 
-{{ project.image}}
-{{ project.title}}
+{% assign even_odd = number_printed | modulo: 3 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ project.title }}</h4>
+  <i>{{ project.info }} <!--<br>email: <{{ member.email }}></i> -->
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endfor %}
 
