@@ -72,9 +72,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-## HDR Students
+#### HDR Students
 {% assign number_printed = 0 %}
-{% for member in site.data.rsearch_students %}
+{% for member in site.data.research_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
