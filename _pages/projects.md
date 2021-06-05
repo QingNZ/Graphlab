@@ -14,7 +14,7 @@ Below are some projects that we currently work on:
 
 Below is an example of an isomorphism between two graphs, which is the mapping: 1 &#x2192; A, 2 &#x2192; B, 3 &#x2192; F, 4 &#x2192; E, 5 &#x2192; G, 6 &#x2192; C, 7 &#x2192; I, 8 &#x2192; D, 9 &#x2192; H (practical problems can have millions of vertices):
 
-![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi2.png){: style="width: 500px; float: center; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi2.png){: style="width: 600px; float: center; margin: 10px  10px"}
 
 **Geometric Graph Learning.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
