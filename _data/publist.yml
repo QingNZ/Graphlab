@@ -19,8 +19,8 @@
   news2:
  
 - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
-  image: TiNHigh.png
-  description: 2Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  image: PAKDD2021-dK-Project.png
+  description: Many networks such as social networks often contain sensitive relationships among individuals, (e.g., friendships and acquaintances) or sensitive attributes of individuals (e.g., age, location and race). We develop a framework for publishing higher-order network statistics, i.e., joint degree distribution, under strong mathematical guarantees of node differential privacy.
   authors: M. Iftikhar, Q. Wang
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29
