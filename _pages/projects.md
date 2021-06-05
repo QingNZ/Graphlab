@@ -12,7 +12,7 @@ Below are some projects that we currently work on:
 
 **Deep Learning for Graph Isomorphism.** Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
 
-Below is an example of an isomorphism between two graphs, which is the mapping: 1 &#x2192 A, 2 &#x2192 B, 3 &#x2192 F, 4 &#x2192 E, 5 &#x2192 G, 6 &#x2192 C, 7 &#x2192 I, 8 &#x2192 D, 9 &#x2192 H (practical problems can have millions of vertices).
+Below is an example of an isomorphism between two graphs, which is the mapping: 1 &#x2192; A, 2 &#x2192; B, 3 &#x2192; F, 4 &#x2192; E, 5 &#x2192; G, 6 &#x2192; C, 7 &#x2192; I, 8 &#x2192; D, 9 &#x2192; H (practical problems can have millions of vertices).
 
 ![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi2.png){: style="width: 500px; float: center; margin: 10px  10px"}
 
