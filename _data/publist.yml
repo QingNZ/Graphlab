@@ -4,17 +4,17 @@
   authors: Y. Wang, Q. Wang, H. Koehler, Y. Lin
   link:
     url: https://arxiv.org/abs/2104.09733
-    display: ACM SIGMOD International Conference on Management of Data, 2021 (Paper link)
+    display: ACM SIGMOD International Conference on Management of Data, 2021 (paper link)
   highlight: 1
   news2:
  
 - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
-  image: TiNHigh.png
-  description: 1Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  image: EDBT2021-IncUpdate.png
+  description: If a graph is dynamically changing over time, how can we efficiently find the shortest path distance between any two vertices? we propose an online incremental method to efficiently answer distance queries over very large dynamic graphs.
   authors: M. Farhan, Q. Wang
   link:
     url: https://arxiv.org/abs/2102.08529
-    display: The 24th International Conference on Extending Database Technology (EDBT), 2021
+    display: The 24th International Conference on Extending Database Technology (EDBT), 2021 (paper link)
   highlight: 1
   news2:
  
