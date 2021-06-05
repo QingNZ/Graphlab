@@ -18,9 +18,9 @@ Below is an example of an isomorphism between two graphs, which is the mapping: 
 
 **Geometric Graph Learning.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
-Below is the t-SNE visualization of the 2-D node embedding space for the Pubmed dataset by applying our Distributed Feedback-Looped Networks (DFNets):
+Below is the t-SNE visualization of the 2-D node embedding space for the Pubmed dataset by applying our Distributed Feedback-Looped Networks <a href="https://github.com/wokas36/DFNets">(DFNets)</a>:
 
-![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gll1.png){: style="width: 500px; float: center; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-ggl1.png){: style="width: 500px; float: center; margin: 10px  10px"}
 
 **Shortest-Path Algorithms**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
