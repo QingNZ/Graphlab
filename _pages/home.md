@@ -73,8 +73,8 @@ Current projects:
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" class="img-responsive" width="25%" style="float: left" />
-  <p><h6>{{ project.title }}</h6></p>
-  <p><i>{{ project.info }} <!--<br>email: <{{ member.email }}></i></p> -->
+  <p>{{ project.title }}</p>
+  <p>{{ project.info }}</p> 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
