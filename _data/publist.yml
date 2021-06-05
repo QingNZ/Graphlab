@@ -10,7 +10,7 @@
  
 - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
   image: EDBT2021-IncUpdate.png
-  description: If a graph is dynamically changing over time, how can we efficiently find the shortest path distance between any two vertices? we propose an online incremental method to efficiently answer distance queries over very large dynamic graphs.
+  description: If a graph is dynamically changing over time, how can we efficiently find the shortest path distance between any two vertices? We propose an online incremental method to efficiently answer distance queries over very large dynamic graphs. We have empirically evaluated the efficiency and scalability of the proposed algorithm over 12 large real-world networks.
   authors: M. Farhan, Q. Wang
   link:
     url: https://arxiv.org/abs/2102.08529
