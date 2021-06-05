@@ -1,7 +1,8 @@
 - name: Qing Wang
   photo: rock.jpg
-  info: Associate professor (<a href="http://http://users.cecs.anu.edu.au/~u5170295/">webpage</a>)
-  email: milan.allan@gmail.com
+  info: Associate professor 
+  interest: <a href="http://http://users.cecs.anu.edu.au/~u5170295/">See personal webpage</a>
+  email: qing.wang@anu.edu.au
   number_educ: 3
   education1: Ph.D. (Dr.rer.nat.), Christian-Albrechts-University Kiel, Germany
   education2: MIS, Massey University, New Zealand
@@ -10,7 +11,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: PhD student
+  info: xxx
   email: xxxn@gmail.com
   number_educ: 2
   education1:
@@ -20,7 +21,7 @@
   
 - name: "This could be you !"
   photo: rock.jpg
-  info: PhD student
+  info: xxx
   email: xxxn@gmail.com
   number_educ: 2
   education1:
@@ -28,12 +29,4 @@
   education3:
   education4:
   
-- name: "This could be you !"
-  photo: rock.jpg
-  info: PhD student
-  email: xxxn@gmail.com
-  number_educ: 2
-  education1:
-  education2:
-  education3:
-  education4:
+
