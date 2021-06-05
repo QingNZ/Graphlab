@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Research Highlights
 
-(For a list of recent publications see [below](#list-of-publications))
+(For a list of recent publications see [below](#list-of-recent-publications))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,7 +49,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-### List of Publications
+### List of Recent Publications
 
 {% for publi in site.data.publist %}
 
