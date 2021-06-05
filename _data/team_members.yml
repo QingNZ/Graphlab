@@ -9,9 +9,10 @@
   education3: B.Eng. South China University of Technology, China
 
 
-- name: "This could be you !"
+- name: xxx
   photo: rock.jpg
   info: xxx
+  area: xxx
   email: xxxn@gmail.com
   number_educ: 2
   education1:
@@ -19,9 +20,10 @@
   education3:
   education4:
   
-- name: "This could be you !"
+- name: xxx
   photo: rock.jpg
   info: xxx
+  area: xxx
   email: xxxn@gmail.com
   number_educ: 2
   education1:
