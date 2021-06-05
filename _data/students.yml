@@ -1,11 +1,56 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Muhammad Farhan
+  photo: rock.jpg
+  info: PhD student
+  area: Group algorithms 
+  email: muhammad.farhan@anu.edu.au
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Masooma Iftikhar
+  photo: rock.jpg
+  info: PhD student
+  area: Differential Privacy
+  email: masooma.iftikhar@anu.edu.au
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Asiri Wijesinghe
+  photo: rock.jpg
+  info: PhD student
+  area: Geometric Graph Learning
+  email: asiri.wijesinghe@anu.edu.au
+  number_educ: 1
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Ghodai Abdelrahman
+  photo: rock.jpg
+  info: PhD student
+  area: Knowledge Tracing
+  email: ghodai.abdelrahman@anu.edu.au
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Fangbing Liu
+  photo: rock.jpg
+  info: PhD student
+  area: Few-shot Learning
+  email: fangbing.liu@anu.edu.au
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
 
 
