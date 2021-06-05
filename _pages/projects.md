@@ -16,7 +16,7 @@ Our goal is to develop techniques that enable us to address the questions we fin
 {% assign number_printed = 0 %}
 {% for project in site.data.projects %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
