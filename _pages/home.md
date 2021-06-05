@@ -61,7 +61,12 @@ We are a reseach team at the [School of Computing](https://cs.anu.edu.au/), Aust
 </div>
 
 
+{% for project in site.data.projects %}
 
+{{ project.image}}
+{{ project.title}}
+
+{% endfor %}
 
 
 
