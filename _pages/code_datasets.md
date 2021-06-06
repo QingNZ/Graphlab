@@ -20,5 +20,5 @@ permalink: /code_datasets/
 ### Datasets
 
 <ul>
-<li>Ted Spence's home page (with datasets for graph isomorphism tests): http://www.maths.gla.ac.uk/~es/ </li>
+<li>Ted Spence's home page (with datasets for graph isomorphism tests): <a href="http://www.maths.gla.ac.uk/~es/">http://www.maths.gla.ac.uk/~es/</a></li>
 </ul>  
