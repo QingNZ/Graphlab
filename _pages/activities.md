@@ -27,9 +27,10 @@ permalink: /activities/
  
 {% endfor %}
 
+<br>
+
 ### Conference Presentations
 
 <br>
-
 <p>To be added later</p>
 
