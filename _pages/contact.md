@@ -7,7 +7,7 @@ permalink: /contact/
 --- 
 
 **Contact:**
-<ul>
+<ul style="list-style-type:none;">
   <li>Hanna Neumann Building 145</li>
   <li>Canberra, ACT 0200</li>
   <li>Australia</li>
