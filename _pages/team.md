@@ -8,7 +8,7 @@ permalink: /team/
 
 ### Team Members
 
- **We are looking for new PhD and honours students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/downloads/phd-scholarships-2021.pdf) **!**
+ **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/downloads/phd-scholarships-2021.pdf) **!**
 
 
 {% assign number_printed = 0 %}
