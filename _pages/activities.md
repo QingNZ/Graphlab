@@ -17,5 +17,7 @@ permalink: /activities/
 <p>**Presenters:**</p>
 ...
 
+### Conference Presentations
 
+<p>To be added later</p>
 
