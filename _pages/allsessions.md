@@ -7,7 +7,7 @@ permalink: /allsessions.html
 ---
 
 
-<p>**Presenters:**</p>
+### Weekly Study Sessions
 
 {% for presenter in site.data.group_study_presenters %}
 
