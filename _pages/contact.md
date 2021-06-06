@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contact/
 --- 
 
-**Contact:**
+### Contact
 <ul style="list-style-type:none;">
   <li>Hanna Neumann Building 145</li>
   <li>Australian National University</li>
