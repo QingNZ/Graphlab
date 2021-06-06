@@ -19,9 +19,9 @@ permalink: /activities/
 {% for presenter in site.data.group_study_presenters %}
 
 {{ presenter.date }} <br>
-{{ presenter,name }}  
-<em>{{ presenter.talk_title }}</em>
-{{ presenter.link_info }} <br>
+{{ presenter.name }}  
+<em>{{ presenter.title }}</em>
+{{ presenter.info }} <br>
  
 {% endfor %}
 
