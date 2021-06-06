@@ -1,6 +1,6 @@
 # Graph Lab Website
 
-This is the website of our academic research group at Australian National University.
+This is the website of our research team at Australian National University.
 
 ... under construction
 
