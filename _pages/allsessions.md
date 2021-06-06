@@ -9,7 +9,7 @@ permalink: /allsessions.html
 
 ### Weekly Study Sessions
 
-Below is a list of all weekly study sessions available in this lab site.
+Below is a list of all weekly study sessions available in this lab site:
 
 {% for presenter in site.data.group_study_presenters %}
 
