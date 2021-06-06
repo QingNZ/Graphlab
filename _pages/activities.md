@@ -20,10 +20,10 @@ permalink: /activities/
 
 {% for presenter in site.data.group_study_presenters %}
 
-{{ presenter.date }} <br>
+**{{ presenter.date }}** <br>
 {{ presenter.name }}  
 <em>{{ presenter.title }}</em>
-{{ presenter.info }} <br>
+{{ presenter.link }} <br>
  
 {% endfor %}
 
