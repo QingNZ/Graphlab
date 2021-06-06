@@ -6,13 +6,14 @@ sitemap: false
 permalink: /contact/
 --- 
 
-Contact
+**Contact:**
+<ul>
+  <li>Hanna Neumann Building 145</li>
+  <li>Canberra, ACT 0200</li>
+  <li>Australia</li>
+</ul>
 
-    <ul>
-    <li>Hanna Neumann Building 145</li>
-    <li>Canberra, ACT 0200</li>
-    <li>Australia</li>
-    </ul>
+    
    
      
 
