@@ -7,10 +7,12 @@ permalink: /contact
 ---
      
      
-     Contact:
-        Hanna Neumann Building 145
-	Canberra, ACT 0200
-	Australia
+    Contact:
+    <ul>
+    <li>Hanna Neumann Building 145</li>
+    <li>Canberra, ACT 0200</li>
+    <li>Australia</li>
+    </ul>
    
      
 
