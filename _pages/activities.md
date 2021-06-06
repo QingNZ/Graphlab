@@ -27,7 +27,9 @@ permalink: /activities/
  
 {% endfor %}
 
-<h5><a href="{{ site.url }}{{ site.baseurl }}/allsessions.html">... see all sessions</a></h5>
+<p> </p>
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allsessions.html">... see all sessions</a></h4>
 
 <br>
 
