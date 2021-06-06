@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activities/
 ---
 
-### Weekly Group Study Sessions
+### Weekly Study Sessions
 
 <p> </p>
 
