@@ -18,7 +18,7 @@ permalink: /activities/
 
 <p>**Presenters:**</p>
 
-{% for presenter in site.data.group_study_presenters %}
+{% for presenter in site.data.group_study_presenters limit:5%}
 
 **--{{ presenter.date }}** <br>
 {{ presenter.name }}  
@@ -27,7 +27,14 @@ permalink: /activities/
  
 {% endfor %}
 
+<h5><a href="{{ site.url }}{{ site.baseurl }}/allpresenters.html">... see all presenters</a></h5>
+
 <br>
+
+
+
+
+
 
 ### Conference Presentations
 
