@@ -8,6 +8,8 @@ permalink: /activities/
 
 ### Weekly Study Group
 
+<p> </p>
+
 <p>
   **Date/Time:** 2-3pm Thursdays of every month, except for the 1st Thursday
 </p>
