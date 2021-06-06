@@ -18,3 +18,7 @@ permalink: /code_datasets/
 
 
 ### Datasets
+
+<ul>
+<li>Ted Spence's home page (with datasets for graph isomorphism tests): http://www.maths.gla.ac.uk/~es/ </li>
+</ul>  
