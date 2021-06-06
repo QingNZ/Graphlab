@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activities/
 ---
 
-### Weekly Study Group
+### Weekly Group Study Sessions
 
 <p> </p>
 
@@ -27,7 +27,7 @@ permalink: /activities/
  
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allpresenters.html">... see all presenters</a></h4>
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allpresenters.html">... see all sessions</a></h4>
 
 <br>
 
