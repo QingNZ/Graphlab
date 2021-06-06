@@ -1,3 +1,11 @@
+---
+title: "Graph Lab - Code&Datasets"
+layout: textlay
+excerpt: "Graph Lab -- Code&Datasets"
+sitemap: false
+permalink: /links_code_datasets/
+---
+
 ### Code
 
 <ul>
