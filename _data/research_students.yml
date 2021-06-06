@@ -1,6 +1,6 @@
 - name: Muhammad Farhan
   photo: farhan.jpeg
-  info: PhD student
+  info: PhD Student
   area: Graph Algorithms 
   email: muhammad.farhan@anu.edu.au
   number_educ: 2
@@ -11,7 +11,7 @@
   
 - name: Masooma Iftikhar
   photo: masooma.png
-  info: PhD student
+  info: PhD Student
   area: Differential Privacy
   email: masooma.iftikhar@anu.edu.au
   number_educ: 2
@@ -22,7 +22,7 @@
   
 - name: Asiri Wijesinghe
   photo: asiri.jpeg
-  info: PhD student
+  info: PhD Student
   area: Geometric Graph Learning
   email: asiri.wijesinghe@anu.edu.au
   number_educ: 1
@@ -33,7 +33,7 @@
   
 - name: Ghodai Abdelrahman
   photo: rock.jpg
-  info: PhD student
+  info: PhD Student
   area: Knowledge Tracing
   email: ghodai.abdelrahman@anu.edu.au
   number_educ: 1
@@ -44,7 +44,7 @@
   
 - name: Fangbing Liu
   photo: rock.jpg
-  info: PhD student
+  info: PhD Student
   area: Few-shot Learning
   email: fangbing.liu@anu.edu.au
   number_educ: 2
