@@ -6,9 +6,9 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Current open positions
+# Open Positions
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+We'reYou will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 [Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf)
 
