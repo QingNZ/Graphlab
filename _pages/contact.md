@@ -1,13 +1,12 @@
 ---
-title: "Graph Lab - Contact"
+title: "Graph Lab - Projects"
 layout: textlay
-excerpt: "Graph Lab - Contact"
+excerpt: "Graph Lab -- Projects"
 sitemap: false
-permalink: /contact
----
+permalink: /contact/
+---     
      
-     
-    Contact:
+    **Contact:**
     <ul>
     <li>Hanna Neumann Building 145</li>
     <li>Canberra, ACT 0200</li>
