@@ -8,7 +8,9 @@ permalink: /activities/
 
 ### Weekly Study Group
 
-<p>**Date/Time:** 2-3pm Thursdays of every month, except for the 1st Thursday</p>
+<p>
+  **Date/Time:** 2-3pm Thursdays of every month, except for the 1st Thursday
+</p>
 
 <p>**Venue:** Board room 4.15, Hanna Neumann Building, ANU campus.</p>
 
