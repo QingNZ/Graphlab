@@ -15,7 +15,15 @@ permalink: /activities/
 <p>**Venue:** Board room 4.15, Hanna Neumann Building, ANU campus.</p>
 
 <p>**Presenters:**</p>
-...
+
+{% for presenter in site.data.group_study_presenters %}
+
+<p>{{ presenter.date }} <br>
+<p>{{ presenter,name }}  
+<em>{{ presenter.talk_title }}</em></p>
+<p>{{ presenter.link_info }} <br>
+ 
+{% endfor %}
 
 ### Conference Presentations
 
