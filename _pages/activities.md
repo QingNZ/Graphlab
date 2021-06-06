@@ -8,7 +8,7 @@ permalink: /activities/
 
 ### Weekly Study Group
 
-<br>
+<p> </p>
 
 <p>
   **Date/Time:** 2-3pm Thursdays of every month, except for the 1st Thursday
@@ -31,6 +31,7 @@ permalink: /activities/
 
 ### Conference Presentations
 
-<br>
+<p> </p>
+
 <p>To be added later</p>
 
