@@ -43,23 +43,22 @@
   education4:
   
 - name: Fangbing Liu
-  photo: rock.jpg
+  photo: fangbing.jpg
   info: PhD Student
   area: Few-shot Learning
   email: fangbing.liu@anu.edu.au
   number_educ: 2
-  education1:
-  education2:
-  education3:
+  education1: M.E., Tsinghua, China
+  education3: B.E., DUT, China
   education4:
   
 - name: Sean Li
-  photo: rock.jpg
+  photo: sean.jpg
   info: PhD Student
   area: Graph Representation Learning
   email: shouheng.li@anu.edu.au
-  number_educ: 2
-  education1:
+  number_educ: 1
+  education1: MComp. and B.Eng., ANU
   education2:
   education3:
   education4:
