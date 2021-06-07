@@ -11,7 +11,7 @@ We are a reseach team at the [School of Computing](https://cs.anu.edu.au/), Aust
 <ul>
     <li> Graph management and analysis</li>
     <li> Graph algorithms</li>
-    <li> Graph machine learning</li>
+    <li> Graph deep learning</li>
     <li> Bridging between graph theory and machine learning</li>
 </ul>
 
