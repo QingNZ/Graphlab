@@ -9,13 +9,13 @@
   education3: B.Eng., SCUT, China
 
 
-- name: xxx
-  photo: rock.jpg
-  info: xxx
-  area: xxx
-  email: xxxn@gmail.com
-  number_educ: 2
-  education1:
+- name: Brendan McKay
+  photo: brendan.jpeg
+  info: Emeritus Professor
+  area: See <a href="http://users.cecs.anu.edu.au/~bdm/">webpage</a>
+  email: Brendan.McKay@anu.edu.au
+  number_educ: 1
+  education1: Ph.D. in mathematics, University of Melbourne
   education2:
   education3:
   education4:
