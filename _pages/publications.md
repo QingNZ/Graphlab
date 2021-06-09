@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab - Publications"
+title: "Publications"
 layout: gridlay
-excerpt: "Graph Lab -- Publications."
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /publications/
 ---
