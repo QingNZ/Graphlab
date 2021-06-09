@@ -1,7 +1,7 @@
 ---
 title: "Graph Research Lab -- Activities."
 layout: gridlay
-excerpt: "Graph Research Lab -- Activities."
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /activities/
 ---
