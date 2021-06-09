@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab - Vacancies"
+title: "Opennings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /vacancies
 ---
