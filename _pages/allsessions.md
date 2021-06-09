@@ -1,7 +1,7 @@
 ---
 title: "Study Sessions"
 layout: textlay
-excerpt: "Graph Lab"
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /allsessions.html
 ---
