@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab - Team"
+title: "Team"
 layout: gridlay
-excerpt: "Graph Lab: Team members"
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /team/
 ---
