@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab - Code&Datasets"
+title: "Code&Datasets"
 layout: textlay
-excerpt: "Graph Lab -- Code&Datasets"
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /code_datasets/
 ---
