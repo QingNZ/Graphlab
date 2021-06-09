@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab - Projects"
+title: "Contact"
 layout: textlay
-excerpt: "Graph Lab -- Projects"
+excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /contact/
 --- 
