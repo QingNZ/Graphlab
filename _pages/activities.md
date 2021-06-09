@@ -1,7 +1,7 @@
 ---
-title: "Graph Lab -- Activities."
+title: "Graph Research Lab -- Activities."
 layout: gridlay
-excerpt: "Graph Lab -- Activities."
+excerpt: "Graph Research Lab -- Activities."
 sitemap: false
 permalink: /activities/
 ---
