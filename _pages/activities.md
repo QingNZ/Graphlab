@@ -22,7 +22,7 @@ permalink: /activities/
 
 **--{{ presenter.date }}** <br>
 {{ presenter.name }}  
-<em>{{ presenter.title }}</em>
+<em>{{ presenter.title }}</em> <br>
 {{ presenter.link }} <br>
  
 {% endfor %}
