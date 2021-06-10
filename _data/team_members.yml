@@ -72,17 +72,7 @@
   education1: B.Sc. and M.Sc., Helwan University, Egypt
   education2:
   education3:
-  education4:
-  
-- name: Fangbing Liu
-  photo: rock.jpg
-  info: PhD Student
-  area: Few-shot Learning
-  email: fangbing.liu@anu.edu.au
-  number_educ: 2
-  education1: M.E., Tsinghua, China
-  education2: B.E., DUT, China
-  education3:
+  education4: 
   
 - name: Sean Li
   photo: sean.jpeg
