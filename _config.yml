@@ -6,12 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Graph Lab
+title: Graph Research Lab
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > We are a reseach team at the School of Computing, Australian National University. Our overarching research goal is to explore and understand graph-structured data.
 #baseurl: ""
 #url: ""
 
@@ -43,4 +40,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-
+plugins:
+  - jekyll-sitemap
