@@ -18,7 +18,7 @@ permalink: /activities/
 
 <p>**Presenters:**</p>
 
-{% for presenter in site.data.group_study_presenters limit:5%}
+{% for presenter in site.data.group_study_presenters limit:3%}
 
 **--{{ presenter.date }}** <br>
 {{ presenter.name }}  
