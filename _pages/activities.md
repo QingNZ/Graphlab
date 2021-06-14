@@ -42,7 +42,8 @@ permalink: /activities/
 
 <p> </p>
 
-#### SIGMOD 2021: Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(slides)](https://graphlabanu.github.io/website/downloads/sigmod2021_slides.pdf):
+#### SIGMOD 2021 #### 
+Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(slides)](https://graphlabanu.github.io/website/downloads/sigmod2021_slides.pdf):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
 
 
