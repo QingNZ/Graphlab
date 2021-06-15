@@ -10,7 +10,9 @@ title: Graph Research Lab
 email: your-email@domain.com
 description: "We are a research team at the School of Computing, Australian National University. Our overarching research goal is to explore and understand graph-structured data."
 #baseurl: ""
-#url: ""
+url: ""
+plugins:
+  - jekyll-sitemap
 
 include:
   - .htaccess
@@ -40,5 +42,4 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-plugins:
-  - jekyll-sitemap
+
