@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Graph Research Lab - Publications"
 layout: gridlay
 excerpt: "Graph Research Lab @ ANU"
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 
