@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+title: "Graph Research Lab - Projects"
 layout: textlay
 excerpt: "Graph Research Lab @ ANU"
-sitemap: false
+sitemap: true
 permalink: /projects/
 ---
 
