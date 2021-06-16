@@ -1,5 +1,5 @@
 ---
-title: "Graph Research Lab - Pictures"
+title: "Graph Research Lab @ ANU - Pictures"
 layout: piclay
 excerpt: "Graph Research Lab @ ANU"
 sitemap: true
