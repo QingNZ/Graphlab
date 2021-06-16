@@ -1,8 +1,8 @@
 ---
-title: "Activities"
+title: "Graph Research Lab - Activities"
 layout: gridlay
 excerpt: "Graph Research Lab @ ANU"
-sitemap: false
+sitemap: true
 permalink: /activities/
 ---
 
