@@ -1,8 +1,8 @@
 ---
-title: "Home"
+title: "Graph Research Lab - Home"
 layout: homelay
 excerpt: "Graph Research Lab @ ANU"
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
