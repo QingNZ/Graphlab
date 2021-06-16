@@ -1,5 +1,5 @@
 ---
-title: "Graph Research Lab - Projects"
+title: "Graph Research Lab @ ANU - Projects"
 layout: textlay
 excerpt: "Graph Research Lab @ ANU"
 sitemap: true
