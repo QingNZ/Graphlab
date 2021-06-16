@@ -1,8 +1,8 @@
 ---
-title: "Contact"
+title: "Graph Research Lab- Contact"
 layout: textlay
 excerpt: "Graph Research Lab @ ANU"
-sitemap: false
+sitemap: true
 permalink: /contact/
 --- 
 
