@@ -38,12 +38,9 @@
   highlight: 1
   news2:  
   
-
-
-  
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
-  description: 
+  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution, 
   authors: J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm
   link:
     url: https://arxiv.org/pdf/2012.10004.pdf
@@ -60,6 +57,16 @@
     display: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020 (paper link)
   highlight: 0
   news2:
+  
+- title: "Dynamic Chunkwise CNN for Distantly Supervised Relation Extraction"
+  image: BigData2020-RE.png
+  description: 
+  authors: F. Liu and Q. Wang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9378317
+    display: IEEE International Conference on Big Data (IEEE BigData), 2020 (paper link)
+  highlight: 0
+  news2:  
   
 - title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
   image: NIPS2019-DFNets.png
