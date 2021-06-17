@@ -51,12 +51,20 @@ permalink: /activities/
 <p>**EDBT 2021**</p> 
 <p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf)</p>
 
+<p>**PAKDD 2021**</p> 
+<p>dK-Projection: Publishing Graph Joint degree distribution with Node Differential Privacy [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2021_slides.pdf)</p>
 
 <p>**ICDM 2020**</p> 
 <p>ErGAN: Generative Adversarial Networks for Entity Resolution [(Slides)](https://graphlabanu.github.io/website/downloads/ICDM2020_slides.pdf)</p>
 
+<p>**PAKDD 2020**</p> 
+<p>dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2020_slides.pdf)</p>
+
 <p>**SIGIR 2019**</p> 
 <p>Knowledge Tracing with Sequential Key-Value Memory Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)</p>
+
+<p>**NeurIPS 2019**</p> 
+<p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019_slides.pdf)</p>
 
 <p>**ICDM 2019**</p> 
 <p>Learning To Sample: an Active Learning Framework [(Slides)](https://graphlabanu.github.io/website/downloads/ICDM2019_slides.pdf)</p>
