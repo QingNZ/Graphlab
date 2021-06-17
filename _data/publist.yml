@@ -40,7 +40,7 @@
   
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
-  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution called ErGAN. This model consists of two key components
+  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution called ErGAN. This model consists of two key components: a label generator and a discriminator which are optimized alternatively through adversarial learning.
   authors: J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm
   link:
     url: https://arxiv.org/pdf/2012.10004.pdf
@@ -125,6 +125,16 @@
   link:
     url: https://arxiv.org/abs/1805.12319
     display: Information Systems, Volume 85, November 2019 (paper link)
+  highlight: 0
+  new2:
+    
+- title: "Repairing of Record Linkage: Turing Errors into Insight"
+  image: 
+  description: 
+  authors: Q. Bui-Nguyen, Q. Wang, J. Shao, and D. Vatsalan
+  link:
+    url: https://openproceedings.org/2019/conf/edbt/EDBT19_paper_223.pdf
+    display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
   highlight: 0
   new2:
  
