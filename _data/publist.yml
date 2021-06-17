@@ -58,6 +58,16 @@
   highlight: 1
   news2:
   
+- title: "Knowledge Tracing with Sequential Key-Value Memory Networks"
+  image: SIGIR2019-KT.jpeg
+  description: Can machines trace human knowledge like humans? Knowledge tracing (KT) is a fundamental task in a wide range of applications in education. In this work, we propose a novel deep learning KT model, namely Sequential Key-Value Memory Networks (SKVMN), which unifies the strengths of recurrent modelling capacity and memory capacity for modelling student learning.
+  authors: G. Abdelrahman and Q. Wang
+  link:
+    url: https://dl.acm.org/doi/10.1145/3331184.3331195
+    display: The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 (paper link)
+  highlight: 1
+  new2:
+  
 - title: "Publishing Differentially Private Datasets via Stable Microaggregation"
   image: 
   description: 
