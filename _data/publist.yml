@@ -28,6 +28,19 @@
   highlight: 1
   news2:
   
+- title: "Episode-Adaptive Embedding Networks for Few-Shot Learning"
+  image: PAKDD2021-FSL.png
+  description: Few-shot learning has attracted attention recently due to its potential to bridge the gap between the cognition ability of humans and the generalization ability of machine learning models. We propose Episode Adaptive Embedding Networks (EAENs), which leverage the probability distributions of all instances in an episode to extract representative episode-specific features.
+  authors: F. Liu and Q. Wang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-75768-7_1
+    display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
+  highlight: 1
+  news2:  
+  
+
+
+  
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
   description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning method for entity resolution, called ErGAN. ErGAN consists of two key components: a label generator and a discriminator which are optimized alternatively through adversarial learning.
