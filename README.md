@@ -1,4 +1,4 @@
-# Graph Lab Website
+# Graph Research Lab Website
 
 This is the website of our research team at Australian National University.
 
