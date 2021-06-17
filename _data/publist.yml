@@ -27,6 +27,16 @@
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
   highlight: 1
   news2:
+  
+- title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
+  image: ICDM2020-ErGAN.png
+  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning method for entity resolution, called ErGAN. ErGAN consists of two key components: a label generator and a discriminator which are optimized alternatively through adversarial learning.
+  authors: J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm
+  link:
+    url: http://users.cecs.anu.edu.au/~u5170295/papers/icdm-shao-2020-extended.pdf
+    display: IEEE International Conference on Data Mining (ICDM), 2020 (paper link)
+  highlight: 1
+  new2:
     
 - title: "dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees"
   image: 
@@ -64,7 +74,7 @@
   authors: G. Abdelrahman and Q. Wang
   link:
     url: https://dl.acm.org/doi/10.1145/3331184.3331195
-    display: The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 (paper link)
+    display: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 (paper link)
   highlight: 1
   new2:
   
