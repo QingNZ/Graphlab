@@ -40,7 +40,7 @@
   
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
-  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution. This model consists of two key components: a label generator and a discriminator which are optimized alternatively through adversarial learning.
+  description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution called ErGAN. This model consists of two key components
   authors: J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm
   link:
     url: https://arxiv.org/pdf/2012.10004.pdf
@@ -116,6 +116,16 @@
     url: https://arxiv.org/abs/1909.03585
     display: IEEE International Conference on Data Mining (ICDM), 2019 (paper link)
   highlight: 1
+  new2:
+ 
+- title: "Skyblocking for Entity Resolution"
+  image: 
+  description: 
+  authors: J. Shao, Q. Wang and Y. Lin
+  link:
+    url: https://arxiv.org/abs/1805.12319
+    display: Information Systems, Volume 85, November 2019 (paper link)
+  highlight: 0
   new2:
  
 - title: "FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks"
