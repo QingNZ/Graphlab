@@ -51,6 +51,13 @@ permalink: /activities/
 <p>**EDBT 2021**</p> 
 <p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf)</p>
 
+<img src="https://graphlabanu.github.io/website/downloads/EDBT2021_poster.png" width="560" height="315">
+
+
+<iframe frameborder="0" scrolling="no" width="560" height="315"
+   src="https://graphlabanu.github.io/website/downloads/EDBT2021_poster.png" name="imgbox" id="imgbox">
+</iframe><br />
+
 <p>**PAKDD 2021**</p> 
 <p>dK-Projection: Publishing Graph Joint degree distribution with Node Differential Privacy [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2021_slides.pdf)</p>
 
