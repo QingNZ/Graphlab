@@ -107,6 +107,16 @@
     display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
   highlight: 0
   news2: 
+  
+- title: "Learning to Sample: an Active Learning Framework"
+  image: ICDM2019-LTS.png
+  description: Meta-learning algorithms for active learning are emerging as a promising paradigm for learning the "best" active learning strategy. However, current learning-based active learning approaches still require sufficient training data so as to generalize meta-learning models for active learning. This is contrary to the nature of active learning which typically starts with a small number of labeled samples.
+  authors: J. Shao, Q. Wang and F. Liu
+  link:
+    url: https://arxiv.org/abs/1909.03585
+    display: IEEE International Conference on Data Mining (ICDM), 2019 (paper link)
+  highlight: 1
+  new2:
  
 - title: "FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks"
   image: WSDM2018-FACH.png
