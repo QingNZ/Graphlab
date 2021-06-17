@@ -33,7 +33,7 @@
   description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning method for entity resolution, called ErGAN. ErGAN consists of two key components: a label generator and a discriminator which are optimized alternatively through adversarial learning.
   authors: J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm
   link:
-    url: http://users.cecs.anu.edu.au/~u5170295/papers/icdm-shao-2020-extended.pdf
+    url: https://arxiv.org/pdf/2012.10004.pdf
     display: IEEE International Conference on Data Mining (ICDM), 2020 (paper link)
   highlight: 1
   new2:
