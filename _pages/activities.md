@@ -46,9 +46,14 @@ permalink: /activities/
 
 <br>
 
+
+
+<p>**EDBT 2021**</p> 
+<p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf)</p>
+
+
 <p>**ICDM 2020**</p> 
 <p>ErGAN: Generative Adversarial Networks for Entity Resolution [(Slides)](https://graphlabanu.github.io/website/downloads/ICDM2020_slides.pdf)</p>
-
 
 <p>**SIGIR 2019**</p> 
 <p>Knowledge Tracing with Sequential Key-Value Memory Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)</p>
