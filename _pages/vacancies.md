@@ -33,10 +33,12 @@ The following conditions are preferred but not compulsory: (1) have previously d
 **Application** <br />
 
 Please email your inquiries/applications to A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>) with the subject 'PhD Application' and the following documents: <br />
-(1) You need to attach a motivation letter (max one page) on why you would like	to join our team and about your research interests. <br />
-(2) Please also attach a CV, academic transcripts, previous research work, e.g., Honors/Masters thesis, papers, etc. There is no need to send certificates. <br />
-(3) Please indicate whether you are in Australia (on-shore) or outside of Australia (off-shore). Also, please indicate your country of citizenship.
-
+<ol type = "1">
+<li> You need to attach a motivation letter (max one page) on why you would like	to join our team and about your research interests. </li>
+<li> Please also attach a CV, academic transcripts, previous research work, e.g., Honors/Masters thesis, papers, etc. There is no need to send certificates. </li>
+<li> Please indicate whether you are in Australia (on-shore) or outside of Australia (off-shore). Also, please indicate your country of citizenship.</li>
+</ol>
+  
 Please note that short-listed applicants for these PhD scholarships will need to apply for admission to a PhD program following the ANU HDR policy and meet the language requirements by ANU. We will provide you further information once you are selected.
 
 <p></p>
