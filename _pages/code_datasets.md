@@ -11,6 +11,7 @@ permalink: /code_datasets/
 <ul>
 <li>Distributed Feedback-Looped Networks (DFNets): <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a></li>
 <li>Highway Labelling (HL): <a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a></li>
+<li>Episode Adaptive Embedding Networks (EAENs): <a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398">(paper link)</a></li>
 </ul>
 
 
