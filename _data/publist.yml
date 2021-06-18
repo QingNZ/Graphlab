@@ -137,6 +137,16 @@
     display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
   highlight: 0
   new2:
+  
+- title: "Active Blocking Scheme Learning for Entity Resolution"
+  image: 
+  description: 
+  authors: J. Shao and Q. Wang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-93037-4_28
+    display: The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2018 (paper link)
+  highlight: 0
+  news2: 
  
 - title: "FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks"
   image: WSDM2018-FACH.png
