@@ -78,7 +78,7 @@ permalink: /team/
 {% assign number_printed = 0 %}
 {% for member in site.data.research_students %}
 
-{% assign even_odd = number_printed | modulo: 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
