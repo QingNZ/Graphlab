@@ -135,7 +135,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-{% for member in site.data.research-students %}
+{% for member in site.data.research_students %}
 {{ member.name }}
 {{ member.info }}
 {{ member.area }}
