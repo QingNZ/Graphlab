@@ -53,6 +53,10 @@ permalink: /activities/
 
 <br>
 
+<iframe width="560" height="380" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf&embedded=true" frameborder="0"></iframe>
+
+<br>
+
 <p>**PAKDD 2021**</p> 
 <p>dK-Projection: Publishing Graph Joint degree distribution with Node Differential Privacy [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2021_slides.pdf)</p>
 
