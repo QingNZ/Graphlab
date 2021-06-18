@@ -1,1 +1,17 @@
-
+- name: Jingyu Shao
+  photo:
+  info: PhD Student (Thesis under Examination)
+  area: Entity Resolution; Active Learning 
+  email: jingyu.shao@anu.edu.au
+  
+- name: Ye Wang
+  photo:
+  info: MPhil Student (Thesis under Examination)
+  area: Graph Algorithms
+  email: ye.wang2@anu.edu.au
+  
+- name: Mojtaba Rezvani
+  photo:
+  info: PhD Student (Graduated)
+  area: Community Detection
+  email: 
