@@ -53,7 +53,7 @@ permalink: /activities/
 
 <br>
 
-<iframe width="560" height="380" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf&embedded=true" frameborder="0"></iframe>
+<iframe width="560" height="380" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
 
 <br>
 
