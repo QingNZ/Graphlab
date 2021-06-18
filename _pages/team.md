@@ -74,19 +74,18 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+## Former Students
 {% assign number_printed = 0 %}
 {% for member in site.data.research_students %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> 
   <br><strong>Email:</strong> {{ member.email }}
   <br><strong>Research area:</strong> {{ member.area }}
@@ -131,14 +130,4 @@ permalink: /team/
 {% endif %}
 
 
-## Former Students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-{% for member in site.data.research_students %}
-{{ member.name }}
-{{ member.info }}
-{{ member.area }}
-{% endfor %}
-</div>
 
