@@ -68,7 +68,7 @@ permalink: /activities/
 <p>**NeurIPS 2019**</p> 
 <p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019_slides.pdf)</p>
 
-<img src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.png" width="560" height="360">
+<iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
 
 <br>
 
