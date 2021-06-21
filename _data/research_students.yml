@@ -1,6 +1,6 @@
-- name: Jingyu Shao <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
+- name: Jingyu Shao 
   photo:
-  info: PhD Student (Thesis under Examination)
+  info: PhD Student (Thesis under Examination) <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
   topic: Entity Resolution with Active Learning 
   thesis: <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">Presentation Slides</a>
   email: jingyu.shao@anu.edu.au
