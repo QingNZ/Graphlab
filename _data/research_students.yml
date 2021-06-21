@@ -1,17 +1,20 @@
-- name: Jingyu Shao
+- name: Jingyu Shao <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
   photo:
   info: PhD Student (Thesis under Examination)
-  area: Entity Resolution with Active Learning 
+  topic: Entity Resolution with Active Learning 
+  thesis: <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">Presentation Slides</a>
   email: jingyu.shao@anu.edu.au
   
 - name: Ye Wang
   photo:
   info: MPhil Student (Thesis under Examination)
-  area: Exploring Shortest Paths on Large-Scale Networks
+  topic: Exploring Shortest Paths on Large-Scale Networks
+  thesis: <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">Presentation Slides</a>
   email: ye.wang2@anu.edu.au
   
 - name: Mojtaba Rezvani
   photo:
   info: PhD Student (Graduated)
-  area: Community Structure in Large-Scale Complex Networks
+  topic: Community Structure in Large-Scale Complex Networks
+  thesis: <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">Thesis</a>
   email: 
