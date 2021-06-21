@@ -88,7 +88,7 @@ permalink: /team/
    <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> 
   <br><strong>Thesis topic:</strong> {{ member.topic }}
-  <br><strong>Info:</strong>{{ member.thesis }}
+  <br><strong>Thesis info:</strong> {{ member.thesis }}
   <ul style="overflow: hidden">
 
 
