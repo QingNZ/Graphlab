@@ -87,7 +87,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
    <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> 
-  <br><strong>Thesis topic:</strong> {{ member.area }}
+  <br><strong>Thesis topic:</strong> {{ member.topic }}
+  <br>{{ member.thesis }}
   <ul style="overflow: hidden">
 
 
