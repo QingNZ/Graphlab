@@ -86,7 +86,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   {% if member.photo_status == 1 %}
- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> 
