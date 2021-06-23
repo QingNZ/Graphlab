@@ -2,22 +2,27 @@
   photo: jingyu.jpg
   photo_status: 1
   info: PhD Student (Thesis under Examination) <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
-  topic: Entity Resolution with Active Learning 
-  thesis: <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">Presentation Slides</a>
+  topic: Entity Resolution with Active Learning <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">Presentation Slides</a>
   email: jingyu.shao@anu.edu.au
+  number_educ: 2
+  education1: Master by Research, UTS, Australia
+  education2: B.Sc. in Automation Science, Beihang, China
   
 - name: Ye Wang
   photo:
   photo_status: 0
   info: MPhil Student (Thesis under Examination)
-  topic: Exploring Shortest Paths on Large-Scale Networks
-  thesis: <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">Presentation Slides</a>
+  topic: Exploring Shortest Paths on Large-Scale Networks <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">Presentation Slides</a>
   email: ye.wang2@anu.edu.au
+  number_educ: 1
+  education1: B.Sc. in CS, HIT, China
   
 - name: Mojtaba Rezvani
   photo:
   photo_status: 0
   info: PhD Student (Graduated)
-  topic: Community Structure in Large-Scale Complex Networks
-  thesis: <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">Thesis</a>
-  email: 
+  topic: Community Structure in Large-Scale Complex Networks <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">Thesis</a>
+  email:
+  number_educ: 2
+  education1: M.Sc. in CS, AUT, Iran
+  education2: B.Sc. in CS, UQ, Iran
