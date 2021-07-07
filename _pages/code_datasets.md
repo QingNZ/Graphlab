@@ -13,9 +13,8 @@ permalink: /code_datasets/
    <div class="well">
   
   <p><strong><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> Distributed Feedback-Looped Networks (DFNets) </a></strong></p>
-    <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>
+  <p><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p>
   <p><em>publi.authors</em></p>
-  <p> publi.news2 </p>
    </div>
   </div>
  </div>
