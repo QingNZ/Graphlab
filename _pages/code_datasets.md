@@ -14,11 +14,7 @@ permalink: /code_datasets/
      -- <strong>Distributed Feedback-Looped Networks(DFNets)</strong>: <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>
    </div>
   </div> 
-  <div class="col-sm-20 clearfix">
-   <div class="well">
-     <p>-- <strong>Highway Labelling (HL)</strong>: <a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a></p>
-   </div>
-  </div>
+
  </div>
 </div>
  
