@@ -7,23 +7,13 @@ permalink: /code_datasets/
 ---
 
 ### Code
-<div class="row">
-  <div class="col-sm-20 clearfix">
-   <div class="well">
-    <p>-- <strong>Distributed Feedback-Looped Networks(DFNets)</strong>: <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p>
-     
-     <p> publi.description </p>
-   </div>
-  </div> 
-</div>
 
  <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-20 clearfix">
  <div class="well">
-  <pubtit> publi.title </pubtit>
-   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p>  publi.news2 </p>
+    <p>-- <strong>Distributed Feedback-Looped Networks(DFNets)</strong>: <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p>
+
  </div>
 </div>
 
