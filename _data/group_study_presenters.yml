@@ -1,19 +1,19 @@
-- date: 10 June 2021
-  name: Masooma Iftikhar
-  title: Analyzing Subgraph Statistics from Extended Local Views with Decentralized Differential Privacy, Sun et al., ACM SIGSAC Conference on Computer and Communications Security, 2019
-  link: <a href="https://dl.acm.org/doi/pdf/10.1145/3319535.3354253">Click here</a>
-
-- date: 17 June 2021
-  name: Muhammad Farhan
-  title: Distance Preserving Graph Simplification, Ruan et al., IEEE 11th International Conference on Data Mining, 2011
-  link: <a href="https://arxiv.org/abs/1110.0517">Click here</a>
+- date: 8 July 2021
+  name: Fangbing Liu
+  title: Beyond Homophily in Graph Neural Networks - Current Limitations and Effective Designs, Zhu et al., 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
+  link: <a href="https://proceedings.neurips.cc/paper/2020/file/58ae23d878a47004366189884c2f8440-Paper.pdf">Click here</a>
 
 - date: 24 June 2021
   name: Gefei Zhang
   title: Probabilistic Subgraph Matching Based on Convex Relaxation, Schellewald and Schnorr, International conference on Energy Minimization Methods in Computer Vision and Pattern Recognition, 2005
   link: <a href="https://ipa.iwr.uni-heidelberg.de/ipabib/Papers/EMMCVPR05Schellewald_Probabilistic.pdf">Click here</a>
+  
+- date: 17 June 2021
+  name: Muhammad Farhan
+  title: Distance Preserving Graph Simplification, Ruan et al., IEEE 11th International Conference on Data Mining, 2011
+  link: <a href="https://arxiv.org/abs/1110.0517">Click here</a>
    
-- date: 8 July 2021
-  name: Fangbing Liu
-  title: Beyond Homophily in Graph Neural Networks - Current Limitations and Effective Designs, Zhu et al., 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
-  link: <a href="https://proceedings.neurips.cc/paper/2020/file/58ae23d878a47004366189884c2f8440-Paper.pdf">Click here</a>
+- date: 10 June 2021
+  name: Masooma Iftikhar
+  title: Analyzing Subgraph Statistics from Extended Local Views with Decentralized Differential Privacy, Sun et al., ACM SIGSAC Conference on Computer and Communications Security, 2019
+  link: <a href="https://dl.acm.org/doi/pdf/10.1145/3319535.3354253">Click here</a>
