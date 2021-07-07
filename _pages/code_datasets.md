@@ -11,10 +11,10 @@ permalink: /code_datasets/
  <div class="row">
   <div class="col-sm-6 clearfix">
    <div class="well">
-    <li>Distributed Feedback-Looped Networks (DFNets): <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></li>
+  
+  <p><strong><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> Distributed Feedback-Looped Networks (DFNets) </a></strong></p>
+    <a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>
   <p><em>publi.authors</em></p>
-  <p><strong><a href=""> publi.link.display </a></strong></p>
-  <p class="text-danger"><strong> publi.news1 </strong></p>
   <p> publi.news2 </p>
    </div>
   </div>
