@@ -12,3 +12,8 @@
   name: Gefei Zhang
   title: Probabilistic Subgraph Matching Based on Convex Relaxation, Schellewald and Schnorr, International conference on Energy Minimization Methods in Computer Vision and Pattern Recognition, 2005
   link: <a href="https://ipa.iwr.uni-heidelberg.de/ipabib/Papers/EMMCVPR05Schellewald_Probabilistic.pdf">Click here</a>
+   
+- date: 8 July 2021
+  name: Fangbing Liu
+  title: Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs, Zhu et al., 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
+  link: <a href="https://proceedings.neurips.cc/paper/2020/file/58ae23d878a47004366189884c2f8440-Paper.pdf">Click here</a>
