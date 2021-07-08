@@ -1,1 +1,10 @@
-
+- name: Dongwoo Kim
+  photo: dongwoo.jpeg
+  info: Assistant Professor
+  affiliation: POSTECH, South Korea
+  area: See <a href="http://dongwookim-ml.github.io/">webpage</a>
+  email: dongwookim@postech.ac.kr
+  number_educ: 1
+  education1: Ph.D. in CS, KAIST, South Korea
+  education2: 
+  education3: 
