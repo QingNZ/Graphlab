@@ -140,7 +140,9 @@ permalink: /team/
 </div>
 {% endif %}
 
+</br>
 ### Former Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.research_students %}
 
