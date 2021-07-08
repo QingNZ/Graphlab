@@ -1,3 +1,14 @@
+
+- title: "Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs"
+  image: PKDD2021-ASGAT.png
+  description: Many graph neural networks (GNNs) assume local homophily, i.e., strong similarities in local neighborhoods. This assumption however limits the generalizability power of GNNs. To address this limitation, we propose a flexible GNN model, which is capable of handling any graphs without being restricted by their underlying homophily. 
+  authors: S. Li, D. Kim, and Q. Wang
+  link:
+    url: https://arxiv.org/abs/2103.14187
+    display: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 (paper link)
+  highlight: 1
+  news2:
+  
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-SPG.png
   description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
