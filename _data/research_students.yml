@@ -19,7 +19,7 @@
   
 - name: Mojtaba Rezvani
   photo: omid.jpeg
-  photo_status: 0
+  photo_status: 1
   info: PhD Student (Graduated) <a href="http://users.cecs.anu.edu.au/~u5410055/">(webpage)</a>
   topic: Community Structure in Large-Scale Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Omid_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">(Thesis)</a>
   email:
