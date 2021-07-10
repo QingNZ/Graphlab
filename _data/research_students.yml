@@ -9,8 +9,8 @@
   education2: B.Sc. in Automation, Beihang, China
   
 - name: Ye Wang
-  photo:
-  photo_status: 0
+  photo: ye.jpg
+  photo_status: 1
   info: MPhil Student (Thesis under Examination)
   topic: Exploring Shortest Paths on Large-Scale Networks <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">(Presentation slides)</a>
   email: ye.wang2@anu.edu.au
