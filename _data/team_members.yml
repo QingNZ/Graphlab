@@ -32,7 +32,7 @@
 
 - name: Muhammad Farhan
   photo: farhan.jpeg
-  info: PhD Student See <a href="https://mufarhan.github.io">webpage</a>
+  info: PhD Student (<a href="https://mufarhan.github.io">webpage</a>)
   area: Graph Algorithms 
   email: muhammad.farhan@anu.edu.au
   number_educ: 2
