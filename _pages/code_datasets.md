@@ -29,13 +29,7 @@ permalink: /code_datasets/
  <div class="col-sm-19 clearfix">
   <div class="well">
    <img src="../images/letters/letter-e.png" alt="H" width="50"><strong>  Episode Adaptive Embedding Networks (EAENs): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a> 
-  </div>
- </div>
 
- 
- 
-<div class="col-sm-19 clearfix">
- <div class="well">
    <img src="../images/letters/letter-r.png" alt="H" width="50"><strong>  Declarative Framework for Network Analytics (Rogas): </strong><a href="https://github.com/CornucopiaRG/Rogas">https://github.com/CornucopiaRG/Rogas</a> <a href="https://dl.acm.org/doi/10.14778/3007263.3007309"> (paper link)</a> 
  
  </div>
