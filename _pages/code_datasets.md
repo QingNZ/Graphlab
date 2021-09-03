@@ -12,9 +12,9 @@ permalink: /code_datasets/
  
  <div class="col-sm-19 clearfix">
   <div class="well">
-   <img src="../images/letters/letter-d.png" alt="D" width="50"><strong>  Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>  
+   <img src="../images/letters/letter-d.png" alt="D" width="50"><strong>  Distributed Feedback-Looped Network (DFNet): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>  
 
-   <img src="../images/letters/letter-e.png" alt="E" width="50"><strong>  Episode Adaptive Embedding Networks (EAENs): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a> 
+   <img src="../images/letters/letter-e.png" alt="E" width="50"><strong>  Episode Adaptive Embedding Network (EAEN): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a> 
 
    <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>  Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
 
