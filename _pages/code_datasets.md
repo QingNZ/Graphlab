@@ -9,6 +9,12 @@ permalink: /code_datasets/
 ### Code
 
  <div class="row">
+ 
+ <div class="col-sm-20 clearfix">
+ <div class="well">
+   <p><strong>#1. Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a></p> 
+ 
+ </div>
 
 <div class="col-sm-20 clearfix">
  <div class="well">
@@ -19,7 +25,7 @@ permalink: /code_datasets/
  
  <div class="col-sm-20 clearfix">
   <div class="well">
-    <p>[![H](/images/letters/letter-h.png)](https://github.com/mufarhan/highway_labelling) <strong> Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a></p> 
+   [![H](/images/letters/letter-h.png)](https://github.com/mufarhan/highway_labelling) <p><strong> Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a></p> 
  
  </div>
 </div>
