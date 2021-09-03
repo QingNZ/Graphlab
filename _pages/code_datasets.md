@@ -12,17 +12,17 @@ permalink: /code_datasets/
  
  <div class="col-sm-20 clearfix">
  <div class="well">
-   <p><strong>#1. Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a></p> 
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a> 
  
  </div>
  </div> 
 
 <div class="col-sm-20 clearfix">
  <div class="well">
-   <img src="../images/letters/letter-h.png" alt="H" width="50"><p><strong>#1. Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p> 
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>#1. Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a> 
  
  </div>
- 
+ </div>
  
  <div class="col-sm-20 clearfix">
   <div class="well">
@@ -30,20 +30,23 @@ permalink: /code_datasets/
  
    
  </div>
+ </div>
 
 
  <div class="col-sm-20 clearfix">
   <div class="well">
-   <p><strong>#3. Episode Adaptive Embedding Networks (EAENs): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a></p> 
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>#3. Episode Adaptive Embedding Networks (EAENs): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a> 
  
+ </div>
  </div>
 
  
  
 <div class="col-sm-20 clearfix">
  <div class="well">
-   <p><strong>#4. Declarative Framework for Network Analytics (Rogas): </strong><a href="https://github.com/CornucopiaRG/Rogas">https://github.com/CornucopiaRG/Rogas</a> <a href="https://dl.acm.org/doi/10.14778/3007263.3007309"> (paper link)</a></p> 
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>#4. Declarative Framework for Network Analytics (Rogas): </strong><a href="https://github.com/CornucopiaRG/Rogas">https://github.com/CornucopiaRG/Rogas</a> <a href="https://dl.acm.org/doi/10.14778/3007263.3007309"> (paper link)</a> 
  
+ </div>
  </div>
  
 </div>
