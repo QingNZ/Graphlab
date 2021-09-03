@@ -19,7 +19,7 @@ permalink: /code_datasets/
 
 <div class="col-sm-20 clearfix">
  <div class="well">
-   <p><strong>#1. Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p> 
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><p><strong>#1. Distributed Feedback-Looped Networks (DFNets): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a></p> 
  
  </div>
  
@@ -28,7 +28,7 @@ permalink: /code_datasets/
   <div class="well">
    [![H](../images/letters/letter-h.png)](https://github.com/mufarhan/highway_labelling) <strong> Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
  
-   <img src="../images/letters/letter-h.png" alt="H" width="50">
+   
  </div>
 
 
