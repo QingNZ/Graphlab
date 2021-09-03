@@ -25,7 +25,7 @@ permalink: /code_datasets/
  
  <div class="col-sm-20 clearfix">
   <div class="well">
-   [![H](../images/letters/letter-h.png)]{: width="50" }(https://github.com/mufarhan/highway_labelling) <strong> Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
+   [![H](../images/letters/letter-h.png:img?width=50)](https://github.com/mufarhan/highway_labelling) <strong> Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
  
  </div>
 
