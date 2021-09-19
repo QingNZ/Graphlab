@@ -1,9 +1,9 @@
 ---
 title: "Graph Research Lab @ ANU - Projects"
-layout: textlay
+layout: project
 excerpt: "Graph Research Lab @ ANU"
 sitemap: true
-permalink: /projects/
+permalink: /test/
 ---
 
 ### Current Projects
