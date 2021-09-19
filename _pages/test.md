@@ -14,7 +14,39 @@ Below are some projects that we currently work on:
 
 Below is an example of an isomorphism between two graphs, which is the mapping: 1 &#x2192; A, 2 &#x2192; B, 3 &#x2192; F, 4 &#x2192; E, 5 &#x2192; G, 6 &#x2192; C, 7 &#x2192; I, 8 &#x2192; D, 9 &#x2192; H (practical problems can have millions of vertices):
 
-![]({{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi2.png){: style="width: 600px; float: center; margin: 10px  10px"}
+
+{% assign number_printed = 0 %}
+{% for proli in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ proli.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
 
 **Geometric Graph Learning.** Geometric deep learning is an emerging field of machine learning, which aims to apply deep learning techniques to learn from complex data like graphs and multi-dimensional points. In recent years, due to the rising trends in network analysis and prediction, Graph Neural Networks (GNNs) as a powerful deep learning approach have been widely applied in various fields, e.g., object recognition, image classification, and semantic segmentation. However, graphs are in irregular non-Euclidean domains. This brings up the challenge of how to design deep learning techniques in order to effectively extract useful features from arbitrary graphs. In this project, we aim to explore the mathematical foundations of GNNs and develop a general framework for deriving neural network architectures on graphs in a principled way.  
 
