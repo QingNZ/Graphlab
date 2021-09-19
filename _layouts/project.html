@@ -2,16 +2,8 @@
 layout: default
 ---
 
-<div id="sidebar" class="col-sm-4">
-       
-<div class="well">
-   <h4>Current Projects</h4>
-
-{% for project in site.data.projects %}
-<p>{{ project.title }}</p>
-{% endfor %}
-
-    </div>
+  <div id="sidebar" class="col-sm-4" >
+	{% include sidebar.html %}
   </div>
   <div id="projectid" class="col-sm-8" >
 	{{ content }}
