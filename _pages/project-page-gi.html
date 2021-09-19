@@ -1,0 +1,47 @@
+---
+title: "Graph Research Lab @ ANU - Projects"
+layout: textlay
+excerpt: "Graph Research Lab @ ANU"
+sitemap: true
+permalink: /project-page-gi
+---
+
+**Deep Learning for Graph Isomorphism** 
+
+Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
+
+Below is an example of an isomorphism between two graphs, which is the mapping: 1 &#x2192; A, 2 &#x2192; B, 3 &#x2192; F, 4 &#x2192; E, 5 &#x2192; G, 6 &#x2192; C, 7 &#x2192; I, 8 &#x2192; D, 9 &#x2192; H (practical problems can have millions of vertices):
+
+
+{% assign number_printed = 0 %}
+{% for project in site.data.projects %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ proli.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
