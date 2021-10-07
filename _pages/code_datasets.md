@@ -25,7 +25,7 @@ _(listed in alphabetical order of the model/algorithm/method names)_
 
    <img src="../images/letters/letter-q.png" alt="Q" width="50"><strong>  Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a> 
    
-   <img src="../images/letters/letter-r.png" alt="R" width="50"><strong>  Regularized Wasserstein Kernels (RWK): </strong><a href="https://github.com/wokas36/RWK">https://github.com/wokas36/RWK</a> <a href="https://arxiv.org/pdf/2110.02554.pdf"> (paper link)</a>
+   <img src="../images/letters/letter-r.png" alt="R" width="50"><strong>  Regularized Wasserstein Kernel (RWK): </strong><a href="https://github.com/wokas36/RWK">https://github.com/wokas36/RWK</a> <a href="https://arxiv.org/pdf/2110.02554.pdf"> (paper link)</a>
    
    <img src="../images/letters/letter-r.png" alt="R" width="50"><strong>  Declarative Framework for Network Analytics (Rogas): </strong><a href="https://github.com/CornucopiaRG/Rogas">https://github.com/CornucopiaRG/Rogas</a> <a href="https://dl.acm.org/doi/10.14778/3007263.3007309"> (paper link)</a>
       
