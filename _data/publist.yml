@@ -1,6 +1,6 @@
 - title: "A Regularized Wasserstein Framework for Graph Kernels"
   image: ICDM2021-RWF.png
-  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the convergence and numerical stability in optimization.
+  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
   authors: A. Wijesinghe, Q. Wang and S. Gould
   link:
     url: https://arxiv.org/pdf/2110.02554.pdf
