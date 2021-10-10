@@ -39,7 +39,7 @@
   news2:
  
 - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
-  image: PAKDD2021-dK-Project.png
+  image: PAKDD2021-dK.jpg
   description: Many networks such as social networks often contain sensitive relationships among individuals, (e.g., friendships and acquaintances) or sensitive attributes of individuals (e.g., age, location and race). We develop a framework for publishing higher-order network statistics, i.e., joint degree distribution, under strong mathematical guarantees of node differential privacy.
   authors: M. Iftikhar and Q. Wang
   link:
