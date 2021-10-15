@@ -10,7 +10,6 @@ permalink: /vacancies
 
 ** Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs" **
 
-<div style="float:left; width: 50%;"><i class="fa fa-info-circle"><b> </b>Application deadline: 5 November</div>
   
   [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
 
