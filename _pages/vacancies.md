@@ -8,17 +8,15 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-* Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"
+** Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs" **
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b> </b>Application deadline: 5 November</div>
+<div style="float:left; width: 50%;"><i class="fa fa-info-circle"><b> </b>Application deadline: 5 November</div>
   
   [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
 
-* ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs" 
+** ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs" **
 
   [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
-
-### PhD Scholarships - "Deep Learning for Graphs" 
 
 Supported by a grant from the Australian Research Council, we are currently looking for new PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. Each PhD student will have their own PhD project under the joint supervision of Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team.	
 
