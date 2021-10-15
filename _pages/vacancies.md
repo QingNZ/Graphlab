@@ -8,24 +8,24 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-** Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs" **
+**Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"**
 
   
   [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
 
-** ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs" **
+**ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs"**
 
   [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
 Supported by a grant from the Australian Research Council, we are currently looking for new PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. Each PhD student will have their own PhD project under the joint supervision of Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team.	
 
 
-**Scholarship information** <br />
+***Scholarship information*** <br />
 
 Two PhD scholarships are available, each including a living allowance of $28,597 per annum with a waived tuition fee, in accordance with the standard of ANU University Research Scholarships. The successful applicants will be supported by the scholarship for 3.5 years. 
 
 
-**Eligibility (please do not apply if these conditions are not met)** 
+***Eligibility (please do not apply if these conditions are not met)*** 
 -  A Bachelor/Masters degree in computing or mathematics with first-class honours or equivalent; <br />
 -  Excellent programming skills; <br />
 -  Strong interest in mathematics or theoretical computer science; <br />
@@ -33,12 +33,12 @@ Two PhD scholarships are available, each including a living allowance of $28,597
 
 <p></p>
 
-**Preferences** <br />
+***Preferences*** <br />
 
 The following conditions are preferred but not compulsory: (1) have previously done some research work, particularly in the area of machine learning, and (2) have a good knowledge of graph theory or related subjects.
 
 
-**Application** <br />
+***Application*** <br />
 
 Please email your inquiries/applications to A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>) with the subject 'PhD Application' and the following documents: <br />
 <ol type = "1">
@@ -51,12 +51,12 @@ Please note that short-listed applicants for these PhD scholarships will need to
 
 <p></p>
 
-**Timeline** <br />
+***Timeline*** <br />
 
-We	will start reviewing applications from the middle of July 2021, until the positions are filled. For on-shore students, you can start this year as soon as you receive an offer or early 2022. For off-shore students, due to the current border restriction in Australia, you can start in the first half of 2022 or earlier as soon as the Australian border restriction is lifted. 
+We	will review applications until the positions are filled. For onshore students, you can start this year as soon as you receive an offer or early 2022. For offshore students, due to the current border restriction in Australia, you can start in the first half of 2022 or earlier as soon as the Australian border restriction is lifted. 
 
 
-**Other information**
+***Other information***
 
 - ANU School of Computing: <a href="https://cs.anu.edu.au/">https://cs.anu.edu.au/</a> <br />
 - ANU College of Engineering and Computer Science webpage for PhD & MPhil applicants: <a href="https://cecs.anu.edu.au/study/phd-mphil">https://cecs.anu.edu.au/study/phd-mphil</a><br />
