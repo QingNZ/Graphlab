@@ -5,7 +5,19 @@ excerpt: "Graph Research Lab @ ANU"
 sitemap: false
 permalink: /vacancies
 ---
-[PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
+
+### Current open opportunities:
+
+* Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"
+
+
+  <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b> </b> It's only open to onshore students. Application deadline is 5 November.</div>
+  
+  [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
+
+* ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs" 
+
+  [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
 ### PhD Scholarships - "Deep Learning for Graphs" 
 
