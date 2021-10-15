@@ -8,7 +8,9 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-* Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b> </b>Application deadline: 5 November.</div>
+* Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b> </b>Application deadline: 5 November</div>
   
   [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
 
