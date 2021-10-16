@@ -12,7 +12,7 @@ permalink: /vacancies
 #### 1. Data61 PhD opportunities ####
 
 There are some PhD opportunities with potential full scholarships available for those interested in research
-involving privacy-preserving graph analytics and active learning for data linkage. ***The application deadline is 5 November.*** 
+involving machine learning and data privacy. ***The application deadline is 5 November.*** 
 
 #### Project 1: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
