@@ -7,8 +7,9 @@ permalink: /vacancies
 ---
 
 ### Current open opportunities:
+<p> </p>
 
-#### <strong>1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" </strong>
+#### 1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
 [Project description]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
