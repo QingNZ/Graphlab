@@ -9,16 +9,13 @@ permalink: /vacancies
 ### Current open opportunities:
 <br/>
 
-#### 1. Data61 PhD opportunities ####
+#### 1. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" ####
+
+[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
 There are some PhD opportunities with potential full scholarships available for those interested in research
 involving machine learning and data privacy. ***The application deadline is 5 November.*** 
 
-&nbsp;
-
-#### Project 1: "Privacy-Enhanced Analytics on Evolving Graphs" ####
-
-[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
 
 
@@ -30,24 +27,15 @@ techniques.
 * Some experience with programming languages (e.g. Python, R) and Privacy-Enhancing
 Technologies.
 
-#### Project 2: "Privacy-Preserving Active Learning for Data Linkage" ####
 
-[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity2.pdf) 
 
-**Skills/Capability required** 
-
-* Bachelor's degree in Computer Science or relevant field.
-* Programming experience in Python and deep learning tools such as TensorFlow or PyTorch.
-* Knowledge in privacy-enhancing technologies and machine learning is preferable.
-
-&nbsp;
 
 If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
 
 <a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
 
 
-<br/>
+&nbsp;
 
 #### 2. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
