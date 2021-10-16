@@ -14,6 +14,10 @@ permalink: /vacancies
 There are some PhD opportunities with potential full scholarships available for those interested in research
 involving machine learning and data privacy. ***The application deadline is 5 November.*** 
 
+If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
+
+<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
+
 #### Project 1: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
 [PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
@@ -39,11 +43,9 @@ Technologies.
 * Knowledge in privacy-enhancing technologies and machine learning is preferable.
 
 
-**Application** <br />
 
-If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
 
-<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
+
 
 <br/>
 
