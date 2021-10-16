@@ -15,7 +15,7 @@ permalink: /vacancies
 
 
 
-There is a PhD opportunity for those interested in research
+There is a PhD opportunity with potential full scholarship available for those interested in research
 involving privacy-preserving graph analytics. ***The application deadline is 5 November.*** 
 
 **Skills/Capability required** 
