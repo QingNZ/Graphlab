@@ -11,7 +11,7 @@ permalink: /vacancies
 
 #### 1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
-[Project description]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
+[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
 **Scholarship information** <br />
 
