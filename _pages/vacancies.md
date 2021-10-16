@@ -13,7 +13,7 @@ permalink: /vacancies
 
 [PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
-**Scholarship information** <br />
+
 
 There is a PhD opportunity for those interested in research
 involving privacy-preserving graph analytics. ***The application deadline is 5 November.*** 
