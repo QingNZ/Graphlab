@@ -8,14 +8,14 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-#### <strong>1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" </strong>####
+#### <strong>1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" </strong>
 
 [Project description]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
 **Scholarship information** <br />
 
 There is a PhD opportunity with potential full scholarship available for those interested in research
-involving privacy-preserving graph analytics. The application deadline is 5 Novembe.r 
+involving privacy-preserving graph analytics. **The application deadline is 5 November.** 
 
 **Skills/Capability required** 
  
@@ -30,8 +30,6 @@ Technologies.
 If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>). For the details on eligibility and how to apply, please visit the following link:
 
 <a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
-
-<br/>
 
 <br/>
 
