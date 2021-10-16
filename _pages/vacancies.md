@@ -8,26 +8,43 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-#### Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" ####
+#### 1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
 [Project description]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
-  
- 
+**Scholarship information** <br />
 
-#### ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
+There is a PhD opportunity with potential full scholarship available for those interested in research
+involving privacy-preserving graph analytics.
+
+**Skills/Capability required** 
+ 
+* Bachelor's degree in Computer Science or relevant field.
+* Strong mathematical knowledge, knowledgeable in graph theory and/or machine learning
+techniques.
+* Some experience with programming languages (e.g. Python, R) and Privacy-Enhancing
+Technologies.
+
+**Application** <br />
+
+If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>). For the details on eligibility and how to apply, please visit the following link:
+
+<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
+
+
+#### 2. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
 [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
 Supported by a grant from the Australian Research Council, we are currently looking for new PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. Each PhD student will have their own PhD project under the joint supervision of Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team.	
 
 
-***Scholarship information*** <br />
+**Scholarship information** <br />
 
 Two PhD scholarships are available, each including a living allowance of $28,597 per annum with a waived tuition fee, in accordance with the standard of ANU University Research Scholarships. The successful applicants will be supported by the scholarship for 3.5 years. 
 
 
-***Eligibility (please do not apply if these conditions are not met)*** 
+**Eligibility (please do not apply if these conditions are not met)** 
 -  A Bachelor/Masters degree in computing or mathematics with first-class honours or equivalent; <br />
 -  Excellent programming skills; <br />
 -  Strong interest in mathematics or theoretical computer science; <br />
@@ -35,7 +52,7 @@ Two PhD scholarships are available, each including a living allowance of $28,597
 
 <p></p>
 
-***Preferences*** <br />
+**Preferences** <br />
 
 The following conditions are preferred but not compulsory: (1) have previously done some research work, particularly in the area of machine learning, and (2) have a good knowledge of graph theory or related subjects.
 
