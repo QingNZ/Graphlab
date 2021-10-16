@@ -6,14 +6,14 @@ sitemap: false
 permalink: /vacancies
 ---
 
-### Current open opportunities:
+## Current open opportunities:
 
-**Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs"**
+### Data61 PhD opportunity with the project "Privacy-Enhanced Analytics on Evolving Graphs" ###
 
   
   [Project information]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
 
-**ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs"**
+#### ARC Discovery Project PhD opportunity with the project "Deep Learning for Graphs" ####
 
   [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
