@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ### Current open opportunities:
 
-#### 1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" ####
+#### <strong>1. Data61 PhD opportunity: "Privacy-Enhanced Analytics on Evolving Graphs" </strong>####
 
 [Project description]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
@@ -31,6 +31,9 @@ If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Bl
 
 <a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
 
+<br/>
+
+<br/>
 
 #### 2. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
