@@ -15,7 +15,7 @@ permalink: /vacancies
 **Scholarship information** <br />
 
 There is a PhD opportunity with potential full scholarship available for those interested in research
-involving privacy-preserving graph analytics.
+involving privacy-preserving graph analytics. The application deadline is 5 Novembe.r 
 
 **Skills/Capability required** 
  
@@ -57,7 +57,7 @@ Two PhD scholarships are available, each including a living allowance of $28,597
 The following conditions are preferred but not compulsory: (1) have previously done some research work, particularly in the area of machine learning, and (2) have a good knowledge of graph theory or related subjects.
 
 
-***Application*** <br />
+**Application** <br />
 
 Please email your inquiries/applications to A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>) with the subject 'PhD Application' and the following documents: <br />
 <ol type = "1">
@@ -70,12 +70,12 @@ Please note that short-listed applicants for these PhD scholarships will need to
 
 <p></p>
 
-***Timeline*** <br />
+**Timeline** <br />
 
 We	will review applications until the positions are filled. For onshore students, you can start this year as soon as you receive an offer or early 2022. For offshore students, due to the current border restriction in Australia, you can start in the first half of 2022 or earlier as soon as the Australian border restriction is lifted. 
 
 
-***Other information***
+**Other information**
 
 - ANU School of Computing: <a href="https://cs.anu.edu.au/">https://cs.anu.edu.au/</a> <br />
 - ANU College of Engineering and Computer Science webpage for PhD & MPhil applicants: <a href="https://cecs.anu.edu.au/study/phd-mphil">https://cecs.anu.edu.au/study/phd-mphil</a><br />
