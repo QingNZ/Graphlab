@@ -1,3 +1,13 @@
+- title: "Answering Shortest Path Distance Queries in Very Large Networks"
+  image: JVLDB2021-HLFUL.png
+  description: Due to the dynamic nature of real-world networks, such as social networks or web graphs in which a link between two entities may fail or become alive at any time, there is a pressing need to address the shortest path distance problem for dynamic networks. In this article, we propose a fully dynamic labelling method to efficiently update distance labelling so as to answer distance queries over large dynamic graphs.
+  authors: M. Farhan, Q. Wang, Y. Lin, and B. Mckay
+  link:
+    url: https://arxiv.org/pdf/2110.02554.pdf
+    display: The VLDB Journal, 2021 (paper link)
+  highlight: 1
+  news2:
+
 - title: "A Regularized Wasserstein Framework for Graph Kernels"
   image: ICDM2021-RWF.png
   description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
