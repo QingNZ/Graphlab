@@ -1,6 +1,6 @@
 - title: "Fast Fully Dynamic Labelling For Distance Queries"
   image: JVLDB2021-HLFUL.jpg
-  description: Due to the dynamic nature of real-world networks, such as social networks or web graphs in which a link between two entities may fail or become alive at any time, there is a pressing need to address the shortest path distance problem for dynamic networks. In this article, we propose a fully dynamic labelling method to efficiently update distance labelling. At its core, our method can handle incremental update operations, i.e. edge insertions, and decremental update operations, i.e. edge deletions.
+  description: Due to the dynamic nature of real-world networks, such as social networks or web graphs in which a link between two entities may fail or become alive at any time, there is a pressing need to address the shortest path distance problem for dynamic networks. In this article, we propose a fully dynamic labelling method to efficiently update distance labelling. At its core, our method incorporates two building blocks for handling incremental update operations (i.e. edge insertions) and decremental update operations (i.e. edge deletions), respectively.
   authors: M. Farhan, Q. Wang, Y. Lin, and B. Mckay
   link:
     url: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
