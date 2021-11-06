@@ -6,7 +6,7 @@
     url: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
     display: The VLDB Journal, 2021 (paper link)
   highlight: 1
-  news2: See [Code](https://graphlabanu.github.io/website/code_datasets/)
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
 
 - title: "A Regularized Wasserstein Framework for Graph Kernels"
   image: ICDM2021-RWF.png
@@ -16,7 +16,7 @@
     url: https://arxiv.org/pdf/2110.02554.pdf
     display: IEEE International Conference on Data Mining (ICDM), 2021 (paper link)
   highlight: 1
-  news2:
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
 
 - title: "Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs"
   image: PKDD2021-ASGAT.png
@@ -26,7 +26,7 @@
     url: https://arxiv.org/abs/2103.14187
     display: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 (paper link)
   highlight: 1
-  news2:
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
   
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-SPG.png
@@ -36,7 +36,7 @@
     url: https://dl.acm.org/doi/10.1145/3448016.3452826
     display: ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021 (paper link)
   highlight: 1
-  news2:
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
  
 - title: "Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs"
   image: EDBT2021-IncUpdate.png
@@ -66,7 +66,7 @@
     url: https://link.springer.com/chapter/10.1007/978-3-030-75768-7_1
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
   highlight: 1
-  news2:  
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/) 
   
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
@@ -106,7 +106,7 @@
     url: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
     display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 (paper link)
   highlight: 1
-  news2:
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
 
 - title: "A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks"
   image: EDBT2019-HL.png
@@ -116,7 +116,7 @@
     url: https://arxiv.org/abs/1812.02363
     display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
   highlight: 1
-  news2:
+  news2: Code available at [here](https://graphlabanu.github.io/website/code_datasets/)
   
 - title: "Knowledge Tracing with Sequential Key-Value Memory Networks"
   image: SIGIR2019-KT.jpeg
