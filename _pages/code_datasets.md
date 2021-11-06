@@ -23,7 +23,7 @@ _(listed in alphabetical order of the model/algorithm/method names)_
 
    <img src="../images/letters/letter-f.png" alt="F" width="50"><strong>  Fully Dynamic Labelling for Distance Queries (FulHL): </strong><a href="https://github.com/mufarhan/FulHL">https://github.com/mufarhan/FulHL</a> <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z"> (paper link)</a> 
    
-   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>  Highway Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
+   <img src="../images/letters/letter-h.png" alt="H" width="50"><strong>  Highway Cover Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
 
    <img src="../images/letters/letter-q.png" alt="Q" width="50"><strong>  Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a> 
    
