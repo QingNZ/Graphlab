@@ -178,6 +178,16 @@
   highlight: 0
   new2:
   
+- title: "Community Structure in Large-Scale Complex Networks"
+  image: 
+  description: 
+  authors: M. Rezvani
+  link:
+    url: https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf
+    display: PhD thesis, Australian National University 2019 (thesis link)
+  highlight: 0
+  news2: 
+  
 - title: "Active Blocking Scheme Learning for Entity Resolution"
   image: 
   description: 
