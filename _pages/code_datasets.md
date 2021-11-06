@@ -12,7 +12,7 @@ _(listed in alphabetical order of the model/algorithm/method names)_
  <div class="row">
  
  <div class="col-sm-18 clearfix">
-  <div class="well">
+  <div class="newwell">
    
    <img src="../images/letters/letter-a.png" alt="E" width="50"><strong> GNN with Attention-Based Adaptive Aggregation (ASGAT): </strong><a href="https://github.com/seanli3/asgat">https://github.com/seanli3/asgat</a> <a href="https://arxiv.org/abs/2103.14187"> (paper link)</a>   
    
