@@ -68,6 +68,16 @@
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
   
+- title: "Entity Resolution with Active Learning"
+  image: 
+  description: 
+  authors: J. Shao
+  link:
+    url: https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf
+    display: PhD thesis, Australian National University, 2021 (thesis link)
+  highlight: 0
+  new2:
+  
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
   description: Entity Resolution is an important component of real-world applications in various fields. Inspired by recent advances of generative adversarial networks, we propose a novel deep learning model for entity resolution called ErGAN. This model consists of two key components -- a label generator and a discriminator that are optimized alternatively through adversarial learning.
