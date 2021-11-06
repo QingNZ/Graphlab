@@ -28,6 +28,16 @@
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
   
+- title: "Entity Resolution with Active Learning"
+  image: 
+  description: 
+  authors: J. Shao
+  link:
+    url: https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf
+    display: PhD thesis, Australian National University, 2021 (thesis link)
+  highlight: 0
+  new2:
+  
 - title: "Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks"
   image: SIGMOD2021-SPG.png
   description: How to efficiently compute a shortest path graph containing exactly all shortest paths between any arbitrary pair of vertices on complex networks? Shortest path graph manifests itself as a basis for tackling various shortest path related problems, e.g., finding critical edges and vertices whose removal can destroy all shortest paths between two vertices.
@@ -67,16 +77,6 @@
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
-  
-- title: "Entity Resolution with Active Learning"
-  image: 
-  description: 
-  authors: J. Shao
-  link:
-    url: https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf
-    display: PhD thesis, Australian National University, 2021 (thesis link)
-  highlight: 0
-  new2:
   
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
   image: ICDM2020-ErGAN.png
