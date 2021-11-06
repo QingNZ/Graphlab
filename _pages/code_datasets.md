@@ -7,7 +7,7 @@ permalink: /code_datasets/
 ---
 
 ### Source Code ### 
-_(listed in alphabetical order of the model/algorithm/method names)_
+_(Listed in alphabetical order of the model/algorithm/method names)_
 
  <div class="row">
  
