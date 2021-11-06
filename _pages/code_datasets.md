@@ -11,10 +11,10 @@ _(listed in alphabetical order of the model/algorithm/method names)_
 
  <div class="row">
  
- <div class="col-sm-18 clearfix">
-  <div class="newwell">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
    
-   <img src="../images/letters/letter-a.png" alt="E" width="50" margin-bottom="-1.5em"><strong> GNN with Attention-Based Adaptive Aggregation (ASGAT): </strong><a href="https://github.com/seanli3/asgat">https://github.com/seanli3/asgat</a> <a href="https://arxiv.org/abs/2103.14187"> (paper link)</a>   
+   <img src="../images/letters/letter-a.png" alt="E" width="50"><strong> GNN with Attention-Based Adaptive Aggregation (ASGAT): </strong><a href="https://github.com/seanli3/asgat">https://github.com/seanli3/asgat</a> <a href="https://arxiv.org/abs/2103.14187"> (paper link)</a>   
    
    <img src="../images/letters/letter-d.png" alt="D" width="50"><strong>  Distributed Feedback-Looped Network (DFNet): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>
  <!--  <p style="margin-left:8%;margin-top: -35px;"><em> (A graph neural network with spectral filter)</em></p> -->
