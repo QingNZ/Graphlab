@@ -1,7 +1,7 @@
 - name: Jingyu Shao 
   photo: jingyu.jpg
   photo_status: 1
-  info: PhD Student <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
+  info: PhD <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
   topic: Entity Resolution with Active Learning <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf">(Thesis)</a>
   email: jingyu.shao@anu.edu.au
   number_educ: 2
@@ -11,7 +11,7 @@
 - name: Ye Wang
   photo: ye.jpg
   photo_status: 1
-  info: MPhil Student
+  info: MPhil
   topic: Exploring Shortest Paths on Large-Scale Networks <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Ye-thesis.pdf">(Thesis)</a>
   email: ye.wang2@anu.edu.au
   number_educ: 1
@@ -20,7 +20,7 @@
 - name: Mojtaba Rezvani
   photo: omid.jpeg
   photo_status: 1
-  info: PhD Student (Graduated) <a href="http://users.cecs.anu.edu.au/~u5410055/">(webpage)</a>
+  info: PhD  <a href="http://users.cecs.anu.edu.au/~u5410055/">(webpage)</a>
   topic: Community Structure in Large-Scale Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Omid_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">(Thesis)</a>
   email:
   number_educ: 2
