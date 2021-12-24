@@ -9,6 +9,22 @@ permalink: /code_datasets/
 ### Source Code ### 
 _(Listed in alphabetical order of the model/algorithm/method names)_
 
+{% for code in site.data.codelist %}
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p><strong>{{ code.title }}:</strong> {{ code.codelink }} <a href="{{ code.paperlink }}">{{ paper link }}</a></p>
+ </div>
+</div>
+
+</div>
+
+{% endfor %}
+
  <div class="row">
  
  <div class="col-sm-19 clearfix">
