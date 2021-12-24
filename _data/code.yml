@@ -1,0 +1,14 @@
+- title: "GNN with Attention-Based Adaptive Aggregation (ASGAT)"
+  image: letter-a.png
+  description: 
+  codelink: https://github.com/seanli3/asgat
+  paperlink: https://arxiv.org/abs/2103.14187
+  highlight: 1
+
+- title: "GNN with Feedback-Looped Filters (DFNet)"
+  image: letter-d.png
+  description: 
+  codelink: https://github.com/wokas36/DFNets
+  paperlink: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
+  highlight: 1
+  
