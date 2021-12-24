@@ -13,11 +13,11 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-19 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p><strong>{{ code.title }}:</strong> {{ code.codelink }} <a href="{{ code.paperlink }}">{{ paper link }}</a></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="50" style="float: left" />
+  <p><strong>{{ code.title }}:</strong> {{ code.codelink }} <a href="{{ code.paperlink }}" highlighter-rouge>{{ paper link }}</a></p>
  </div>
 </div>
 
