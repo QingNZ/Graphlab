@@ -1,6 +1,5 @@
 - name: Dongwoo Kim
   photo: dongwoo.jpeg
-  info: Assistant Professor
   affiliation: POSTECH, South Korea
   area: See <a href="http://dongwookim-ml.github.io/">webpage</a>
   email: dongwookim@postech.ac.kr
@@ -11,7 +10,7 @@
   
 - name: Henning Koehler
   photo: henning.jpg
-  info: Massey University, New Zealand
+  affiliation: Massey University, New Zealand
   area: See <a href="https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=727830">webpage</a>
   email: H.Koehler@massey.ac.nz
   number_educ: 1
