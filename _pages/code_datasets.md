@@ -19,7 +19,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
   {% for code in site.data.codelist %}
   
   <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="40" style="float: left" />
-  <p><strong>{{ code.title }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}">{{ paper link }}</a></p>
+  <strong>{{ code.title }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> (paper link) </a>
   
   <br>
   
