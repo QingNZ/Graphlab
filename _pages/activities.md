@@ -77,6 +77,8 @@ permalink: /activities/
 <p>**EDBT 2019**</p> 
 <p>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf)</p>
 
+<p> &nbsp; </p>
+
 ### Group Activities
 
 {% assign number_printed = 0 %}
