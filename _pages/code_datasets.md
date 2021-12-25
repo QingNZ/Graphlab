@@ -11,24 +11,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 
 
 
-<div class="row">
 
-<div class="col-sm-19 clearfix">
- <div class="well">
-  
-  {% for code in site.data.codelist %}
-  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="40" style="left" />
-  <p><strong>{{ code.title }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> paper </a></p>
-  
-  <br>
-  
-  {% endfor %}
-  
- </div>
-</div>
-
-</div>
 
 
 
