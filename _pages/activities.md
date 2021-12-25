@@ -94,8 +94,7 @@ permalink: /activities/
 
 <div class="col-sm-5 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
- 
- <p>{{ pic.title }}</p> 
+<p>{{ pic.title }}</p> 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
