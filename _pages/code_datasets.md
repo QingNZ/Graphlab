@@ -18,8 +18,12 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
  
   
   <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="40" style="float: left"><strong>{{ code.name }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> (<span style="background-color: #e6f2ff">paper</span>) </a>
-
+      <div class="image">
+       <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="40" style="float: left">
+      </div>
+      <div class="text">
+       <strong>{{ code.name }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> (<span style="background-color: #e6f2ff">paper</span>) </a>
+      </div>
    <br>
   </div>
   
