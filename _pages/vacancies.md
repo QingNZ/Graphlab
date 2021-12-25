@@ -9,35 +9,8 @@ permalink: /vacancies
 ### Current open opportunities:
 <br/>
 
-#### 1. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
-[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
-
-There are some PhD opportunities with potential full scholarships available for those interested in research
-involving machine learning and data privacy. ***The application deadline is 5 November.*** 
-
-
-
-
-**Skills/Capability required** 
- 
-* Bachelor's degree in Computer Science or relevant field.
-* Strong mathematical knowledge, knowledgeable in graph theory and/or machine learning
-techniques.
-* Some experience with programming languages (e.g. Python, R) and Privacy-Enhancing
-Technologies.
-
-
-
-
-If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
-
-<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
-
-
-&nbsp;
-
-#### 2. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
+#### 1. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
 [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
@@ -86,5 +59,33 @@ We	will review applications until the positions are filled. For onshore students
 - ANU College of Engineering and Computer Science webpage for PhD & MPhil applicants: <a href="https://cecs.anu.edu.au/study/phd-mphil">https://cecs.anu.edu.au/study/phd-mphil</a><br />
 - Webpage of Brendan McKay: <a href="http://users.cecs.anu.edu.au/~bdm/">http://users.cecs.anu.edu.au/~bdm/</a><br />
 - Webpage of Qing Wang: <a href="http://users.cecs.anu.edu.au/~u5170295/">http://users.cecs.anu.edu.au/~u5170295/</a><br />
+
+#### 2. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" (closed) ####
+
+[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
+
+There are some PhD opportunities with potential full scholarships available for those interested in research
+involving machine learning and data privacy. ***The application deadline is 5 November.*** 
+
+
+
+
+**Skills/Capability required** 
+ 
+* Bachelor's degree in Computer Science or relevant field.
+* Strong mathematical knowledge, knowledgeable in graph theory and/or machine learning
+techniques.
+* Some experience with programming languages (e.g. Python, R) and Privacy-Enhancing
+Technologies.
+
+
+
+
+If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
+
+<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
+
+
+&nbsp;
 
 
