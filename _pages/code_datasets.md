@@ -17,7 +17,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
   {% for code in site.data.codelist %}
  
   <img src="{{ site.url }}{{ site.baseurl }}/images/letters/{{ code.image }}" class="img-responsive" width="40" style="left" />
-  <p><strong>{{ code.name }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> (<span style="background-color: #e6f2ff">paper</span>) </a></p>
+  <strong>{{ code.name }}:</strong><a href="{{ code.codelink }}"> {{ code.codelink }}</a><a href="{{ code.paperlink }}"> (<span style="background-color: #e6f2ff">paper</span>) </a>
  
   <br>
  
@@ -27,37 +27,6 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 </div>
 
 </div>
-
-
-
-
- <div class="row">
- 
- <div class="col-sm-19 clearfix">
-  <div class="well">
-     
-   
-   <img src="../images/letters/letter-d.png" alt="D" width="40"><strong>  Distributed Feedback-Looped Network (DFNet): </strong><a href="https://github.com/wokas36/DFNets">https://github.com/wokas36/DFNets</a><a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> (paper link)</a>
- <!--  <p style="margin-left:8%;margin-top: -35px;"><em> (A graph neural network with spectral filter)</em></p> -->
-
-   <img src="../images/letters/letter-e.png" alt="E" width="40"><strong>  Episode Adaptive Embedding Network (EAEN): </strong><a href="https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip">https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip</a> <a href="https://arxiv.org/abs/2106.09398"> (paper link)</a> 
-
-   <img src="../images/letters/letter-f.png" alt="F" width="40"><strong>  Fully Dynamic Labelling for Distance Queries (FulHL): </strong><a href="https://github.com/mufarhan/FulHL">https://github.com/mufarhan/FulHL</a> <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z"> (paper link)</a> 
-   
-   <img src="../images/letters/letter-h.png" alt="H" width="40"><strong>  Highway Cover Labelling (HL): </strong><a href="https://github.com/mufarhan/highway_labelling">https://github.com/mufarhan/highway_labelling</a><a href="https://arxiv.org/abs/1812.02363"> (paper link)</a>
-
-   <img src="../images/letters/letter-q.png" alt="Q" width="40"><strong>  Query-by-Sketch (QbS): </strong><a href="https://github.com/LeafyWang/QbS">https://github.com/LeafyWang/QbS</a><a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> (paper link)</a> 
-   
-   <img src="../images/letters/letter-r.png" alt="R" width="40"><strong>  Regularized Wasserstein Kernel (RWK): </strong><a href="https://github.com/wokas36/RWK">https://github.com/wokas36/RWK</a> <a href="https://arxiv.org/pdf/2110.02554.pdf"> (paper link)</a>
-   
-   <img src="../images/letters/letter-r.png" alt="R" width="40"><strong>  Declarative Framework for Network Analytics (Rogas): </strong><a href="https://github.com/CornucopiaRG/Rogas">https://github.com/CornucopiaRG/Rogas</a> <a href="https://dl.acm.org/doi/10.14778/3007263.3007309"> (paper link)</a>
-      
- </div>
- </div>
- 
-</div>
-
-
 
 
 ### Datasets
