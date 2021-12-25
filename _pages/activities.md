@@ -9,7 +9,7 @@ permalink: /activities/
 
 (Jump to [Weekly Study Sessions](#Weekly-Study-Sessions), [Conference Presentations](#Conference-Presentations), or [Group Activities](#Group-Activities))
 
-### Weekly Study Sessions
+### <a name="Weekly-Study-Sessions"></a>Weekly Study Sessions
 
 <p> </p>
 
@@ -20,7 +20,7 @@ permalink: /activities/
 <p>**Venue:** Board room 4.15, Hanna Neumann Building, ANU campus.</p>
 
 
-{% for presenter in site.data.group_study_presenters limit:2%}
+{% for presenter in site.data.group_study_presenters limit:3%}
 
 **--{{ presenter.date }}** <br>
 <em>Presenter:</em> {{ presenter.name }}  
@@ -36,7 +36,7 @@ permalink: /activities/
 
 
 
-### Conference Presentations
+### <a name="Conference-Presentations"></a>Conference Presentations
 
 <p>**SIGMOD 2021**</p> 
 <p>Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf):</p>
@@ -79,7 +79,7 @@ permalink: /activities/
 
 <p> &nbsp; </p>
 
-### Group Activities
+###  <a name="Group-Activities"></a>Group Activities
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
