@@ -7,11 +7,12 @@ permalink: /activities/
 ---
 
 
-(Jump to [Weekly Study Sessions](#Weekly-Study-Sessions), [Conference Presentations](#Conference-Presentations), or [Group Activities](#Group-Activities))
 
-<p> &nbsp; </p>
 
 ### <a name="Weekly-Study-Sessions"></a>Weekly Study Sessions
+(Jump to [Conference Presentations](#Conference-Presentations) or [Group Activities](#Group-Activities))
+
+
 
 <p> </p>
 
