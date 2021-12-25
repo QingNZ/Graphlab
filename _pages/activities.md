@@ -6,7 +6,8 @@ sitemap: true
 permalink: /activities/
 ---
 
-Jump to [Weekly Study Sessions](#Weekly-Study-Sessions), [Conference Presentations](#Conference-Presentations), or [Group Activities](#Group-Activities).
+
+(Jump to [Weekly Study Sessions](#Weekly-Study-Sessions), [Conference Presentations](#Conference-Presentations), or [Group Activities](#Group-Activities))
 
 ### Weekly Study Sessions
 
