@@ -1,56 +1,49 @@
-- title: "GNN with Attention-Based Adaptive Aggregation (ASGAT)"
+- name: GNN with Attention-Based Adaptive Aggregation (ASGAT)
   image: letter-a.png
   description: 
   codelink: https://github.com/seanli3/asgat
   paperlink: https://arxiv.org/abs/2103.14187
-  highlight: 1
 
-- title: "GNN with Distributed Feedback-Looped Filters (DFNet)"
+- name: GNN with Distributed Feedback-Looped Filters (DFNet)
   image: letter-d.png
   description: 
   codelink: https://github.com/wokas36/DFNets
   paperlink: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
-  highlight: 1
   
-- title: "Episode Adaptive Embedding Network (EAEN)"
+- name: Episode Adaptive Embedding Network (EAEN)
   image: letter-e.png
   description: 
   codelink: https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip
   paperlink: https://arxiv.org/abs/2106.09398
-  highlight: 1  
   
-- title: "Fully Dynamic Labelling for Distance Queries (FulHL)"
+- name: Fully Dynamic Labelling for Distance Queries (FulHL)
   image: letter-f.png
   description: 
   codelink: https://github.com/mufarhan/FulHL
   paperlink: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
-  highlight: 1
   
-- title: "Highway Cover Labelling (HL)"
+- name: Highway Cover Labelling (HL)
   image: letter-h.png
   description: 
   codelink: https://github.com/mufarhan/highway_labelling
   paperlink: https://arxiv.org/abs/1812.02363
-  highlight: 1  
 
-- title: "Query-by-Sketch (QbS)"
+- name: Query-by-Sketch (QbS)
   image: letter-q.png
   description: 
   codelink: https://github.com/LeafyWang/QbS
   paperlink: https://dl.acm.org/doi/10.1145/3448016.3452826
-  highlight: 1  
-  
-- title: "Regularized Wasserstein Kernel (RWK)"
+
+- name: Regularized Wasserstein Kernel (RWK)
   image: letter-r.png
   description: 
   codelink: https://github.com/wokas36/RWK
   paperlink: https://arxiv.org/pdf/2110.02554.pdf
-  highlight: 1  
+ 
    
- - title: "Declarative Framework for Network Analytics (Rogas)"
+- name: Declarative Framework for Network Analytics (Rogas)
   image: letter-r.png
   description: 
   codelink: https://github.com/CornucopiaRG/Rogas
   paperlink: https://dl.acm.org/doi/10.14778/3007263.3007309
-  highlight: 1  
  
