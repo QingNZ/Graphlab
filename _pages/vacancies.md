@@ -48,6 +48,8 @@ Please note that short-listed applicants for these PhD scholarships will need to
 
 <p></p>
 
+{% comment %}
+
 **Timeline** <br />
 
 We	will review applications until the positions are filled. For onshore students, you can start this year as soon as you receive an offer or early 2022. For offshore students, due to the current border restriction in Australia, you can start in the first half of 2022 or earlier as soon as the Australian border restriction is lifted. 
@@ -59,6 +61,9 @@ We	will review applications until the positions are filled. For onshore students
 - ANU College of Engineering and Computer Science webpage for PhD & MPhil applicants: <a href="https://cecs.anu.edu.au/study/phd-mphil">https://cecs.anu.edu.au/study/phd-mphil</a><br />
 - Webpage of Brendan McKay: <a href="http://users.cecs.anu.edu.au/~bdm/">http://users.cecs.anu.edu.au/~bdm/</a><br />
 - Webpage of Qing Wang: <a href="http://users.cecs.anu.edu.au/~u5170295/">http://users.cecs.anu.edu.au/~u5170295/</a><br />
+{% endcomment %}
+
+&nbsp;
 
 #### 2. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" (closed) ####
 
