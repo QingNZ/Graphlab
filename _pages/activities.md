@@ -16,12 +16,11 @@ permalink: /activities/
 
 <p>**Venue:** Board room 4.15, Hanna Neumann Building, ANU campus.</p>
 
-<p>**Presenters:**</p>
 
 {% for presenter in site.data.group_study_presenters limit:2%}
 
 **--{{ presenter.date }}** <br>
-{{ presenter.name }}  
+<em>Presenter:</em> {{ presenter.name }}  
 <em>Paper:</em> {{ presenter.title }} - {{ presenter.link }} <br>
  
 {% endfor %}
@@ -90,7 +89,7 @@ permalink: /activities/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="120%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="150%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
