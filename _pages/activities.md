@@ -6,6 +6,8 @@ sitemap: true
 permalink: /activities/
 ---
 
+Jump to [Weekly Study Sessions](#Weekly-Study-Sessions), [Conference Presentations](#Conference-Presentations), or [Group Activities](#Group-Activities).
+
 ### Weekly Study Sessions
 
 <p> </p>
@@ -30,9 +32,6 @@ permalink: /activities/
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allsessions.html">... see all sessions</a></h4>
 
 <br>
-
-
-
 
 
 
