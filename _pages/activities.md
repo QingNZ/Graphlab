@@ -86,13 +86,13 @@ permalink: /activities/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-5 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
  
  <p>{{ pic.title }}</p> 
@@ -100,22 +100,12 @@ permalink: /activities/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 1 %}
 </div>
 {% endif %}
 
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 3 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
 
 
 <p> &nbsp; </p>
