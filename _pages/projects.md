@@ -39,8 +39,9 @@ Below are some projects that we currently work on:
  <div class="well">
    <pubtit> Shortest-Path Algorithms </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-shortest-path.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> <p> &nbsp; </p> Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory. Despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (i), How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (ii) How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (iii), What kinds of the theoretical properties can we gurantee in our soltions?
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-shortest-path.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory. Despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (i), How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (ii) How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (iii), What kinds of the theoretical properties can we gurantee in our soltions?
   
+  <p> &nbsp; </p>
  </div>
 </div>
 </div>
