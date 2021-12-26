@@ -43,8 +43,7 @@ Below are some projects that we currently work on:
   
 
   <details><summary>Publications</summary>
-  1. A numbered
-  2. list
+
   </details>
 
   
