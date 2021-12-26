@@ -37,7 +37,7 @@ permalink: /activities/
 
 <br>
 
-
+***
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
@@ -81,6 +81,8 @@ permalink: /activities/
 <p>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf)</p>
 
 <p> &nbsp; </p>
+
+***
 
 ###  <a name="Group-Activities"></a>Group Activities
 
