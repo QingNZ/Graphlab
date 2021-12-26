@@ -45,6 +45,17 @@ Below are some projects that we currently work on:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-19 clearfix">
+ <div class="well">
+   <pubtit> Knowledge Tracing </pubtit>
+   
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knolwedge-tracing.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -10px;Padding-right: 15px;" /> Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory, and has a broad range of applications. However, despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (i), How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (ii) How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (iii), What kinds of the theoretical properties can we gurantee in our soltions?
+  
+ </div>
+</div>
+</div>
+
 {% comment %}  
 **Deep Learning for Graph Isomorphism.** Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
 
