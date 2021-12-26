@@ -74,6 +74,8 @@ permalink: /team/
 </div>
 {% endif %}
 
+___
+
 ### Collaborators
 
 {% assign number_printed = 0 %}
@@ -141,6 +143,8 @@ permalink: /team/
 {% endif %}
 
 <p> </p>
+
+___
 
 ### Former Students
 
