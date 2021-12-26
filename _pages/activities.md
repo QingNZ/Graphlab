@@ -7,6 +7,7 @@ permalink: /activities/
 ---
 
 (Click here to jump down to [Conference Presentations](#Conference-Presentations); [Group Activities](#Group-Activities))
+
 _____
 
 ### <a name="Weekly-Study-Sessions"></a>Weekly Study Sessions
