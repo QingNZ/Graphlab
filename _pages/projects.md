@@ -48,9 +48,9 @@ Below are some projects that we currently work on:
 <div class="row">
 <div class="col-sm-19 clearfix">
  <div class="well">
-   <pubtit> Knowledge Tracing </pubtit>
+   <pubtit> Deep Learning for Knowledge Tracing </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis on the learning behaviors of students.
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis on the learning behaviors of students.
   
  </div>
 </div>
