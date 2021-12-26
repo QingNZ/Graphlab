@@ -43,7 +43,7 @@ Below are some projects that we currently work on:
   
 
   <details><summary>Publications</summary>
-
+test
   </details>
 
   
@@ -59,8 +59,20 @@ Below are some projects that we currently work on:
   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
   
  </div>
+ 
+   <details><summary>Publications</summary>
+test
+  </details>
 </div>
+ 
+   <details><summary>Publications</summary>
+test
+  </details>
 </div>
+
+  <details><summary>Publications</summary>
+test
+  </details>
 
 {% comment %}  
 **Deep Learning for Graph Isomorphism.** Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
