@@ -37,7 +37,7 @@ permalink: /activities/
 
 <br>
 
-___
+<hr style="border:2px solid gray"> </hr>
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
@@ -82,7 +82,7 @@ ___
 
 <p> &nbsp; </p>
 
-___
+<hr style="border:2px solid gray"> </hr>
 
 ###  <a name="Group-Activities"></a>Group Activities
 
