@@ -37,7 +37,7 @@ permalink: /activities/
 
 <br>
 
-***
+___
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
@@ -82,7 +82,7 @@ permalink: /activities/
 
 <p> &nbsp; </p>
 
-***
+___
 
 ###  <a name="Group-Activities"></a>Group Activities
 
