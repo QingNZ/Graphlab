@@ -6,12 +6,10 @@ sitemap: true
 permalink: /activities/
 ---
 
-
-
+(Click here to jump down to [Conference Presentations](#Conference-Presentations) or [Group Activities](#Group-Activities))
+_____
 
 ### <a name="Weekly-Study-Sessions"></a>Weekly Study Sessions
-(Jump to [Conference Presentations](#Conference-Presentations) or [Group Activities](#Group-Activities))
-
 
 
 <p> </p>
