@@ -15,7 +15,7 @@ Below are some projects that we currently work on:
  <div class="well">
    <protit> Deep Learning for Graph Isomorphism </protit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi3.png" class="img-responsive" width="33%" style="float:none;vertical-align: top;margin: 10px  10px" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-pic-gi3.png" class="img-responsive" width="33%" style="float:none; vertical-align:top;" /> 
   <p>Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.</p>
   
 {% comment %}  
