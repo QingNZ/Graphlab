@@ -25,7 +25,7 @@ Below are some projects that we currently work on:
 <div class="row">
  <div class="col-sm-19 clearfix">
   <div class="well">
-   <pubtit> Geometric Graph Learning </pubtit>
+   <protit> Geometric Graph Learning </protit>
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GNN.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -10px;Padding-right: 15px;" /> Geometric graph learning is an emerging field of machine learning, which aims to apply deep learning techniques to learn from complex data like graphs. In recent years, Graph Neural Networks (GNNs) as a powerful deep learning approach have been widely applied in various fields. However, graphs are in irregular non-Euclidean domains. This brings up the challenge of how to design deep learning techniques in order to effectively extract useful features from arbitrary graphs. In this project, we aim to explore the mathematical foundations of graph learning techniques and develop neural networks for graphs in a principled way.
    
@@ -83,7 +83,7 @@ Below are some projects that we currently work on:
 <div class="row">
  <div class="col-sm-19 clearfix">
   <div class="well">
-   <pubtit> Deep Learning for Knowledge Tracing </pubtit>
+   <protit> Deep Learning for Knowledge Tracing </protit>
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
    
