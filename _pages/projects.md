@@ -41,7 +41,8 @@ Below are some projects that we currently work on:
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-shortest-path.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory. Despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (1). How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (2). How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (3). What kinds of the theoretical properties can we gurantee in our soltions?
   
-   <details><summary>Publications:</summary>
+   <details>
+   <summary>Publications:</summary>
     
       * <a>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
       * test
