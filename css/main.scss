@@ -110,12 +110,13 @@ firstp {
 }
 
 details {
-    font: 16px "Open Sans", Calibri, sans-serif;
-    width: 300px;
+    font: 14px "Open Sans", Calibri, sans-serif;
+    width: 100px;
 }
 
 details > summary {
-  width: 300px;
+  display: list-item;	
+  width: 100px;
   padding: 1px 1px 1px 1px;
   background-color: #e6f2ff;
   border: ridge;
@@ -123,12 +124,13 @@ details > summary {
 }
 
 details > p {
+  display: inline;
   border-radius: 0 0 10px 10px;
-  width: 700px;
+  width: 1000px;
+  padding: 1px 1px 1px 1px;	  
   background-color: #e6f2ff;
-  padding: 1px 1px 1px 1px;
   margin: 0;
-  font: 16px "Open Sans", Calibri, sans-serif;
+  font: 14px "Open Sans", Calibri, sans-serif;
 }
 
 details[open] > summary {
