@@ -41,7 +41,8 @@ pubtit {
 
 protit {
 	font-weight: bold;
-	font-size:15px
+	font-size:15px;
+        color: rgb(61, 102, 143);
 }
 
 firstp {
@@ -114,7 +115,7 @@ firstp {
 }
 
 details > summary {
-  width: 250px;
+  width: 200px;
   text-align:center;
 }
 
