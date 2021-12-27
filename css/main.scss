@@ -111,14 +111,13 @@ firstp {
 
 
 details > summary {	
-  width: 100px;
   padding: 1px 1px 1px 1px;
   background-color: #e6f2ff;
   border: ridge;
 }
 
-details > p {
-  display: inline;
+details {
+  display: block;
   border-radius: 0 0 10px 10px;
   width: 1000px;
   padding: 1px 1px 1px 1px;	  
