@@ -113,6 +113,13 @@ firstp {
   clear: both;
 }
 
+details > summary {
+  background-color: #e6f2ff;
+  border: ridge;
+  width: 200px
+}
+
+
 /* Carusel */
 
 .carousel {
