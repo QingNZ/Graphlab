@@ -109,13 +109,8 @@ firstp {
 	padding-right: 40px;
 }
 
-details {
-    font: 14px "Open Sans", Calibri, sans-serif;
-    width: 100px;
-}
 
-details > summary {
-  display: list-item;	
+details > summary {	
   width: 100px;
   padding: 1px 1px 1px 1px;
   background-color: #e6f2ff;
@@ -127,8 +122,6 @@ details > p {
   border-radius: 0 0 10px 10px;
   width: 1000px;
   padding: 1px 1px 1px 1px;	  
-  background-color: #e6f2ff;
-  margin: 0;
   font: 14px "Open Sans", Calibri, sans-serif;
 }
 
