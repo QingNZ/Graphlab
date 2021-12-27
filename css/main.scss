@@ -110,27 +110,25 @@ firstp {
 }
 
 details {
-  font: 16px "Open Sans", Calibri, sans-serif;
-  width: 620px;
+    width: 300px;
 }
 
 details > summary {
   padding: 1px 1px 1px 1px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
+  background-color: #e6f2ff;
+  border: ridge;
   cursor: pointer;
 }
 
 details > p {
   border-radius: 0 0 10px 10px;
-  background-color: #ddd;
+  background-color: #e6f2ff;
   padding: 1px 1px 1px 1px;
   margin: 0;
 }
 
 details[open] > summary {
-  background-color: #ccf;
+  background-color: #e6f2ff;
 }
 
 /* Carusel */
