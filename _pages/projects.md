@@ -86,6 +86,23 @@ Below are some projects that we currently work on:
    <pubtit> Deep Learning for Knowledge Tracing </pubtit>
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
+   
+   <div class="div-c">
+ 
+   <details>
+   <summary>List of publications
+   </summary>
+    
+   - <a href="https://dl.acm.org/doi/10.1145/3331184.3331195">Knowledge Tracing with Sequential Key-Value Memory Networks</a>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019.
+    
+   - <a href="https://arxiv.org/abs/2108.08105">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</a>, G. Abdelrahman and Q. Wang, arXiv, 2021 (under review).
+    
+   - <a href="https://arxiv.org/abs/2111.07083">Learning Data Teaching Strategies Via Knowledge Tracing</a>, G. Abdelrahman and Q. Wang, arXiv, 2021 (under review).
+       
+   </details>
+    
+   </div>
+  
   
   </div>
  </div>
