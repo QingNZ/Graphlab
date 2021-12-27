@@ -43,9 +43,8 @@ Below are some projects that we currently work on:
   
    <details><summary>Publications:</summary>
     
-      1. <a>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
-    
-      <p>2. text</p>
+      * <a>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
+      * test
    
    </details>
   
