@@ -50,6 +50,10 @@ Below are some projects that we currently work on:
    - <a href="https://arxiv.org/abs/1812.02363">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
     
    - <a href="https://arxiv.org/abs/2102.08529">Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs</a>, M. Farhan and Q. Wang, The 24th International Conference on Extending Database Technology (EDBT), 2021.
+    
+   - <a href="https://dl.acm.org/doi/10.1145/3448016.3452826">Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks</a>, Y. Wang, Q. Wang, H. Koehler, and Y. Lin, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+    
+   - <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z">Fast Fully Dynamic Labelling For Distance Queries</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The VLDB Journal, 2021.
        
    </details>
     
