@@ -11,64 +11,59 @@ permalink: /projects/
 Below are some projects that we currently work on:
 
 <div class="row">
-<div class="col-sm-19 clearfix">
- <div class="well">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
    <pubtit> Deep Learning for Graph Isomorphism </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GI.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GI.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
   
 
+  </div>
  </div>
-</div>
 </div>
 
 <div class="row">
-<div class="col-sm-19 clearfix">
- <div class="well">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
    <pubtit> Geometric Graph Learning </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GNN.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -10px;Padding-right: 15px;" /> Geometric graph learning is an emerging field of machine learning, which aims to apply deep learning techniques to learn from complex data like graphs. In recent years, Graph Neural Networks (GNNs) as a powerful deep learning approach have been widely applied in various fields. However, graphs are in irregular non-Euclidean domains. This brings up the challenge of how to design deep learning techniques in order to effectively extract useful features from arbitrary graphs. In this project, we aim to explore the mathematical foundations of graph learning techniques and develop neural networks for graphs in a principled way.
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GNN.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -10px;Padding-right: 15px;" /> Geometric graph learning is an emerging field of machine learning, which aims to apply deep learning techniques to learn from complex data like graphs. In recent years, Graph Neural Networks (GNNs) as a powerful deep learning approach have been widely applied in various fields. However, graphs are in irregular non-Euclidean domains. This brings up the challenge of how to design deep learning techniques in order to effectively extract useful features from arbitrary graphs. In this project, we aim to explore the mathematical foundations of graph learning techniques and develop neural networks for graphs in a principled way.
   
 
+  </div>
  </div>
-</div>
 </div>
 
 <div class="row">
-<div class="col-sm-19 clearfix">
- <div class="well">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
    <pubtit> Shortest-Path Algorithms </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-shortest-path.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> <p>Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory. Despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (1). How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (2). How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (3). What kinds of the theoretical properties can we gurantee in our soltions?</p>
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-shortest-path.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> <p>Finding the shortest-path information (e.g., distance, paths, counting of paths) between a pair of vertices is a fundamental task in graph theory. Despite efforts for many years, there is still a high demand for scalable solutions over large and ever-growing networks. Questions of interest include: (1). How to develop robust, efficient and scalable solutions for shortest-path related problems on large networks with possibly billions of vertices? (2). How to handle dynamics of networks, i.e., topological structure changes caused by node and edge insertions and deletions? (3). What kinds of the theoretical properties can we gurantee in our soltions?</p>
   
-  <details>
+   <details>
     <summary>
      Publications:
     </summary>
-      <p>1. test</p>
+      1. <a>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
+    
       <p>2. text</p>
-  </details>
+    
+   </details>
   
-    <details>
-     1. <a>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
-  </details>
-  
- </div>  
-
-</div>
+  </div>  
+ </div>
 </div>
 
 <div class="row">
-<div class="col-sm-19 clearfix">
- <div class="well">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
    <pubtit> Deep Learning for Knowledge Tracing </pubtit>
    
-  <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
   
+  </div>
  </div>
- 
-
-</div>
 </div>
 
 {% comment %}  
