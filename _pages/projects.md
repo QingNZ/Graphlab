@@ -28,6 +28,23 @@ Below are some projects that we currently work on:
    <pubtit> Geometric Graph Learning </pubtit>
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GNN.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -10px;Padding-right: 15px;" /> Geometric graph learning is an emerging field of machine learning, which aims to apply deep learning techniques to learn from complex data like graphs. In recent years, Graph Neural Networks (GNNs) as a powerful deep learning approach have been widely applied in various fields. However, graphs are in irregular non-Euclidean domains. This brings up the challenge of how to design deep learning techniques in order to effectively extract useful features from arbitrary graphs. In this project, we aim to explore the mathematical foundations of graph learning techniques and develop neural networks for graphs in a principled way.
+   
+   <div class="div-c">
+ 
+   <details>
+   <summary>List of publications
+   </summary>
+    
+   - <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</a>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+    
+   - <a href="https://arxiv.org/abs/2103.14187">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</a>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.
+    
+   - <a href="https://arxiv.org/pdf/2110.02554.pdf">A Regularized Wasserstein Framework for Graph Kernels</a>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021.
+
+       
+   </details>
+    
+   </div>
   
 
   </div>
