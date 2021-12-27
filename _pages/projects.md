@@ -51,13 +51,6 @@ Below are some projects that we currently work on:
       <p>2. text</p>
     </pre>
    </details>
-   
-   [expand]
-    Long content here
-   
-    and here
-    ...
-   [/expand]
   
   </div>  
  </div>
