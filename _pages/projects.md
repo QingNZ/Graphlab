@@ -32,7 +32,7 @@ Below are some projects that we currently work on:
    <div class="div-c">
  
    <details>
-   <summary>List of publications
+   <summary>List of recent publications
    </summary>
     
    - <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</a>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
@@ -61,7 +61,7 @@ Below are some projects that we currently work on:
    <div class="div-c">
  
    <details>
-   <summary>List of publications
+   <summary>List of recent publications
    </summary>
     
    - <a href="https://arxiv.org/abs/1812.02363">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
@@ -90,7 +90,7 @@ Below are some projects that we currently work on:
    <div class="div-c">
  
    <details>
-   <summary>List of publications
+   <summary>List of recent publications
    </summary>
     
    - <a href="https://dl.acm.org/doi/10.1145/3331184.3331195">Knowledge Tracing with Sequential Key-Value Memory Networks</a>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019.
