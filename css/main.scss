@@ -110,10 +110,12 @@ firstp {
 }
 
 details {
+    font: 16px "Open Sans", Calibri, sans-serif;
     width: 300px;
 }
 
 details > summary {
+  width: 300px;
   padding: 1px 1px 1px 1px;
   background-color: #e6f2ff;
   border: ridge;
@@ -122,9 +124,11 @@ details > summary {
 
 details > p {
   border-radius: 0 0 10px 10px;
+  width: 700px;
   background-color: #e6f2ff;
   padding: 1px 1px 1px 1px;
   margin: 0;
+  font: 16px "Open Sans", Calibri, sans-serif;
 }
 
 details[open] > summary {
