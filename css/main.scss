@@ -116,17 +116,6 @@ details > summary {
   border: ridge;
 }
 
-details {
-  display: block;
-  border-radius: 0 0 10px 10px;
-  width: 1000px;
-  padding: 1px 1px 1px 1px;	  
-  font: 14px "Open Sans", Calibri, sans-serif;
-}
-
-details[open] > summary {
-  background-color: #e6f2ff;
-}
 
 /* Carusel */
 
