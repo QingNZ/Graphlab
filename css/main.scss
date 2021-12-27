@@ -123,14 +123,14 @@ summary::-webkit-details-marker {
 }
 
 summary:after {
-  background: blue;
+  background: "#6699cc";
   border-radius: 5px;
   content: "+";
   color: #fff;
   float: left;
   font-size: 1.5em;
   font-weight: bold;
-  margin: 0px 0px 0 0;
+  margin: -10px 0px 0 0;
   padding: 0;
   text-align: center;
   width: 20px;
