@@ -19,7 +19,7 @@ Below are some projects that we currently work on:
   
   <div class="div-c">
    
-  <p>(Acknowledgement: This research is funded by the Australian Government through the Australian Research Council.)</p>
+  <p>This research is funded by the Australian Government through the Australian Research Council.</p>
   
   </div>
    
