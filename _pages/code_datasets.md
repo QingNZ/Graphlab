@@ -35,6 +35,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 
 <ul>
 <li>Ted Spence's home page (with datasets for graph isomorphism tests): <a href="http://www.maths.gla.ac.uk/~es/">http://www.maths.gla.ac.uk/~es/</a></li>
+<li>Open Graph Benchmark (OGB) datasets for graph machine learning: <a href="https://ogb.stanford.edu/">https://ogb.stanford.edu/</a></li>
 </ul>  
 
 <br>
