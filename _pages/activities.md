@@ -66,7 +66,7 @@ _____
 <p>Knowledge Tracing with Sequential Key-Value Memory Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)</p>
 
 <p>**NeurIPS 2019**</p> 
-<p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019_slides.pdf)</p>
+<p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019-slides.pdf)</p>
 
 <iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
 
