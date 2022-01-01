@@ -44,7 +44,7 @@ Below are some projects that we currently work on:
     
    - <a href="https://arxiv.org/abs/2103.14187">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</a>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 ( <a href="https://www.springerprofessional.de/en/beyond-low-pass-filters-adaptive-feature-propagation-on-graphs/19648510"> pdf </a>\|<a href="https://arxiv.org/abs/2103.14187"> arXiv </a>\|<a href="https://github.com/seanli3/asgat"> code </a>)
     
-   - <a href="https://arxiv.org/pdf/2110.02554.pdf">A Regularized Wasserstein Framework for Graph Kernels</a>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021.
+   - <span style="color:blue">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> arXiv </a>\|<a href="https://github.com/wokas36/RWK"> code </a>).
 
        
    </details>
