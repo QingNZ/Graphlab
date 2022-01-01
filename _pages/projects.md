@@ -40,11 +40,11 @@ Below are some projects that we currently work on:
    <summary>List of recent publications
    </summary>
     
-   - <span style="color:#0086b3">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</span>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 ( <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1910.10866"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf"> poster <a>\|<a href="https://github.com/wokas36/DFNets"> code </a>)
+   - <span style="color:#006080">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</span>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 ( <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1910.10866"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf"> poster <a>\|<a href="https://github.com/wokas36/DFNets"> code </a>)
     
    - <span style="color:#007399">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</span>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 ( <a href="https://www.springerprofessional.de/en/beyond-low-pass-filters-adaptive-feature-propagation-on-graphs/19648510"> pdf </a>\|<a href="https://arxiv.org/abs/2103.14187"> arXiv </a>\|<a href="https://github.com/seanli3/asgat"> code </a>)
     
-   - <span style="color:#0086b3">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> arXiv </a>\|<a href="https://github.com/wokas36/RWK"> code </a>)
+   - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> arXiv </a>\|<a href="https://github.com/wokas36/RWK"> code </a>)
 
        
    </details>
@@ -69,13 +69,13 @@ Below are some projects that we currently work on:
    <summary>List of recent publications
    </summary>
     
-   - <span style="color:#0086b3">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</span>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_88.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1812.02363"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf"> slides </a>\|<a href="https://github.com/mufarhan/highway_labelling"> code </a>)
+   - <span style="color:#006080">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</span>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_88.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1812.02363"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf"> slides </a>\|<a href="https://github.com/mufarhan/highway_labelling"> code </a>)
     
-   - <span style="color:#0086b3">Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs</span>, M. Farhan and Q. Wang, The 24th International Conference on Extending Database Technology (EDBT), 2021 ( <a href="https://openproceedings.org/2021/conf/edbt/p255.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/2102.08529"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf"> slides </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf"> poster </a>)
+   - <span style="color:#006080">Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs</span>, M. Farhan and Q. Wang, The 24th International Conference on Extending Database Technology (EDBT), 2021 ( <a href="https://openproceedings.org/2021/conf/edbt/p255.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/2102.08529"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf"> slides </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf"> poster </a>)
     
-   - <span style="color:#0086b3">Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks</span>, Y. Wang, Q. Wang, H. Koehler, and Y. Lin, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021 ( <a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> pdf </a>\|<a href="https://arxiv.org/abs/2104.09733"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf"> slides </a>\|<a href="https://github.com/LeafyWang/QbS"> code </a>\|<a href="https://www.youtube.com/embed/zc5n2SsCtbQ"> video </a>)
+   - <span style="color:#006080">Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks</span>, Y. Wang, Q. Wang, H. Koehler, and Y. Lin, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021 ( <a href="https://dl.acm.org/doi/10.1145/3448016.3452826"> pdf </a>\|<a href="https://arxiv.org/abs/2104.09733"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf"> slides </a>\|<a href="https://github.com/LeafyWang/QbS"> code </a>\|<a href="https://www.youtube.com/embed/zc5n2SsCtbQ"> video </a>)
     
-   - Fast Fully Dynamic Labelling For Distance Queries</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The VLDB Journal, 2021 ( <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z"> pdf </a>\|<a href="https://github.com/mufarhan/FulHL"> code </a>)
+   - <span style="color:#006080">Fast Fully Dynamic Labelling For Distance Queries</span>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The VLDB Journal, 2021 ( <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z"> pdf </a>\|<a href="https://github.com/mufarhan/FulHL"> code </a>)
        
    </details>
     
@@ -98,11 +98,11 @@ Below are some projects that we currently work on:
    <summary>List of recent publications
    </summary>
     
-   - <a href="https://dl.acm.org/doi/10.1145/3331184.3331195">Knowledge Tracing with Sequential Key-Value Memory Networks</a>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019.
+   - <span style="color:#006080">Knowledge Tracing with Sequential Key-Value Memory Networks</span>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 ( <a href="https://dl.acm.org/doi/10.1145/3331184.3331195"> pdf </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf"> slides </a>)
     
-   - <a href="https://arxiv.org/abs/2108.08105">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</a>, G. Abdelrahman and Q. Wang, arXiv, 2021 (under review).
+   - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2108.08105"> arXiv </a>).
     
-   - <a href="https://arxiv.org/abs/2111.07083">Learning Data Teaching Strategies Via Knowledge Tracing</a>, G. Abdelrahman and Q. Wang, arXiv, 2021 (under review).
+   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2111.07083"> arXiv </a>)
        
    </details>
     
