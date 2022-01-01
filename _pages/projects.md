@@ -40,7 +40,7 @@ Below are some projects that we currently work on:
    <summary>List of recent publications
    </summary>
     
-   - <a href="">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</a>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 ( <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> pdf </a>|<a href="https://arxiv.org/abs/1910.10866"> arXiv </a>|<a href="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf"> poster <a>|<a herf="https://github.com/wokas36/DFNets"> code <.a>)
+   - <a>DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</a>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 ( <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> pdf </a>|<a href="https://arxiv.org/abs/1910.10866"> arXiv </a>|<a href="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf"> poster <a>|<a herf="https://github.com/wokas36/DFNets"> code </a>)
     
    - <a href="https://arxiv.org/abs/2103.14187">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</a>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.
     
