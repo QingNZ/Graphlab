@@ -42,9 +42,9 @@ Below are some projects that we currently work on:
     
    - <a href="">DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters</a>, A. Wijesinghe and Q. Wang, The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 ( <a href="https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1910.10866"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf"> poster <a>\|<a href="https://github.com/wokas36/DFNets"> code </a>)
     
-   - <a href="https://arxiv.org/abs/2103.14187">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</a>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 ( <a href="https://www.springerprofessional.de/en/beyond-low-pass-filters-adaptive-feature-propagation-on-graphs/19648510"> pdf </a>\|<a href="https://arxiv.org/abs/2103.14187"> arXiv </a>\|<a href="https://github.com/seanli3/asgat"> code </a>)
+   - <a href="">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</a>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 ( <a href="https://www.springerprofessional.de/en/beyond-low-pass-filters-adaptive-feature-propagation-on-graphs/19648510"> pdf </a>\|<a href="https://arxiv.org/abs/2103.14187"> arXiv </a>\|<a href="https://github.com/seanli3/asgat"> code </a>)
     
-   - <span style="color:blue">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> arXiv </a>\|<a href="https://github.com/wokas36/RWK"> code </a>).
+   - <span style="color:#3d668f">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> arXiv </a>\|<a href="https://github.com/wokas36/RWK"> code </a>).
 
        
    </details>
@@ -69,7 +69,7 @@ Below are some projects that we currently work on:
    <summary>List of recent publications
    </summary>
     
-   - <a href="https://arxiv.org/abs/1812.02363">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019.
+   - <a href="https://arxiv.org/abs/1812.02363">A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks</a>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_88.pdf"> pdf </a>\|<a href="https://arxiv.org/abs/1812.02363"> arXiv </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf"> slides </a>\|<a href="https://github.com/mufarhan/highway_labelling"> code </a>).
     
    - <a href="https://arxiv.org/abs/2102.08529">Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs</a>, M. Farhan and Q. Wang, The 24th International Conference on Extending Database Technology (EDBT), 2021.
     
