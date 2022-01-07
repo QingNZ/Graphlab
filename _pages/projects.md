@@ -93,6 +93,8 @@ Below are some projects that we currently work on:
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-knowledge-tracing2.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Knowledge tracing is an important task in a wide range of applications in education, such as massive open online courses (MOOCs), intelligent tutoring systems, educational games, and learning management systems. It models dynamics in a student's knowledge states in relation to different learning concepts through their interactions with learning activities. The goal of the project is to develop machine learning technqiues for capturing knowledge states dynamically and discovering their dependencies on latent learning concepts through the analysis of students' learning behaviors.
    
    <div class="div-c">
+    
+   <p>This research was partially funded by an ANU Vice-Chancellor's Teaching Enhancement Grant.</p>
  
    <details>
    <summary>List of recent publications
