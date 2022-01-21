@@ -46,7 +46,8 @@ Below are some projects that we currently work on:
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/wokas36/RWK"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
-       
+   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR), 2022 (to appear)   
+    
    </details>
     
    </div>
@@ -107,6 +108,8 @@ Below are some projects that we currently work on:
    - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
     
    - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
+    
+   - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, 2022 ( <a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
        
    </details>
     
