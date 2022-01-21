@@ -105,9 +105,9 @@ Below are some projects that we currently work on:
     
    - <span style="color:#006080">Knowledge Tracing with Sequential Key-Value Memory Networks</span>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 ( <a href="https://dl.acm.org/doi/10.1145/3331184.3331195"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>)
     
-   - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
+   - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
     
-   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 (under review) ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
+   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2021 ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
     
    - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, 2022 ( <a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
        
