@@ -125,7 +125,7 @@ Below are some projects that we currently work on:
   <div class="well">
    <protit> Differential Privacy on Graphs </protit>
    
-   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-dp.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Differential privacy has received increasing attention in recent years, since it offers a robust privacy guarantee while making no assumptions about the prior knowledge of an adversary. Although appealing, it is acknowledged that designing differentially private data publishing mechanisms is challenging, particularly on graphs which are often highly sensitive to structural changes. This project aims to develop algorithms and techniques that enable to publish graph-structured data under differential privacy, while preserving data utility as much as possible.
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-dp-graph.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Differential privacy has received increasing attention in recent years, since it offers a robust privacy guarantee while making no assumptions about the prior knowledge of an adversary. Although appealing, it is acknowledged that designing differentially private data publishing mechanisms is challenging, particularly on graphs which are often highly sensitive to structural changes. This project aims to develop algorithms and techniques that enable to publish graph-structured data under differential privacy, while preserving data utility as much as possible.
    
    <div class="div-c">
  
