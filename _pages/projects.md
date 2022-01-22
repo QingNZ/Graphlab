@@ -19,7 +19,7 @@ Below are some projects that we currently work on:
   
   <div class="div-c">
    
-  <p>This research is funded by the Australian Government through the Australian Research Council.</p>
+  <p>(*This research is funded by the Australian Government through the Australian Research Council.*)</p>
   
   </div>
    
@@ -97,7 +97,7 @@ Below are some projects that we currently work on:
    
    <div class="div-c">
     
-   <p>This research was partially funded by an ANU Vice-Chancellor's Teaching Enhancement Grant.</p>
+   <p>(*This research was partially funded by an ANU Vice-Chancellor's Teaching Enhancement Grant.*)</p>
  
    <details>
    <summary>List of recent publications
