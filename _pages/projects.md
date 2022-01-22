@@ -119,6 +119,36 @@ Below are some projects that we currently work on:
   </div>
  </div>
 </div>
+  
+ <div class="row">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
+   <protit> Differential Privacy on Graphs </protit>
+   
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-dp.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Differential privacy has received increasing attention in recent years, since it offers a robust privacy guarantee while making no assumptions about the prior knowledge of an adversary. Although appealing, it is acknowledged that designing differentially private data publishing mechanisms is challenging, particularly on graphs which are often highly sensitive to structural changes. This project aims to develop algorithms and techniques that enable to publish graph-structured data under differential privacy, while preserving data utility as much as possible.
+   
+   <div class="div-c">
+ 
+   <details>
+   <summary>List of recent publications
+   </summary>
+    
+   - <span style="color:#006080">Publishing Differentially Private Datasets via Stable Microaggregation</span>, M. Iftikhar, Q. Wang, and Y. Lin, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_281.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+    
+   - <span style="color:#006080">dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees</span>, M. Iftikhar, Q. Wang, and Y. Lin, The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020 ( <a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_15"> <span style="background-color: #e6f2ff"> pdf </span> </a>).
+    
+   - <span style="color:#006080">dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy</span>, M. Iftikhar and Q. Wang, The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 ( <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29">  <span style="background-color: #e6f2ff"> pdf </span></a>)
+    
+   - <span style="color:#006080">dK-Personalization: Publishing Network Statistics with Personalized Differential Privacy</span>, M. Iftikhar, Q. Wang, and K. Li, The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 (to appear)  
+       
+   </details>
+    
+   </div>
+  
+  
+  </div>
+ </div>
+</div>
 
 {% comment %}  
 **Deep Learning for Graph Isomorphism.** Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
