@@ -158,8 +158,10 @@ Below are some projects that we are currently working on / or have worked on in 
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-ER-AL.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Entity Resolution (ER) is an important and ubiquitous component of real-world applications in various fields, such as national census, health sector, crime and fraud detection, bibliographic statistics, and online shopping. A major challenge in learning-based entity resolution is how to reduce the label cost for training. Due to the quadratic nature of record pair comparison, labeling is a costly task that requires a significant effort from human experts. This challenge is further aggravated when the underlying data distribution is highly imbalanced, which commonly occurs in entity resolution applications. The project aims to investigate active learning techniques for entity resolution.
    
-   <div class="div-c">
- 
+  <div class="div-c">
+   
+  <p>(*This research was partially funded by the Australian Government through the Australian Research Council.*)</p>
+
    <details>
    <summary>List of recent publications
    </summary>
