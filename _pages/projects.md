@@ -149,6 +149,41 @@ Below are some projects that we currently work on:
   </div>
  </div>
 </div>
+   
+   
+ <div class="row">
+ <div class="col-sm-19 clearfix">
+  <div class="well">
+   <protit> Entity Resolution with Active Learning </protit>
+   
+   <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-er-al.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Entity Resolution (ER) is an important and ubiquitous component of real-world applications in various fields, such as national census, health sector, crime and fraud detection, bibliographic statistics, and online shopping. A major challenge in learning-based entity resolution is how to reduce the label cost for training. Due to the quadratic nature of record pair comparison, labeling is a costly task that requires a significant effort from human experts. This project investigates active learning techniques for entity resolution.
+   
+   <div class="div-c">
+ 
+   <details>
+   <summary>List of recent publications
+   </summary>
+    
+   - <span style="color:#006080">Active Blocking Scheme Learning for Entity Resolution</span>, J. Shao and Q. Wang, The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2018 ( <a href="https://link.springer.com/chapter/10.1007/978-3-319-93037-4_28"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+    
+   - <span style="color:#006080">Repairing of Record Linkage: Turing Errors into Insight</span>, Q. Bui-Nguyen, Q. Wang, J. Shao, and D. Vatsalan, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_223.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+    
+   - <span style="color:#006080">Skyblocking for Entity Resolution</span>, J. Shao, Q. Wang and Y. Lin, Information Systems, Volume 85, November 2019 ( <a href="https://www.sciencedirect.com/science/article/pii/S0306437918304770?casa_token=2OrkwEoV9GMAAAAA:VN3ZESu4afUiEn9WQum7EMEQhZiK-_Jhqe5-N3TV6g6R91PI-OhkAB8VH6-CVAwWqf4HUuWWUg">  <span style="background-color: #e6f2ff"> pdf </span></a>\|<a href="https://arxiv.org/abs/1805.12319"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)
+    
+   - <span style="color:#006080">Learning to Sample: an Active Learning Framework</span>, J. Shao, Q. Wang and F. Liu, IEEE International Conference on Data Mining (ICDM), 2019 ( <a href="https://ieeexplore.ieee.org/abstract/document/8970699">  <span style="background-color: #e6f2ff"> pdf </span></a>\|<a href="https://arxiv.org/abs/1909.03585"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)
+     
+   - <span style="color:#006080">ErGAN: Generative Adversarial Networks for Entity Resolution</span>, J. Shao, Q. Wang, A. Wijesinghe, and E. Rahm, IEEE International Conference on Data Mining (ICDM), 2020 ( <a href="https://ieeexplore.ieee.org/abstract/document/9338382">  <span style="background-color: #e6f2ff"> pdf </span></a>\|<a href="https://arxiv.org/abs/2012.10004"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)   
+    
+   - <span style="color:#006080">Entity Resolution with Active Learning</span>, J. Shao, PhD thesis, Australian National University, 2021 ( <a href="https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>)  
+    
+   </details>
+    
+   </div>
+  
+  
+  </div>
+ </div>
+</div>
 
 {% comment %}  
 **Deep Learning for Graph Isomorphism.** Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
