@@ -6,9 +6,9 @@ sitemap: true
 permalink: /projects/
 ---
 
-### Current Projects
+### Projects
 
-Below are some projects that we currently work on:
+Below are some projects that we are currently working on / or have worked on in the past.
 
 <div class="row">
  <div class="col-sm-19 clearfix">
@@ -210,4 +210,3 @@ The figure below shows that our <a href="https://github.com/mufarhan/highway_lab
   {::options parse_block_html="false" /}
  {% endcomment %} 
 
-#### ... and more.
