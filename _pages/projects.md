@@ -46,7 +46,7 @@ Below are some projects that we currently work on:
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/wokas36/RWK"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
-   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR), 2022 (<a href="https://openreview.net/forum?id=uxgg9o7bI_3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)"> <span style="background-color: #e6f2ff"> preprint </span>)   
+   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR), 2022 (<a href="https://openreview.net/forum?id=uxgg9o7bI_3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)"> <span style="background-color: #e6f2ff"> preprint </span> </a>)   
     
    </details>
     
