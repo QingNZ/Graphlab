@@ -77,8 +77,19 @@
 - name: Gathika Ratnayaka
   photo: gathika2.jpg
   info: PhD Student
-  area: Deep Learning for Graphs
+  area: Graph Matching
   email: gathika.ratnayaka@anu.edu.au
+  number_educ: 1
+  education1: B.Sc. (Hons), University of Moratuwa, Sri Lanka
+  education2:
+  education3:
+  education4:
+  
+- name: Asela Hevapathige
+  photo: asela.jpg
+  info: PhD Student
+  area: Graph Representation Learning
+  email: asela.hevapathige@anu.edu.au
   number_educ: 1
   education1: B.Sc. (Hons), University of Moratuwa, Sri Lanka
   education2:
