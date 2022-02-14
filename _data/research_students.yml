@@ -1,3 +1,13 @@
+- name: Muhammad Farhan
+  photo: farhan.jpeg
+  photo_status: 1
+  info: PhD <a href="https://mufarhan.github.io">(webpage)</a>
+  topic: Answering Shortest Path Distance Queries in Large Complex Networks (under examination)
+  email: muhammad.farhan@anu.edu.au
+  number_educ: 2
+  education1: M.S. in CS, LUMS, Pakistan
+  education2: B.S. in CS, FAST, Pakistan
+
 - name: Jingyu Shao 
   photo: jingyu.jpg
   photo_status: 1
