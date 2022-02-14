@@ -95,3 +95,14 @@
   education2:
   education3:
   education4:
+  
+- name: Xincheng Xu
+  photo: xincheng.jpg
+  info: PhD Student
+  area: Privacy-Enhanced Analytics on Evolving Graphs
+  email: xincheng.xu@anu.edu.au
+  number_educ: 1
+  education1: BAC (Hons), Australian National University; SDUW
+  education2:
+  education3:
+  education4:
