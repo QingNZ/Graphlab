@@ -47,7 +47,7 @@ _____
 <br>
 
 <p>**EDBT 2021**</p> 
-<p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf)</p>
+<p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf) [(video)](https://graphlabanu.github.io/website/downloads/edbt2021-video.pdf)</p>
 
 <iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
 
