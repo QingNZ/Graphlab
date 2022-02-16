@@ -77,6 +77,9 @@ _____
 
 
 <p>**EDBT 2019**</p> 
+
+<p>Publishing Differentially Private Datasets via Stable Microaggregation [(Poster)](https://graphlabanu.github.io/website/downloads/EDBT2019_poster.pdf)</p>
+
 <p>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf)</p>
 
 <p> &nbsp; </p>
