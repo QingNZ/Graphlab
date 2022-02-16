@@ -80,6 +80,8 @@ _____
 
 <p>Publishing Differentially Private Datasets via Stable Microaggregation [(Poster)](https://graphlabanu.github.io/website/downloads/EDBT2019_poster.pdf)</p>
 
+<iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
+
 <p>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf)</p>
 
 <p> &nbsp; </p>
