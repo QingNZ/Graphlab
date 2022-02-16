@@ -133,7 +133,7 @@ Below are some projects that we are currently working on / or have worked on in 
    <summary>List of recent publications
    </summary>
     
-   - <span style="color:#006080">Publishing Differentially Private Datasets via Stable Microaggregation</span>, M. Iftikhar, Q. Wang, and Y. Lin, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_281.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+   - <span style="color:#006080">Publishing Differentially Private Datasets via Stable Microaggregation</span>, M. Iftikhar, Q. Wang, and Y. Lin, The 22nd International Conference on Extending Database Technology (EDBT), 2019 ( <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_281.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/EDBT2019_poster.pdf"> <span style="background-color: #e6f2ff"> poster </span> </a>)   
     
    - <span style="color:#006080">dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees</span>, M. Iftikhar, Q. Wang, and Y. Lin, The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020 ( <a href="https://link.springer.com/chapter/10.1007/978-3-030-47436-2_15"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/PAKDD2020_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>)
     
