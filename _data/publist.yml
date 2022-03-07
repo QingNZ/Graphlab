@@ -1,6 +1,6 @@
 - title: "BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale"
   image: SIGMOD2022-BatchHL.png
-  description: Very recently, several batch-dynamic algorithms have been reported, mostly focusing on traditional graph problems such as graph connectivity, dynamic trees and k-clique counting. As of yet, batch-dynamic algorithms for shortest-path distance have been left unexplored. In this work, we propose a batch-dynamic method, BatchHL, to dynamize distance labellings efficiently in order to reflect large batches of updates on a graph..
+  description: Very recently, several batch-dynamic algorithms have been reported, mostly focusing on traditional graph problems such as graph connectivity, dynamic trees and k-clique counting. As of yet, batch-dynamic algorithms for shortest-path distance have been left unexplored, depsite that distance querying is a fundmental problem in many real-world applications. In this work, we propose a batch-dynamic method, BatchHL, to dynamize distance labellings efficiently in order to reflect large batches of updates on a graph.
   authors: M. Farhan, Q. Wang, and H. Koehler
   link:
     url: 
