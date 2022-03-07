@@ -1,6 +1,6 @@
 - title: "A New Perspective on How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
   image: ICLR2022-GraphSNN.png
-  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures in neighborhood subgraphs, and discuss its connections with the WL test and GNNs. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
+  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures in neighborhood subgraphs, and discuss its connections with the WL test. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
   authors: A. Wijesinghe and Q. Wang
   link:
     url: https://openreview.net/pdf?id=uxgg9o7bI_3
