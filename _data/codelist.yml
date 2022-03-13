@@ -22,7 +22,7 @@
   codelink: https://github.com/mufarhan/FulHL
   paperlink: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
   
-- name: Graph Neural Neiwork that Goes Beyond Weisfeiler-Lehman (GraphSNN)
+- name: GNN that Goes Beyond Weisfeiler-Lehman (GraphSNN)
   image: letter-g.png
   description: 
   codelink: https://github.com/wokas36/GraphSNN
