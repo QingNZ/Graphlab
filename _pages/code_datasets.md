@@ -28,8 +28,9 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
  </div>
 </div>
 
-
-
+<ul>
+<li>nauty and Traces by Brendan McKay and Adolfo Piperno: <a href="https://pallini.di.uniroma1.it/">https://pallini.di.uniroma1.it/</a></li>
+</ul>
 
 ### Datasets
 
