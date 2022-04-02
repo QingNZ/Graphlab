@@ -1,3 +1,13 @@
+- name: Masooma Iftikhar
+  photo: masooma2.png
+  photo_status: 1
+  info: PhD
+  topic: Privacy-Preserving Data Publishing (under examination)
+  email: masooma.iftikhar@anu.edu.au
+  number_educ: 2
+  education1: M.S. in CS, UET, Pakistan 
+  education2: M.Sc., PUCIT, Pakistan
+  
 - name: Muhammad Farhan
   photo: farhan.jpeg
   photo_status: 1
