@@ -40,6 +40,13 @@ _____
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
+<p>**ICLR 2022**</p> 
+<p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? [(Oral Video)](href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178")</p>
+
+<iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
+
+<br>
+
 <p>**SIGMOD 2021**</p> 
 <p>Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf):</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
