@@ -42,8 +42,7 @@ _____
 
 <p>**ICLR 2022**</p> 
 <p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a>\|<a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster Video) <a>
- 
-<iframe width="560" height="315" src="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d" frameborder="0" allowfullscreen></iframe>
+
 
 <iframe width="800" height="300" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
 
@@ -58,7 +57,7 @@ _____
 <p>**EDBT 2021**</p> 
 <p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf) [(Video)](https://graphlabanu.github.io/website/downloads/edbt2021-video.pdf)</p>
 
-<iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
+<iframe width="800" height="400" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
 
 <br>
 
@@ -77,7 +76,7 @@ _____
 <p>**NeurIPS 2019**</p> 
 <p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019-slides.pdf)</p>
 
-<iframe width="800" height="450" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
+<iframe width="800" height="400" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
 
 <br>
 
