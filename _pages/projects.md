@@ -79,6 +79,8 @@ Below are some projects that we are currently working on / or have worked on in 
    - <span style="color:#006080">Fast Fully Dynamic Labelling For Distance Queries</span>, M. Farhan, Q. Wang, Y. Lin, and B. Mckay, The VLDB Journal, 2021 ( <a href="https://link.springer.com/article/10.1007%2Fs00778-021-00707-z"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://github.com/mufarhan/FulHL"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
    - <span style="color:#006080">BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale</span>, M. Farhan, Q. Wang, and H. Koehler, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022 ( <a href="https://arxiv.org/pdf/2204.11012.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+    
+   - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>)  
        
    </details>
     
