@@ -10,7 +10,7 @@ permalink: /activities/
 
 _____
 
-### <a name="Weekly-Study-Sessions"></a>Weekly Study Sessions
+### <a name="Weekly-Study-Sessions"></a>Weekly Presentation Sessions
 
 
 <p> </p>
