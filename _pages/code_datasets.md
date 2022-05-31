@@ -45,7 +45,9 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 <li>nauty and Traces by Brendan McKay and Adolfo Piperno: <a href="https://pallini.di.uniroma1.it/">https://pallini.di.uniroma1.it/</a></li>
 </ul>
 
-### Courses for Graph Machine Learning
+<br>
+
+### Courses
 
 <ul>
 <li>UBC: <a href="https://lrjconan.github.io/DL-structures/">Deep Learning with Structures</a></li>
