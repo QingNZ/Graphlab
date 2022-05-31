@@ -21,7 +21,7 @@ _____
 
 <p>**Venue:** Board room 4.15, Hanna Neumann Building, ANU campus.</p>
 
-
+{% comment %}  
 {% for presenter in site.data.group_study_presenters limit:3%}
 
 **--{{ presenter.date }}** <br>
@@ -36,6 +36,7 @@ _____
 
 <br>
 
+{% endcomment %}  
 _____
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
