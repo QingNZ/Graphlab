@@ -141,7 +141,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy</span>, M. Iftikhar and Q. Wang, The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 ( <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29">  <span style="background-color: #e6f2ff"> pdf </span></a>\|<a href="https://graphlabanu.github.io/website/downloads/PAKDD2021_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>\|<a href="http://users.cecs.anu.edu.au/~u5170295/files/dK-Projection.mp4"> <span style="background-color: #e6f2ff"> video </span></a>)
     
-   - <span style="color:#006080">dK-Personalization: Publishing Network Statistics with Personalized Differential Privacy</span>, M. Iftikhar, Q. Wang, and Y. Li, The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 (to appear)  
+   - <span style="color:#006080">dK-Personalization: Publishing Network Statistics with Personalized Differential Privacy</span>, M. Iftikhar, Q. Wang, and Y. Li, The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 ( <a href="https://link.springer.com/chapter/10.1007/978-3-031-05933-9_16">  <span style="background-color: #e6f2ff"> pdf </span></a>\|<a href="https://graphlabanu.github.io/website/downloads/PAKDD2022_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>)
        
    </details>
     
