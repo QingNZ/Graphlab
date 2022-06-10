@@ -61,7 +61,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 
 <div class="row">
  <div class="col-sm-19 clearfix">
-  <div class=“box”>
+  <div class=“well”>
    <protit> test </protit>
   
   </div>
