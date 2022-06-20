@@ -3,6 +3,12 @@
   description: 
   codelink: https://github.com/seanli3/asgat
   paperlink: https://arxiv.org/abs/2103.14187
+  
+- name: Batch-Dynamic Labelling for Distance Queries (BatchHL)
+  image: letter-b.png
+  description: 
+  codelink: https://github.com/mufarhan/batchHL
+  paperlink: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
 
 - name: GNN with Distributed Feedback-Looped Filters (DFNet)
   image: letter-d.png
@@ -44,8 +50,7 @@
   image: letter-r.png
   description: 
   codelink: https://github.com/wokas36/RWK
-  paperlink: https://arxiv.org/pdf/2110.02554.pdf
- 
+  paperlink: https://arxiv.org/pdf/2110.02554.pdf 
    
 - name: Declarative Framework for Network Analytics (Rogas)
   image: letter-r.png
