@@ -4,7 +4,7 @@
   codelink: https://github.com/seanli3/asgat
   paperlink: https://arxiv.org/abs/2103.14187
   
-- name: Batch-Dynamic Labelling for Distance Queries (BatchHL)
+- name: Batch-Dynamic Distance Labelling (BatchHL)
   image: letter-b.png
   description: 
   codelink: https://github.com/mufarhan/batchHL
