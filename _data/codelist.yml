@@ -22,7 +22,7 @@
   codelink: https://www.dropbox.com/s/cll23kem3yswg96/EAEN.zip
   paperlink: https://arxiv.org/abs/2106.09398
   
-- name: Fully Dynamic Labelling for Distance Queries (FulHL)
+- name: Fully Dynamic Distance Labelling (FulHL)
   image: letter-f.png
   description: 
   codelink: https://github.com/mufarhan/FulHL
