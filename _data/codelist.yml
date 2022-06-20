@@ -34,7 +34,7 @@
   codelink: https://github.com/wokas36/GraphSNN
   paperlink: https://openreview.net/pdf?id=uxgg9o7bI_3
   
-- name: Highway Cover Labelling (HL)
+- name: Highway Cover Labelling for Distance Queries (HL)
   image: letter-h.png
   description: 
   codelink: https://github.com/mufarhan/highway_labelling
