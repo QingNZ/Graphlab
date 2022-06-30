@@ -1,22 +1,12 @@
 ---
-title: "Graph Research Lab @ ANU - Home"
+title: 'Graph Research Lab @ ANU - Home'
 layout: homelay
-excerpt: "Graph Research Lab @ ANU"
+excerpt: 'Graph Research Lab @ ANU'
 sitemap: true
 permalink: /
 ---
 
-We are a research team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data. In today's real-world applications, graphs are ubiquitously used for representing complex objects and their relationships such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages. We focus on the following research areas:
-
-<ul>
-    <li> Graph theory and algorithms</li>
-    <li> Machine learning on graphs</li>
-    <li> Bridging between graph theory and machine learning</li>
-</ul>
-
-
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -25,7 +15,6 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>      
     </ol>
 
     <!-- Items -->
@@ -49,6 +38,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu6.jpg" alt="Slide 6" />
         </div>
     </div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -59,10 +49,56 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
   </a>
 </div>
 
+We are a research team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data. In today's real-world applications, graphs are ubiquitously used for representing complex objects and their relationships such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages. We focus on the following research areas:
+
+- Graph theory and algorithms
+- Machine learning on graphs
+- Bridging between graph theory and machine learning
+
+<h5>
+  Check out our <a href="{{ site.url }}{{ site.baseurl }}/publications">recent research highlights</a>
+</h5>
+
+<div id="html" markdown="0">
+  {% assign number_printed = 0 %}
+  <div class="row topic-row">
+      {% for project in site.data.projects %}
+      {% assign number_printed = number_printed | plus: 1 %}
+      {% assign even_odd = number_printed | modulo: 2 %}
+      {% if even_odd == 0 %}
+      <div class="col-sm-3 topic-card">
+        <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
+          <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="Card image cap" height="120" width="auto">
+          <div class="card-body">
+            <h6 class="card-title">{{ project.title }}</h6>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+  </div>
+  {% assign number_printed = 0 %}
+  <div class="row topic-row">
+      {% for project in site.data.projects %}
+      {% assign number_printed = number_printed | plus: 1 %}
+      {% assign even_odd = number_printed | modulo: 2 %}
+      {% if even_odd == 1 %}
+      <div class="col-sm-3 topic-card">
+        <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
+          <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="Card image cap" height="120" width="auto">
+          <div class="card-body">
+            <h6 class="card-title">{{ project.title }}</h6>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+  </div>
+
+</div>
+
 <div class="col-sm-6 clearfix">
  <div class="box">
    <protit>  </protit>
  </div>
 </div>
-
-

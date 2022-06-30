@@ -1,15 +1,23 @@
 - title: Deep Learning for Graph Isomorphism
-  page: /project-page-gi.html 
-  image: project-pic-gi.png
-  info: tbd
-  subproject1: Graph Matching
-  subproject2: Subgraph Matching
-  
-- title: Shortest-Path Algorithms
-  image: project-pic-gi.png
-  info: tbd
- 
+  page: projects#deep-learning
+  image: ICLR2022-GraphSNN.png
+
 - title: Geometric Graph Learning
-  image: project-pic-gi.png
-  info: tbd
-  
+  page: projects#gnn
+  image: PKDD2021-ASGAT.png
+
+- title: Shortest-Path Algorithms
+  page: projects#shortest-path
+  image: SIGMOD2022-BatchHL.png
+
+- title: Deep Knowledge Tracing
+  page: projects#knowledge-tracing
+  image: SIGIR2019-KT.jpeg
+
+- title: Differential Privacy on Graphs
+  page: projects#differential-privacy
+  image: PAKDD2021-dK.jpg
+
+- title: Entity Resolution with Active Learning
+  page: projects#entity-resolution
+  image: WSDM2018-FACH.png

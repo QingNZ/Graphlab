@@ -10,7 +10,7 @@ permalink: /projects/
 
 Below are some projects that we are currently working on / or have worked on in the past.
 
-<div class="row">
+<div class="row" id="deep-learning">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Deep Learning for Graph Isomorphism </protit>
@@ -27,7 +27,7 @@ Below are some projects that we are currently working on / or have worked on in 
  </div>
 </div>
 
-<div class="row">
+<div class="row project" id="gnn">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Geometric Graph Learning </protit>
@@ -57,7 +57,7 @@ Below are some projects that we are currently working on / or have worked on in 
  </div>
 </div>
 
-<div class="row">
+<div class="row project" id="shortest-path">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Shortest-Path Algorithms </protit>
@@ -90,7 +90,7 @@ Below are some projects that we are currently working on / or have worked on in 
  </div>
 </div>
 
-<div class="row">
+<div class="row project" id="knowledge-tracing">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Deep Learning for Knowledge Tracing </protit>
@@ -122,7 +122,7 @@ Below are some projects that we are currently working on / or have worked on in 
  </div>
 </div>
   
- <div class="row">
+ <div class="row project" id="differential-privacy">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Differential Privacy on Graphs </protit>
@@ -153,7 +153,7 @@ Below are some projects that we are currently working on / or have worked on in 
 </div>
    
    
- <div class="row">
+ <div class="row project" id="entity-resolution">
  <div class="col-sm-19 clearfix">
   <div class="well">
    <protit> Entity Resolution with Active Learning </protit>
