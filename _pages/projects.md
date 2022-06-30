@@ -20,6 +20,14 @@ Below are some projects that we are currently working on / or have worked on in 
   <div class="div-c">
    
   <p>(*This research is funded by the Australian Government through the Australian Research Council.*)</p>
+   
+    <details>
+   <summary>List of recent publications
+   </summary>
+
+   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions) 2022 (<a href="https://openreview.net/pdf?id=uxgg9o7bI_3"> <span style="background-color: #e6f2ff"> preprint </span> </a>\|<a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> <span style="background-color: #e6f2ff"> oral video </span> <a>\|<a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> <span style="background-color: #e6f2ff"> poster video </span> <a>\|<a href="https://github.com/wokas36/GraphSNN"> <span style="background-color: #e6f2ff"> code </span> </a>)   
+    
+   </details>
   
   </div>
    
@@ -45,8 +53,6 @@ Below are some projects that we are currently working on / or have worked on in 
    - <span style="color:#006080">Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs</span>, S. Li, D. Kim, and Q. Wang, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021 ( <a href="https://www.springerprofessional.de/en/beyond-low-pass-filters-adaptive-feature-propagation-on-graphs/19648510"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/abs/2103.14187"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/seanli3/asgat"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/wokas36/RWK"> <span style="background-color: #e6f2ff"> code </span> </a>)
-
-   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions) 2022 (<a href="https://openreview.net/pdf?id=uxgg9o7bI_3"> <span style="background-color: #e6f2ff"> preprint </span> </a>\|<a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> <span style="background-color: #e6f2ff"> oral video </span> <a>\|<a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> <span style="background-color: #e6f2ff"> poster video </span> <a>\|<a href="https://github.com/wokas36/GraphSNN"> <span style="background-color: #e6f2ff"> code </span> </a>)   
     
    </details>
     
