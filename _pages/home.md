@@ -63,10 +63,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
   {% assign number_printed = 0 %}
   <div class="row topic-row">
       {% for project in site.data.projects %}
-      {% assign number_printed = number_printed | plus: 1 %}
-      {% assign even_odd = number_printed | modulo: 2 %}
-      {% if even_odd == 0 %}
-      <div class="col-sm-3 topic-card">
+      <div class="col-md-3 col-xs-5 topic-card">
         <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
           <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="Card image cap" height="120" width="auto">
           <div class="card-body">
@@ -74,25 +71,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
           </div>
         </a>
       </div>
-      {% endif %}
-      {% endfor %}
-  </div>
-  {% assign number_printed = 0 %}
-  <div class="row topic-row">
-      {% for project in site.data.projects %}
-      {% assign number_printed = number_printed | plus: 1 %}
-      {% assign even_odd = number_printed | modulo: 2 %}
-      {% if even_odd == 1 %}
-      <div class="col-sm-3 topic-card">
-        <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
-          <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="Card image cap" height="120" width="auto">
-          <div class="card-body">
-            <h6 class="card-title">{{ project.title }}</h6>
-          </div>
-        </a>
-      </div>
-      {% endif %}
-      {% endfor %}
+     {% endfor %}
   </div>
 
 </div>
