@@ -21,7 +21,7 @@ Below are some projects that we are currently working on / or have worked on in 
    
   <p>(*This research is funded by the Australian Government through the Australian Research Council.*)</p>
    
-    <details>
+   <details>
    <summary>List of recent publications
    </summary>
 
