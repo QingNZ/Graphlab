@@ -5,19 +5,19 @@
 - title: Geometric Graph Learning
   page: projects#gnn
   image: PKDD2021-ASGAT.png
+  
+- title: Deep Knowledge Tracing
+  page: projects#knowledge-tracing
+  image: TKDE2022-GKT.png
 
 - title: Shortest-Path Algorithms
   page: projects#shortest-path
   image: EDBT2019-HL2.png
 
-- title: Deep Knowledge Tracing
-  page: projects#knowledge-tracing
-  image: TKDE2022-GKT.png
-
 - title: Differential Privacy on Graphs
   page: projects#differential-privacy
   image: PAKDD2021-dK.jpg
 
-- title: Entity Resolution with Active Learning
+- title: Entity Resolution
   page: projects#entity-resolution
-  image: WSDM2018-FACH.png
+  image: ProjectER-image.png
