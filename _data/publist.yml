@@ -13,7 +13,7 @@
   description: Very recently, several batch-dynamic algorithms have been reported, mostly focusing on traditional graph problems such as graph connectivity, dynamic trees and k-clique counting. As of yet, batch-dynamic algorithms for shortest-path distance have been left unexplored, depsite that distance querying is a fundmental problem in many real-world applications. In this work, we propose a batch-dynamic method, BatchHL, to dynamize distance labellings efficiently in order to reflect large batches of updates on a graph.
   authors: M. Farhan, Q. Wang, and H. Koehler
   link:
-    url: https://arxiv.org/pdf/2204.11012.pdf
+    url: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
     display: ACM Special Interest Group on Management of Data (SIGMOD), 2022 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
