@@ -1,3 +1,13 @@
+- title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
+  image: 
+  description:
+  authors: G. Abdelrahman and Q. Wang
+  link:
+    url: https://arxiv.org/abs/2108.08105
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 (arXiv link)
+  highlight: 1
+  news2: 
+
 - title: "Answering Shortest Path Distance Queries in Large Complex Networks"
   image: 
   description: 
@@ -33,7 +43,7 @@
   description:
   authors: M. Iftikhar, Q. Wang, and Y. Li
   link:
-    url: 
+    url: https://dl.acm.org/doi/abs/10.1007/978-3-031-05933-9_16
     display: The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 (paper link)
   highlight: 0
   news2: 
