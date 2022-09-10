@@ -1,6 +1,6 @@
 - title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
   image: TKDE2022-DGMN.jpg
-  description: Several recent attempts have enhanced knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, how to represent forgetting behaviours over time and how to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), dynamically tracing a student’s knowledge states over latent concepts. 
+  description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
   authors: G. Abdelrahman and Q. Wang
   link:
     url: https://arxiv.org/abs/2108.08105
