@@ -1,3 +1,13 @@
+- title: "Privacy-Preserving Data Publishing"
+  image: 
+  description: 
+  authors: M. Iftikhar
+  link:
+    url: https://graphlabanu.github.io/website/downloads/Masooma-thesis.pdf
+    display: PhD thesis, Australian National University, 2022 (thesis link)
+  highlight: 0
+  new2:
+
 - title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
   image: TKDE2022-DGMN.jpg
   description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
