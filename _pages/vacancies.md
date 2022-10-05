@@ -16,7 +16,7 @@ If you are a student at ANU with strong interests/backgrounds in graph algorithm
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
  {% endcomment %} 
 
-#### ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" (closed) ####
+#### ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
 [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
