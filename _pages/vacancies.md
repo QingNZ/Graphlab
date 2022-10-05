@@ -9,13 +9,13 @@ permalink: /vacancies
 ### Current open opportunities:
 <br/>
 
-### Projects for ANU Students
+#### 1. Projects for ANU Students
 If you are a student at ANU with strong interests/backgrounds in graph algorithms or graph machine learning, see <a href="https://cecs.anu.edu.au/research/student-research-projects/algorithms-and-machine-learning-graphs">the list of available projects</a>.
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
 
 
-#### 1. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
+#### 2. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" (closed) ####
 
 [PDF version]({{ site.baseurl }}/downloads/phd-scholarships-2021.pdf)
 
@@ -70,7 +70,7 @@ We	will review applications until the positions are filled. For onshore students
 
 &nbsp;
 
-#### 2. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" (closed) ####
+#### 3. Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" (closed) ####
 
 [PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
