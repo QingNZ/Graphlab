@@ -9,11 +9,12 @@ permalink: /vacancies
 ### Current open opportunities:
 <br/>
 
+ {% comment %} 
 #### Projects for ANU Students
 If you are a student at ANU with strong interests/backgrounds in graph algorithms or graph machine learning, see <a href="https://cecs.anu.edu.au/research/student-research-projects/algorithms-and-machine-learning-graphs">the list of available projects</a>.
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
-
+ {% endcomment %} 
 
 #### ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" (closed) ####
 
