@@ -39,6 +39,12 @@
   description: 
   codelink: https://github.com/mufarhan/highway_labelling
   paperlink: https://arxiv.org/abs/1812.02363
+  
+- name: Incremental Highway Cover Labelling (IncHL)
+  image: letter-i.png
+  description: 
+  codelink: https://github.com/mufarhan/IncHL_Plus
+  paperlink: https://arxiv.org/abs/2102.08529
 
 - name: Query-by-Sketch (QbS)
   image: letter-q.png
