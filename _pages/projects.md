@@ -115,7 +115,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)
     
-   - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, ACM Computing Surveys, 2022 ( <a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
+   - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, ACM Computing Surveys, 2022 ( <a href="https://www.computer.org/csdl/journal/tk/5555/01/09891841/1GF6hDpN9Pq"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
     
   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2022 ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
     
