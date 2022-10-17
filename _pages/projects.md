@@ -113,11 +113,11 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Knowledge Tracing with Sequential Key-Value Memory Networks</span>, G. Abdelrahman and Q. Wang, ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019 ( <a href="https://dl.acm.org/doi/10.1145/3331184.3331195"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>)
     
-   - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
+   - <span style="color:#006080">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 ( <a href="https://arxiv.org/abs/2108.08105"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)
     
-   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2022 ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
+   - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, ACM Computing Surveys, 2022 ( <a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
     
-   - <span style="color:#006080">Knowledge Tracing: A Survey</span>, G. Abdelrahman, Q. Wang, and B. Pereira Nunes, 2022 ( <a href="https://arxiv.org/abs/2201.06953">  <span style="background-color: #e6f2ff">arXiv </span></a>)  
+  - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2022 ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
     
    - <span style="color:#006080">DBE-KT22: A Knowledge Tracing Dataset Based on Online Student Evaluation</span>, G. Abdelrahman, S. Abdelfattah, Q. Wang, and Y. Lin, 2022 ( <a href="https://arxiv.org/abs/2208.12651"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
        
