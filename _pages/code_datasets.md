@@ -36,6 +36,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 <li>Ted Spence's home page (with datasets for graph isomorphism tests): <a href="http://www.maths.gla.ac.uk/~es/">http://www.maths.gla.ac.uk/~es/</a></li>
 <li>Open Graph Benchmark (OGB) datasets for graph machine learning: <a href="https://ogb.stanford.edu/">https://ogb.stanford.edu/</a></li>
 <li>nauty and Traces by Brendan McKay and Adolfo Piperno: <a href="https://pallini.di.uniroma1.it/">https://pallini.di.uniroma1.it/</a></li>
+<li>Database Exercises for Knowledge Tracing (DBE-KT22): <a href="https://dataverse.ada.edu.au/dataset.xhtml?persistentId=doi:10.26193/6DZWOH">https://dataverse.ada.edu.au/dataset.xhtml?persistentId=doi:10.26193/6DZWOH</a></li>
 </ul>
 
 <br>
