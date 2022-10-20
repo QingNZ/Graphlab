@@ -1,7 +1,7 @@
 - title: "Knowledge Tracing: A Survey"
   image: ACM-survey-2022.png
   description: This article provides a comprehensive review for the knowledge tracing (KT) literature. A broad range of methods starting from early attempts to recent state-of-the-art methods using deep learning have been covered, while we highlight the theoretical aspects of models and the characteristics of benchmark datasets. We also shed light on key modelling differences between closely related methods, discuss current research gaps in the KT literature, and possible future research directions.
-  authors: G. Abdelrahman, Q. Wang and B. Pereira Nunes
+  authors: G. Abdelrahman, Q. Wang, and B. Pereira Nunes
   link:
     url: https://arxiv.org/pdf/2201.06953.pdf
     display: ACM Computing Surveys, 2022 (to appear)
