@@ -77,6 +77,16 @@
     display: The VLDB Journal, 2021 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+  
+  - title: "Exploring Shortest Paths on Large-scale networks"
+  image: 
+  description: 
+  authors: Y. Wang
+  link:
+    url: https://graphlabanu.github.io/website/downloads/Ye-thesis.pdf
+    display: MPhil thesis, Australian National University, 2021 (thesis link)
+  highlight: 0
+  new2:
 
 - title: "A Regularized Wasserstein Framework for Graph Kernels"
   image: ICDM2021-RWF.png
