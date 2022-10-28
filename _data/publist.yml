@@ -3,8 +3,8 @@
   description: Knowledge Tracing (KT) concerns about how to effectively track the learning progress of a student through their online interaction with learning materials. We present a detailed survey of the KT literature. A broad range of methods starting from early attempts to recent state-of-the-art methods using deep learning have been covered, while we highlight the theoretical aspects of models and the characteristics of benchmark datasets. We also shed light on key modelling differences between closely related methods, discuss current research gaps in the KT literature, and possible future research directions.
   authors: G. Abdelrahman, Q. Wang, and B. Pereira Nunes
   link:
-    url: https://arxiv.org/pdf/2201.06953.pdf
-    display: ACM Computing Surveys, 2022 (to appear)
+    url: https://dl.acm.org/doi/10.1145/3569576
+    display: ACM Computing Surveys, 2022 (paper link)
   highlight: 1
   news2:
 
