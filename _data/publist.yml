@@ -77,16 +77,6 @@
     display: The VLDB Journal, 2021 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-  
-  - title: "Exploring Shortest Paths on Large-scale networks"
-  image: 
-  description: 
-  authors: Y. Wang
-  link:
-    url: https://graphlabanu.github.io/website/downloads/Ye-thesis.pdf
-    display: MPhil thesis, Australian National University, 2021 (thesis link)
-  highlight: 0
-  new2:
 
 - title: "A Regularized Wasserstein Framework for Graph Kernels"
   image: ICDM2021-RWF.png
@@ -165,7 +155,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-75768-7_1
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
-  highlight: 1
+  highlight: 0
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
   
 - title: "ErGAN: Generative Adversarial Networks for Entity Resolution"
