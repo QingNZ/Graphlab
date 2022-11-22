@@ -54,6 +54,8 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/wokas36/RWK"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
+  - <span style="color:#006080">Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>)
+    
    </details>
     
    </div>
