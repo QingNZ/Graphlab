@@ -9,7 +9,7 @@ permalink: /code_datasets/
 ### Source Code ### 
 _(Listed in alphabetical order of the model/algorithm/method names)_
 
-
+#### Graph Algorithms ####
 
 <div class="col-sm-19 clearfix">
  <div class="well">
@@ -28,7 +28,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
  </div>
 </div>
 
-
+#### Graph Machine Learning ####
 
 ### Datasets
 
