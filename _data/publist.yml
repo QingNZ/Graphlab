@@ -11,8 +11,6 @@
 - title: "A New Hierarchy of Expressivity for Graph Neural Networks"
   image: ICLR2023-G3N.png
   description: Is the Weisfeiler-Lehman (WL) hierarchy a good yardstick for expressivity of GNNs? In the search for an answer to this question, we show that, contrary to the widely accepted view, the WL hierarchy is not well-suited for measuring expressive GNNs. Thus, we explore a hierarchy of expressivity that is grounded on a new class of graph isomorphism algorithms, namely Neighbourhood WL algorithms, which exhibit a natural and strict hierarchy of expressivity for measuring GNNs.
-  %the simplicity of GNNs. 
-  This hierarchy overcomes the aforementioned limits of the $k$-WL hierarchy.
   authors: Q. Wang, D. Chen, A. Wijesinghe, S. Li, and M. Farhan
   link:
     url: https://openreview.net/pdf?id=5cAI0qXxyv
