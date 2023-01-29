@@ -97,7 +97,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
     
-    - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href=" "> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>)
+   - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href=" "> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>)
     
     
    </details>
@@ -131,7 +131,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
   - <span style="color:#006080">Learning Data Teaching Strategies Via Knowledge Tracing</span>, G. Abdelrahman and Q. Wang, 2022 ( <a href="https://arxiv.org/abs/2111.07083">  <span style="background-color: #e6f2ff">arXiv </span></a>)
     
-   - <span style="color:#006080">DBE-KT22: A Knowledge Tracing Dataset Based on Online Student Evaluation</span>, G. Abdelrahman, S. Abdelfattah, Q. Wang, and Y. Lin, 2022 ( <a href="https://arxiv.org/abs/2208.12651"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
+  - <span style="color:#006080">DBE-KT22: A Knowledge Tracing Dataset Based on Online Student Evaluation</span>, G. Abdelrahman, S. Abdelfattah, Q. Wang, and Y. Lin, 2022 ( <a href="https://arxiv.org/abs/2208.12651"> <span style="background-color: #e6f2ff"> arXiv </span> </a>).
        
    </details>
     
