@@ -1,3 +1,36 @@
+- title: "Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs"
+  image: JWWW2023-ParDHL.png
+  description: To reflect rapid changes on graphs when answering shortest-path distance queries, we devise a parallel fully dynamic labelling method, which leverages two sources of efficiency gains: landmark parallelism and anchor parallelism. Furthermore, it can handle both incremental and decremental updates efficiently using a unified search approach and a bounded repairing inference mechanism.
+  authors: M. Farhan and Q. Wang
+  link:
+    url: 
+    display: World Wide Web, 2023 (to appear)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
+- title: "A New Hierarchy of Expressivity for Graph Neural Networks"
+  image: ICLR2023-G3N.png
+  description: Is the Weisfeiler-Lehman (WL) hierarchy a good yardstick for expressivity of GNNs? In the search for an answer to this question, we show that, contrary to the widely accepted view, the WL hierarchy is not well-suited for measuring expressive GNNs. Thus, we explore a hierarchy of expressivity that is grounded on a new class of graph isomorphism algorithms, namely Neighbourhood WL algorithms, which exhibit a natural and strict hierarchy of expressivity for measuring GNNs.
+  %the simplicity of GNNs. 
+  This hierarchy overcomes the aforementioned limits of the $k$-WL hierarchy.
+  authors: Q. Wang, D. Chen, A. Wijesinghe, S. Li, and M. Farhan
+  link:
+    url: https://openreview.net/pdf?id=5cAI0qXxyv
+    display: International Conference on Learning Representations (ICLR), 2023 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+ 
+
+- title: "Geometric Learning on Graph Structured Data"
+  image: 
+  description: 
+  authors: A. Wijesinghe
+  link:
+    url: https://graphlabanu.github.io/website/downloads/Asiri-thesis.pdf
+    display: PhD thesis, Australian National University, 2023 (to appear)
+  highlight: 0
+  new2:
+
 - title: "Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering"
   image: AAAI2023-SC.png
   description: While a growing body of literature has been studying new Graph Neural Networks (GNNs) that work on both homophilic and heterophilic graphs, little has been done on adapting classical GNNs to less-homophilic graphs. Although the ability to handle less-homophilic graphs is restricted, classical GNNs still stand out in several nice properties such as efficiency, simplicity, and explainability. In this work, we propose a novel graph restructuring method that can be integrated into any type of GNNs, including classical GNNs, to leverage the benefits of existing GNNs while alleviating their limitations.
