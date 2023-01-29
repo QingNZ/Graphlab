@@ -1,28 +1,28 @@
-- name: BatchHL &#58; Batch-Dynamic Distance Labelling
+- name: BatchHL (Batch-Dynamic Distance Labelling)
   image: letter-b.png
   description: SIGMOD 2022
   codelink: https://github.com/mufarhan/batchHL
   paperlink: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
   
-- name: FulHL &#58; Fully Dynamic Distance Labelling
+- name: FulHL (Fully Dynamic Distance Labelling)
   image: letter-f.png
   description: VLDBJ 2022
   codelink: https://github.com/mufarhan/FulHL
   paperlink: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
   
-- name: HL &#58; Highway Cover Labelling for Distance Queries
+- name: HL (Highway Cover Labelling)
   image: letter-h.png
   description: EDBT 2019
   codelink: https://github.com/mufarhan/highway_labelling
   paperlink: https://openproceedings.org/2019/conf/edbt/EDBT19_paper_88.pdf
   
-- name: IncHL &#58; Incremental Highway Cover Labelling
+- name: IncHL (Incremental Highway Cover Labelling)
   image: letter-i.png
   description: EBDT 2021
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://openproceedings.org/2021/conf/edbt/p255.pdf
 
-- name: QbS &#58; Query-by-Sketch
+- name: QbS (Query-by-Sketch)
   image: letter-q.png
   description: SIGMOD 2021
   codelink: https://github.com/LeafyWang/QbS
