@@ -14,7 +14,7 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 <div class="col-sm-19 clearfix">
  <div class="well">
  
-  {% for code in site.data.codelist %}
+  {% for code in site.data.codelist_a %}
  
   
   <div class="row">
