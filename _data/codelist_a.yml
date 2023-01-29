@@ -1,6 +1,6 @@
 - name: Batch-Dynamic Distance Labelling (BatchHL)
   image: letter-b.png
-  description: 
+  description: test
   codelink: https://github.com/mufarhan/batchHL
   paperlink: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
   
