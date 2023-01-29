@@ -1,6 +1,6 @@
 - title: "Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs"
   image: JWWW2023-ParDHL.png
-  description: To reflect rapid changes on graphs when answering shortest-path distance queries, we devise a parallel fully dynamic labelling method, which leverages two sources of efficiency gains - landmark parallelism and anchor parallelism. Furthermore, it can handle both incremental and decremental updates efficiently using a unified search approach and a bounded repairing inference mechanism.
+  description: To reflect rapid changes on graphs when answering shortest-path distance queries, we devise a parallel fully dynamic labelling method, which can leverage two sources of efficiency gains - landmark parallelism and anchor parallelism. Furthermore, this fully dynamic method can handle both incremental and decremental updates efficiently using a unified search approach and a bounded repairing inference mechanism. We empirically verify its efficiency and scalability on 10 real-world large networks.
   authors: M. Farhan and Q. Wang
   link:
     url: 
