@@ -33,7 +33,7 @@
 
 - title: "Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering"
   image: AAAI2023-SC.png
-  description: While a growing body of literature has been studying new Graph Neural Networks (GNNs) that work on both homophilic and heterophilic graphs, little has been done on adapting classical GNNs to less-homophilic graphs. Although the ability to handle less-homophilic graphs is restricted, classical GNNs still stand out in several nice properties such as efficiency, simplicity, and explainability. In this work, we propose a novel graph restructuring method that can be integrated into any type of GNNs, including classical GNNs, to leverage the benefits of existing GNNs while alleviating their limitations.
+  description: While a growing body of literature has been studying new Graph Neural Networks (GNNs) that work on both homophilic and heterophilic graphs, little has been done on adapting classical GNNs to less-homophilic graphs. In this work, we propose a novel graph restructuring method that can be integrated into any type of GNNs, including classical GNNs, to leverage their nice properties such as efficiency, simplicity, and explainability while alleviating their limitations.
   authors: S. Li, D. Kim, and Q. Wang
   link:
     url: 
