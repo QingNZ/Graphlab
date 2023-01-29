@@ -21,3 +21,9 @@
   description: 
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://arxiv.org/abs/2102.08529
+
+- name: Query-by-Sketch (QbS)
+  image: letter-q.png
+  description: 
+  codelink: https://github.com/LeafyWang/QbS
+  paperlink: https://dl.acm.org/doi/10.1145/3448016.3452826
