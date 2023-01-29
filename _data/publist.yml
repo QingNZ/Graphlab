@@ -16,8 +16,7 @@
     url: https://openreview.net/pdf?id=5cAI0qXxyv
     display: International Conference on Learning Representations (ICLR), 2023 (paper link)
   highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
- 
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Geometric Learning on Graph Structured Data"
   image: 
