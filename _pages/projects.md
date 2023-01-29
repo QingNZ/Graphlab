@@ -25,7 +25,9 @@ Below are some projects that we are currently working on / or have worked on in 
    <summary>List of recent publications
    </summary>
 
-   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions) 2022 (<a href="https://openreview.net/pdf?id=uxgg9o7bI_3"> <span style="background-color: #e6f2ff"> preprint </span> </a>\|<a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> <span style="background-color: #e6f2ff"> oral video </span> <a>\|<a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> <span style="background-color: #e6f2ff"> poster video </span> <a>\|<a href="https://github.com/wokas36/GraphSNN"> <span style="background-color: #e6f2ff"> code </span> </a>)   
+   - <span style="color:#006080">A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"</span>, A. Wijesinghe and Q. Wang, International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions) 2022 (<a href="https://openreview.net/pdf?id=uxgg9o7bI_3"> <span style="background-color: #e6f2ff"> preprint </span> </a>\|<a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> <span style="background-color: #e6f2ff"> oral video </span> <a>\|<a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> <span style="background-color: #e6f2ff"> poster video </span> <a>\|<a href="https://github.com/wokas36/GraphSNN"> <span style="background-color: #e6f2ff"> code </span> </a>)  
+    
+  - <span style="color:#006080">A New Hierarchy of Expressivity for Graph Neural Networks"</span>, Q. Wang, D. Chen, A. Wijesinghe, S. Li, and M. Farhan, International Conference on Learning Representations (ICLR) 2023 (<a href="https://openreview.net/pdf?id=5cAI0qXxyv"> <span style="background-color: #e6f2ff"> preprint </span> </a>)  
     
    </details>
   
@@ -55,6 +57,9 @@ Below are some projects that we are currently working on / or have worked on in 
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://github.com/wokas36/RWK"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
   - <span style="color:#006080">Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>)
+    
+  - <span style="color:#006080">Geometric Learning on Graph Structured Data</span>, A. Wijesinghe, PhD thesis, Australian National University, 2023 ( <a href=" ">  <span style="background-color: #e6f2ff"> pdf (to appear) </span></a>) 
+
     
    </details>
     
@@ -90,7 +95,11 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale</span>, M. Farhan, Q. Wang, and H. Koehler, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022 ( <a href="https://dl.acm.org/doi/abs/10.1145/3514221.3517883"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/pdf/2204.11012.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/SIGMOD2022_slides.pdf"> <span style="background-color: #e6f2ff"> slides </span> </a>\|<a href="http://users.cecs.anu.edu.au/~u5170295/files/SIGMOD2022_video.mp4"> <span style="background-color: #e6f2ff"> video </span></a>)
     
-   - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>)        
+   - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
+    
+    - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href=" "> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>)
+    
+    
    </details>
     
    </div>
