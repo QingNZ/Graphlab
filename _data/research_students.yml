@@ -1,8 +1,8 @@
-- name: Asiri Wijesinghe <a href="https://graphlabanu.github.io/website/downloads/Asiri_thesis_slides.pdf">(Presentation slides)</a>
+- name: Asiri Wijesinghe
   photo: asiri.jpeg
   photo_status: 1
   info: PhD
-  topic: Geometric Learning on Graph Structured Data
+  topic: Geometric Learning on Graph Structured Data <a href="https://graphlabanu.github.io/website/downloads/Asiri_thesis_slides.pdf">(Presentation slides)</a>
   email: asiri.wijesinghe@anu.edu.au
   number_educ: 1
   education1: B.Sc. (Hons), University of Colombo, Sri Lanka
