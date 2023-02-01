@@ -27,3 +27,9 @@
   description: SIGMOD 2021
   codelink: https://github.com/LeafyWang/QbS
   paperlink: https://dl.acm.org/doi/10.1145/3448016.3452826
+
+- name: Rogas (Declarative Framework for Network Analytics)
+  image: letter-r.png
+  description: VLDB 2016
+  codelink: https://github.com/CornucopiaRG/Rogas
+  paperlink: https://dl.acm.org/doi/10.14778/3007263.3007309
