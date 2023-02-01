@@ -4,7 +4,7 @@
   codelink: https://github.com/seanli3/asgat
   paperlink: https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_707.pdf
  
-- name: ASC (Graph Restructuring Method based on Adaptive Spectral Clustering)
+- name: ASC (Graph Restructuring based on Adaptive Spectral Clustering)
   image: letter-a.png
   description: AAAI 2023
   codelink: https://github.com/seanli3/graph_restructure
