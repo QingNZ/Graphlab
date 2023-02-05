@@ -41,6 +41,14 @@ _____
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
+<p>**AAAI 2023**</p> 
+<p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> (Poster) <a></p>
+
+
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png" frameborder="0"></iframe>
+
+<br>
+
 <p>**SIGMOD 2022**</p> 
 <p>BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2022_slides.pdf):</p>
 
