@@ -45,7 +45,7 @@ _____
 <p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> (Poster) <a></p>
 
 
-<iframe width="500" height="800" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png" frameborder="0"></iframe>
+<iframe width="500" height="800" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.pdf" frameborder="0"></iframe>
 
 <br>
 
