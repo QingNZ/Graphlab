@@ -15,6 +15,24 @@ If you are a student at ANU with strong interests/backgrounds in graph algorithm
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
  {% endcomment %} 
+ 
+### PhD opportunity: 
+We are looking for an excellent candidate for a Ph.D. position in the Graph Research Lab (<a href="https://graphlabanu.github.io/website/">https://graphlabanu.github.io/website/</a>), School of Computing at the Australian National University. You will work under the supervision of Associate Professor Qing Wang, Dr Muhammad Farhan, Dr Henning Koehler and Professor Brendan McKay. You will be involved in developing new techniques and theory to advance state-of-the-art research in the area of graph algorithms, graph theory, and network science. 
+
+The ideal candidate should have 
+
+-  a Bachelor/Master’s degree in computing or mathematics with first-class honours or equivalent
+-  a very good background in algorithms and theoretical computer science
+-  excellent programming skills in C/C++/Java 
+
+Please email your inquiries/applications to Dr. Muhammad Farhan (<a href = "mailto: muhammad.farhan@anu.edu.au">muhammad.farhan@anu.edu.au</a>) with the subject ‘PhD Application’ and the following documents: 
+
+-  Cover letter and/or essay
+-  Resume
+-  Academic transcripts
+-  Prior research work (thesis/papers etc.)
+-  Contact details of 2-3 referees
+
 
 #### ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
