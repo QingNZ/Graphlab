@@ -34,7 +34,7 @@ Please email your inquiries/applications to Dr. Muhammad Farhan (<a href = "mail
 <li> Cover letter and/or essay </li>
 <li> Resume </li>
 <li> Academic transcripts </li>
-<li> Prior research work (thesis/papers etc.) </li>
+<li> Prior research work (thesis/research papers etc.) </li>
 <li> Contact details of 2-3 referees </li>
 </ol>
 
