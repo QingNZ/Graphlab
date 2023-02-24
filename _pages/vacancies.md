@@ -17,6 +17,9 @@ Please be noted that our supervision capacity is limited and we can only run 1-3
  {% endcomment %} 
  
 #### PhD opportunity: 
+
+[PDF version]({{ site.baseurl }}/downloads/GraphLabPhDopportunity.pdf) 
+
 We are looking for an excellent candidate for a Ph.D. position in the Graph Research Lab (<a href="https://graphlabanu.github.io/website/">https://graphlabanu.github.io/website/</a>), School of Computing at the Australian National University. You will work under the supervision of Associate Professor Qing Wang, Dr Muhammad Farhan, Dr Henning Koehler and Professor Brendan McKay. You will be involved in developing new techniques and theory to advance state-of-the-art research in the area of graph algorithms, graph theory, and network science. 
 
 The ideal candidate should have 
