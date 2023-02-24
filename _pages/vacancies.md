@@ -30,11 +30,13 @@ The ideal candidate should have
 
 Please email your inquiries/applications to Dr. Muhammad Farhan (<a href = "mailto: muhammad.farhan@anu.edu.au">muhammad.farhan@anu.edu.au</a>) with the subject ‘PhD Application’ and the following documents: 
 
--  Cover letter and/or essay
--  Resume
--  Academic transcripts
--  Prior research work (thesis/papers etc.)
--  Contact details of 2-3 referees
+<ol type = "1">
+<li> Cover letter and/or essay </li>
+<li> Resume </li>
+<li> Academic transcripts </li>
+<li> Prior research work (thesis/papers etc.) </li>
+<li> Contact details of 2-3 referees </li>
+</ol>
 
 &nbsp;
 
