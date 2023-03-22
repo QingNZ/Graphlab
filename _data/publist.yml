@@ -3,8 +3,8 @@
   description: To reflect rapid changes on graphs when answering shortest-path distance queries, we devise a parallel fully dynamic labelling method, which can leverage two sources of efficiency gains - landmark parallelism and anchor parallelism. Furthermore, this fully dynamic method can handle both incremental and decremental updates efficiently using a unified search approach and a bounded repairing inference mechanism. We empirically verify its efficiency and scalability on 10 real-world large networks.
   authors: M. Farhan and Q. Wang
   link:
-    url: 
-    display: World Wide Web, 2023 (to appear)
+    url: https://link.springer.com/article/10.1007/s11280-023-01146-2
+    display: World Wide Web, 2023
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
