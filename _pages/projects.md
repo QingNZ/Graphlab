@@ -97,7 +97,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
     
-   - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href=" "> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>)
+   - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href="https://link.springer.com/article/10.1007/s11280-023-01146-2"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
     
     
    </details>
