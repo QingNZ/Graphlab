@@ -1,3 +1,12 @@
+- name: Ghodai Abdelrahman
+  photo: ghodai.jpg
+  photo_status: 1
+  info: PhD
+  topic: Knowledge Tracing Using Deep Learning Methods (under examination)
+  email: ghodai.abdelrahman@anu.edu.au
+  number_educ: 1
+  education1: B.Sc. and M.Sc., Helwan University, Egypt
+
 - name: Asiri Wijesinghe
   photo: asiri.jpeg
   photo_status: 1
