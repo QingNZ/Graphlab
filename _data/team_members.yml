@@ -41,17 +41,6 @@
   education3:
   education4:
   
-- name: Ghodai Abdelrahman
-  photo: ghodai.jpg
-  info: PhD Student
-  area: Knowledge Tracing
-  email: ghodai.abdelrahman@anu.edu.au
-  number_educ: 1
-  education1: B.Sc. and M.Sc., Helwan University, Egypt
-  education2:
-  education3:
-  education4: 
-  
 - name: Sean Li
   photo: sean2.jpeg
   info: PhD Student (with CSIRO)
