@@ -1,7 +1,15 @@
-- date: 25 March 2023
+- date: 25 Apr 2023
+  headline: Sean's paper "<a href="">Local Vertex Colouring Graph Neural Network</a>" is accepted to ICML 2023. Congratulations, Sean!
+  
+  
+- date: 26 Mar 2023
+  headline: Ghodai's paper "<a href="https://www.sciencedirect.com/science/article/pii/S0950705123002617?via%3Dihub">Learning Data Teaching Strategies via Knowledge Tracing</a>" is accepted for publication at Knowledge-based Systems. 
+
+
+- date: 25 Mar 2023
   headline: Congratulations to Ghodai for submitting your thesis. Well done!
 
-- date: 9 March 2023
+- date: 9 Mar 2023
   headline: Congratulations on your doctorate, Asiri. Well deserved!
   
 - date: 24 Feb 2023
@@ -14,7 +22,7 @@
   headline: Our paper "<a href="https://openreview.net/pdf?id=5cAI0qXxyv">N-WL&#58; A New Hierarchy of Expressivity for Graph Neural Networks</a>" is to appear at ICLR 2023. 
 
 - date: 20 Nov 2022
-  headline: Sean's paper "<a href="https://graphlabanu.github.io/website/publications/">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</a>" is accepted to AAAI 2023. Congratulations Sean!
+  headline: Sean's paper "<a href="https://graphlabanu.github.io/website/publications/">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</a>" is accepted to AAAI 2023 (oral). Congratulations Sean!
 
 - date: 18 Oct 2022
   headline: Our survey paper "<a href="https://dl.acm.org/doi/10.1145/3569576">Knowledge Tracing&#58; A Survey</a>" is to appear at ACM Computing Surveys. Congratulations to everyone.
@@ -22,10 +30,10 @@
 - date: 10 Sep 2022
   headline: Ghodai's paper "<a href="https://graphlabanu.github.io/website/publications/">Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing</a>" is accepted for publication at TKDE. 
 
-- date: 20 June 2022
+- date: 20 Jun 2022
   headline: Buddhi will be joining us soon. Welcome!
 
-- date: 1 June 2022
+- date: 1 Jun 2022
   headline: Congratulations on finishing the PhD journey and starting your postdoc, Farhan!
 
 - date: 24 Mar 2022
