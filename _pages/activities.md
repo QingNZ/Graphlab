@@ -41,10 +41,17 @@ _____
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
+<p>**ICLR 2023**</p> 
+
+<p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks [(Poster)](https://graphlabanu.github.io/website/downloads/ICLR2023_poster.pdf)</p>
+
+<p> &nbsp; </p>
+
+
 <p>**AAAI 2023**</p> 
 <p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> (Poster) <a></p>
 
-<iframe width="600" height="800" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.pdf" frameborder="0"></iframe>
+<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.pdf" frameborder="0"></iframe>
 
 <br>
 
