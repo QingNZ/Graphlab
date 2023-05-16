@@ -74,9 +74,9 @@
   authors: S. Li, D. Kim, and Q. Wang
   link:
     url: 
-    display: The 37th AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 (to appear)
+    display: The 37th AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023
   highlight: 1
-  news2:
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Knowledge Tracing: A Survey"
   image: ACM-survey-2022.png
