@@ -103,7 +103,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href="https://link.springer.com/article/10.1007/s11280-023-01146-2"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
     
-    - <span style="color:#006080">BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks</span>, M. Farhan, H. Koehler, and Q. Wang, The VLDB Journal, 2023 ( <a href=""> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
+   - <span style="color:#006080">BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks</span>, M. Farhan, H. Koehler, and Q. Wang, The VLDB Journal, 2023 ( <a href=""> <span style="background-color: #e6f2ff"> pdf (to appear) </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
     
    </details>
