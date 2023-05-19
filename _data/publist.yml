@@ -1,12 +1,12 @@
 - title: "BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks"
   image: VLDBJ2023-Batch+.png
-  description: We develop a new batch-dynamic method, called BatchHL+, which can dynamize labelling for distance queries much more efficiently than existing work. We provide formal proofs for the correctness and minimality of BatchHL+ which require a delicate analysis of patterns of interactions. Empirically, BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
+  description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
   authors: M. Farhan, H. Koehler, and Q. Wang
   link:
     url: 
     display: The VLDB Journal, 2023 (to appear)
   highlight: 1
-  news2: (Source code available [soon](https://graphlabanu.github.io/website/code_datasets/)) 
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Contrastive Learning for Supervised Graph Matching"
   image: UAI2023-GM.png
