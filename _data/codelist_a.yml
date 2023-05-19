@@ -28,7 +28,7 @@
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://openproceedings.org/2021/conf/edbt/p255.pdf
   
-- name: ParDHL (Parallel Dynamic Highway Labelling)
+- name: ParDHL (Parallel Dynamic Highway Cover Labelling)
   image: letter-p.png
   description: WWW 2023
   codelink: https://github.com/mufarhan/ParDHL
