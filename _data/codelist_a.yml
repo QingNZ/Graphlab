@@ -4,6 +4,12 @@
   codelink: https://github.com/mufarhan/batchHL
   paperlink: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
   
+- name: BatchHL+ (Improved Batch-Dynamic Distance Labelling)
+  image: letter-b.png
+  description: VLDBJ 2023
+  codelink: https://github.com/mufarhan/BatchHL-Plus
+  paperlink: 
+  
 - name: FulHL (Fully Dynamic Distance Labelling)
   image: letter-f.png
   description: VLDBJ 2022
@@ -21,6 +27,12 @@
   description: EBDT 2021
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://openproceedings.org/2021/conf/edbt/p255.pdf
+  
+- name: ParDHL (Parallel Dynamic Highway Labelling)
+  image: letter-p.png
+  description: WWW 2023
+  codelink: https://github.com/mufarhan/ParDHL
+  paperlink: https://link.springer.com/article/10.1007/s11280-023-01146-2
 
 - name: QbS (Query-by-Sketch)
   image: letter-q.png
