@@ -13,7 +13,7 @@ Below are some projects that we are currently working on / or have worked on in 
 <div class="row" id="deep-learning">
  <div class="col-sm-19 clearfix">
   <div class="well">
-   <protit> Deep Learning for Graph Isomorphism </protit>
+   <protit> Deep Learning and Graph Isomorphism </protit>
    
    <img src="{{ site.url }}{{ site.baseurl }}/images/propic/project-GI3.jpg" class="img-responsive" width="40%" style="float:left; Padding-top: -20px;Padding-right: 15px;" /> Graph isomorphism is a fundamental concept for exploiting the structure of graphs. This project aims to develop new heuristic techniques and theories for graph isomorphism, advancing state-of-the-art methodologies for its applications in solving real-world problems. Inspired by recent advances in machine learning, this project will investigate graph isomorphism problems from a deep learning perspective by marrying the best approaches from classic graph isomorphism studies with new techniques from modern AI. This is an important step towards bridging the gap between combinatorical generalization and deep learning.
   
@@ -60,7 +60,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://ieeexplore.ieee.org/abstract/document/9679092"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
-  - <span style="color:#006080">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
+  - <span style="color:#006080">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>\|<a href="https://arxiv.org/abs/2206.02386"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
   - <span style="color:#006080">Geometric Learning on Graph Structured Data</span>, A. Wijesinghe, PhD thesis, Australian National University, 2023 ( <a href=" ">  <span style="background-color: #e6f2ff"> pdf (to appear) </span></a>) 
 
