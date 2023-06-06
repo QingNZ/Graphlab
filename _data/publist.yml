@@ -73,7 +73,7 @@
   description: While a growing body of literature has been studying new Graph Neural Networks (GNNs) that work on both homophilic and heterophilic graphs, little has been done on adapting classical GNNs to less-homophilic graphs. In this work, we propose a novel graph restructuring method that can be integrated into any type of GNNs, including classical GNNs, to leverage their nice properties such as efficiency, simplicity, and explainability while alleviating their limitations.
   authors: S. Li, D. Kim, and Q. Wang
   link:
-    url: 
+    url: https://arxiv.org/abs/2206.02386
     display: The 37th AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
