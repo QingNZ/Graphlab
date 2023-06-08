@@ -1,35 +1,49 @@
-- name: ASGAT (GNN with Attention-Based Adaptive Aggregation)
+- name: GNN with Attention-Based Adaptive Aggregation (ASGAT)
   image: letter-a.png
   description: ECML-PKDD 2021
   codelink: https://github.com/seanli3/asgat
   paperlink: https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_707.pdf
  
-- name: ASC (Graph Restructuring via Adaptive Spectral Clustering)
+- name: Graph Restructuring via Adaptive Spectral Clustering (ASC)
   image: letter-a.png
   description: AAAI 2023
   codelink: https://github.com/seanli3/graph_restructure
   paperlink: 
   
-- name: DFNet (Spectral GNN with Feedback-Looped Filters)
+- name: Spectral GNN with Feedback-Looped Filters (DFNet)
   image: letter-d.png
   description: NeurIPS 2019
   codelink: https://github.com/wokas36/DFNets
   paperlink: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
   
-- name: GraphSNN (GNN that Goes Beyond Weisfeiler-Lehman)
+- name: GNN that Goes Beyond Weisfeiler-Lehman (GraphSNN)
   image: letter-g.png
   description: ICLR 2022
   codelink: https://github.com/wokas36/GraphSNN
   paperlink: https://openreview.net/pdf?id=uxgg9o7bI_3
 
-- name: G3N (Graph Neighbourhood Neural Network)
+- name: Graph Neighbourhood Neural Network (G3N)
   image: letter-g.png
   description: ICLR 2023
   codelink: https://github.com/seanli3/G3N
   paperlink: https://openreview.net/pdf?id=5cAI0qXxyv
+  
+- name: Local Vertex Colouring GNN (LVC)
+  image: letter-l.png
+  description: ICML 2023
+  codelink: https://github.com/seanli3/lvc
+  paperlink:  
 
-- name: RWK (Regularized Wasserstein Kernel)
+- name: Regularized Wasserstein Kernel (RWK)
   image: letter-r.png
   description: ICDM 2021
   codelink: https://github.com/wokas36/RWK
   paperlink: https://ieeexplore.ieee.org/abstract/document/9679092 
+  
+- name: Stable Graph Matching (StableGM)
+  image: letter-s.png
+  description: UAI 2023
+  codelink: https://github.com/Gathika94/StableGM
+  paperlink: 
+  
+
