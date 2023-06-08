@@ -3,20 +3,20 @@
   description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
   authors: M. Farhan, H. Koehler, and Q. Wang
   link:
-    url: 
-    display: The VLDB Journal, 2023 (to appear)
+    url: https://link.springer.com/article/10.1007/s00778-023-00799-9
+    display: The VLDB Journal, 2023
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Contrastive Learning for Supervised Graph Matching"
   image: UAI2023-GM.png
-  description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and related with respect to each positive sample. StableGM, a new deep graph matching architecture, is proposed, which can theoretically guarantee the dual-optimality of matching solutions.
+  description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and related with respect to each positive sample. StableGM, a new deep graph matching architecture based stable marriage algorithms, is proposed, which can theoretically guarantee the dual-optimality of matching solutions.
   authors: G. Ratnayaka, Q. Wang, and Y. Li
   link:
     url: 
     display: The 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 (to appear)
   highlight: 1
-  news2: (Source code available [soon](https://graphlabanu.github.io/website/code_datasets/)) 
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Local Vertex Colouring Graph Neural Networks"
   image: ICML2023-LVC.png
@@ -26,7 +26,7 @@
     url: 
     display: International Conference on Machine Learning (ICML), 2023 (to appear)
   highlight: 1
-  news2: (Source code available [soon](https://graphlabanu.github.io/website/code_datasets/)) 
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Learning Data Teaching Strategies via Knowledge Tracing"
   image: 
