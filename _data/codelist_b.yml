@@ -29,7 +29,7 @@
   paperlink: https://openreview.net/pdf?id=5cAI0qXxyv
   
 - name: Local Vertex Colouring GNN (LVC)
-  image: letter-r.png
+  image: letter-l.png
   description: ICML 2023
   codelink: https://github.com/seanli3/lvc
   paperlink:  
@@ -41,7 +41,7 @@
   paperlink: https://ieeexplore.ieee.org/abstract/document/9679092 
   
 - name: Stable Graph Matching (StableGM)
-  image: letter-r.png
+  image: letter-s.png
   description: UAI 2023
   codelink: https://github.com/Gathika94/StableGM
   paperlink: 
