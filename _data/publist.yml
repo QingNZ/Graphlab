@@ -10,7 +10,7 @@
 
 - title: "Contrastive Learning for Supervised Graph Matching"
   image: UAI2023-GM.png
-  description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and related with respect to each positive sample. StableGM, a new deep graph matching architecture based stable marriage algorithms, is proposed, which can theoretically guarantee the dual-optimality of matching solutions.
+  description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and relevant. We propose StableGM, a new deep graph matching architecture based on stable marriage algorithms, which can theoretically guarantee the dual-optimality of matching solutions.
   authors: G. Ratnayaka, Q. Wang, and Y. Li
   link:
     url: 
