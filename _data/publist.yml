@@ -23,8 +23,8 @@
   description: Graph search, a fundamental element of graph theory, plays an important role in solving many problems that cannot be tackled by GNNs. In this work, we investigate the expressivity of graph neural network (GNN) from the perspective of graph search. Two classical graph search methods, breadth-first search (BFS) and depth-first search (DFS), are studied in the context of GNNs. We show either method can be used to design a vertex colouring algorithm, called local vertex colouring (LVC), which goes beyond 1-WL. 
   authors: S. Li, D. Kim, and Q. Wang
   link:
-    url: 
-    display: International Conference on Machine Learning (ICML), 2023 (to appear)
+    url: https://openreview.net/forum?id=szL4HN4hkH
+    display: International Conference on Machine Learning (ICML), 2023 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
