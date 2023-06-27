@@ -13,8 +13,8 @@
   description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and relevant. We propose StableGM, a new deep graph matching architecture based on stable marriage algorithms, which can theoretically guarantee the dual-optimality of matching solutions.
   authors: G. Ratnayaka, Q. Wang, and Y. Li
   link:
-    url: 
-    display: The 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 (to appear)
+    url: https://openreview.net/forum?id=Vkv4vh7kkz
+    display: The 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
