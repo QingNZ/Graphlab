@@ -1,3 +1,13 @@
+- title: "Knowledge Tracing Using Deep Learning Methods"
+  image: 
+  description: 
+  authors: G. Abdelrahman
+  link:
+    url: 
+    display: PhD thesis, Australian National University, 2023 (thesis link)
+  highlight: 0
+  new2:
+  
 - title: "BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks"
   image: VLDBJ2023-Batch+.png
   description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
