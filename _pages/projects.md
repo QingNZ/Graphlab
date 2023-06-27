@@ -31,7 +31,7 @@ Below are some projects that we are currently working on / or have worked on in 
        
   - <span style="color:#006080">Local Vertex Colouring Graph Neural Networks</span>, S. Li, D. Kim, and Q. Wang, 40th International Conference on Machine Learning (ICML), 2023 ( <a href="https://openreview.net/pdf?id=szL4HN4hkH"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href=""> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
-   - <span style="color:#006080">Contrastive Learning for Supervised Graph Matching</span>, G. Ratnayaka, Q. Wang, and Y. Li, 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>\|<a href=""> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
+   - <span style="color:#006080">Contrastive Learning for Supervised Graph Matching</span>, G. Ratnayaka, Q. Wang, and Y. Li, 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 ( <a href="https://openreview.net/forum?id=Vkv4vh7kkz"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href=""> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
    </details>
   
@@ -101,7 +101,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">Answering Shortest Path Distance Queries in Large Complex Networks</span>, M. Farhan, PhD thesis, Australian National University, 2022 ( <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
     
-   - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href="https://link.springer.com/article/10.1007/s11280-023-01146-2"> <span style="background-color: #e6f2ff"> pdf </span> </a>)
+   - <span style="color:#006080">Efficient Maintenance of Highway Cover Labelling for Distance Queries on Large Dynamic Graphs</span>, M. Farhan and Q. Wang, World Wide Web, 2023 ( <a href="https://link.springer.com/article/10.1007/s11280-023-01146-2"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
    - <span style="color:#006080">BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks</span>, M. Farhan, H. Koehler, and Q. Wang, The VLDB Journal, 2023 ( <a href="https://link.springer.com/article/10.1007/s00778-023-00799-9"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
