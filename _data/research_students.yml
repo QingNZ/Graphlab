@@ -2,7 +2,7 @@
   photo: ghodai.jpg
   photo_status: 1
   info: PhD
-  topic: Knowledge Tracing Using Deep Learning Methods (under examination) <a href="https://graphlabanu.github.io/website/downloads/Ghodai_thesis_slides.pdf">(Presentation slides)</a>
+  topic: Knowledge Tracing Using Deep Learning Methods <a href="https://graphlabanu.github.io/website/downloads/Ghodai_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/293680">(Thesis)</a>
   email: ghodai.abdelrahman@anu.edu.au
   number_educ: 1
   education1: B.Sc. and M.Sc., Helwan University, Egypt
@@ -11,7 +11,7 @@
   photo: asiri.jpeg
   photo_status: 1
   info: PhD
-  topic: Geometric Learning on Graph Structured Data <a href="https://graphlabanu.github.io/website/downloads/Asiri_thesis_slides.pdf">(Presentation slides)</a>
+  topic: Geometric Learning on Graph Structured Data <a href="https://graphlabanu.github.io/website/downloads/Asiri_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/282514">(Thesis)</a>
   email: asiri.wijesinghe@anu.edu.au
   number_educ: 1
   education1: B.Sc. (Hons), University of Colombo, Sri Lanka
@@ -20,7 +20,7 @@
   photo: masooma2.png
   photo_status: 1
   info: PhD
-  topic: Privacy-Preserving Data Publishing <a href="https://graphlabanu.github.io/website/downloads/Masooma_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Masooma-thesis.pdf">(Thesis)</a>
+  topic: Privacy-Preserving Data Publishing <a href="https://graphlabanu.github.io/website/downloads/Masooma_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/272877">(Thesis)</a>
 
   email: masooma.iftikhar@anu.edu.au
   number_educ: 2
@@ -31,7 +31,7 @@
   photo: farhan.jpeg
   photo_status: 1
   info: PhD <a href="https://mufarhan.github.io">(webpage)</a>
-  topic: Answering Shortest Path Distance Queries in Large Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Farhan_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Farhan-thesis.pdf">(Thesis)</a>
+  topic: Answering Shortest Path Distance Queries in Large Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Farhan_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/264711">(Thesis)</a>
   email: muhammad.farhan@anu.edu.au
   number_educ: 2
   education1: M.S. in CS, LUMS, Pakistan
@@ -41,7 +41,7 @@
   photo: jingyu.jpg
   photo_status: 1
   info: PhD <a href="https://j-shao.github.io/j-shao/index.html">(webpage)</a>
-  topic: Entity Resolution with Active Learning <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Jingyu-thesis.pdf">(Thesis)</a>
+  topic: Entity Resolution with Active Learning <a href="https://graphlabanu.github.io/website/downloads/Jingyu_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/250431">(Thesis)</a>
   email: jingyu.shao@anu.edu.au
   number_educ: 2
   education1: Master by Research, UTS, Australia
@@ -51,7 +51,7 @@
   photo: ye.jpg
   photo_status: 1
   info: MPhil
-  topic: Exploring Shortest Paths on Large-Scale Networks <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/Ye-thesis.pdf">(Thesis)</a>
+  topic: Exploring Shortest Paths on Large-Scale Networks <a href="https://graphlabanu.github.io/website/downloads/Ye_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/252964">(Thesis)</a>
   email: ye.wang2@anu.edu.au
   number_educ: 1
   education1: B.Sc. in CS, HIT, China
@@ -60,7 +60,7 @@
   photo: omid.jpeg
   photo_status: 1
   info: PhD  <a href="http://users.cecs.anu.edu.au/~u5410055/">(webpage)</a>
-  topic: Community Structure in Large-Scale Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Omid_thesis_slides.pdf">(Presentation slides)</a> <a href="https://graphlabanu.github.io/website/downloads/mojtaba-thesis.pdf">(Thesis)</a>
+  topic: Community Structure in Large-Scale Complex Networks <a href="https://graphlabanu.github.io/website/downloads/Omid_thesis_slides.pdf">(Presentation slides)</a> <a href="https://openresearch-repository.anu.edu.au/handle/1885/187032">(Thesis)</a>
   email:
   number_educ: 2
   education1: M.Sc. in CS, AUT, Iran
