@@ -60,9 +60,9 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">A Regularized Wasserstein Framework for Graph Kernels</span>, A. Wijesinghe, Q. Wang and S. Gould, IEEE International Conference on Data Mining (ICDM), 2021 ( <a href="https://ieeexplore.ieee.org/abstract/document/9679092"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/pdf/2110.02554.pdf"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
-  - <span style="color:#006080">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>\|<a href="https://arxiv.org/abs/2206.02386"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
+  - <span style="color:#006080">Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering</span>, S. Li, D. Kim, and Q. Wang, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 ( <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26038"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://arxiv.org/abs/2206.02386"> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> <span style="background-color: #e6f2ff"> poster </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
-  - <span style="color:#006080">Geometric Learning on Graph Structured Data</span>, A. Wijesinghe, PhD thesis, Australian National University, 2023 ( <a href=" ">  <span style="background-color: #e6f2ff"> pdf (to appear) </span></a>) 
+  - <span style="color:#006080">Geometric Learning on Graph Structured Data</span>, A. Wijesinghe, PhD thesis, Australian National University, 2023 ( <a href="https://openresearch-repository.anu.edu.au/handle/1885/282514">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
 
     
    </details>
@@ -139,7 +139,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">DBE-KT22: A Knowledge Tracing Dataset Based on Online Student Evaluation</span>, G. Abdelrahman, S. Abdelfattah, Q. Wang, and Y. Lin, 2022 ( <a href="https://arxiv.org/abs/2208.12651"> <span style="background-color: #e6f2ff"> arXiv </span> </a>)
    
-   - <span style="color:#006080">Knowledge Tracing Using Deep Learning Methods</span>, G. Abdelrahman, PhD thesis, Australian National University, 2023 ( <a href="">  <span style="background-color: #e6f2ff"> pdf (to appear) </span></a>) 
+   - <span style="color:#006080">Knowledge Tracing Using Deep Learning Methods</span>, G. Abdelrahman, PhD thesis, Australian National University, 2023 ( <a href="https://openresearch-repository.anu.edu.au/handle/1885/293680">  <span style="background-color: #e6f2ff"> pdf </span></a>) 
        
    </details>
     
