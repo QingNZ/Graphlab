@@ -59,7 +59,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 - Machine learning on graphs
 - Bridging graph theory and machine learning
 - Graphs and logic  
-\
+
 <h5>
   Check out our <a href="{{ site.url }}{{ site.baseurl }}/publications">recent research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">research opportunities</a>.
 </h5>
