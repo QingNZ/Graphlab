@@ -8,7 +8,7 @@
   image: letter-a.png
   description: AAAI 2023
   codelink: https://github.com/seanli3/graph_restructure
-  paperlink: 
+  paperlink: https://ojs.aaai.org/index.php/AAAI/article/view/26038
   
 - name: Spectral GNN with Feedback-Looped Filters (DFNet)
   image: letter-d.png
@@ -32,8 +32,8 @@
   image: letter-l.png
   description: ICML 2023
   codelink: https://github.com/seanli3/lvc
-  paperlink:  
-
+  paperlink: https://openreview.net/pdf?id=szL4HN4hkH
+  
 - name: Regularized Wasserstein Kernel (RWK)
   image: letter-r.png
   description: ICDM 2021
@@ -44,6 +44,6 @@
   image: letter-s.png
   description: UAI 2023
   codelink: https://github.com/Gathika94/StableGM
-  paperlink: 
+  paperlink: https://openreview.net/forum?id=Vkv4vh7kkz
   
 
