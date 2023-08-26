@@ -105,6 +105,7 @@ Below are some projects that we are currently working on / or have worked on in 
     
    - <span style="color:#006080">BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks</span>, M. Farhan, H. Koehler, and Q. Wang, The VLDB Journal, 2023 ( <a href="https://link.springer.com/article/10.1007/s00778-023-00799-9"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
+   - <span style="color:#006080">Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks</span>, M. Farhan, H. Koehler, R. Ohms, and Q. Wang, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024 ( <a href=""> <span style="background-color: #e6f2ff"> to appear </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
     
    </details>
     
