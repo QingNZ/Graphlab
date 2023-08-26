@@ -1,3 +1,13 @@
+- title: "Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks"
+  image: SIGMOD2024-HCL.png
+  description: Labelling-based solutions are the current state-of-the-arts to render fast response time to answer distance queries on road networks. However, they still result in large search spaces on distance labels at query time, when road networks are large. We propose a novel solution based on a simple but efficient data structure, called balanced tree hierarchy, which can perform 1.5-4 times faster in query processing and achieve up to 60% smaller labelling size compared to the state-of-the-art approaches.
+  authors: M. Farhan, H. Koehler, R. Ohms, and Q. Wang
+  link:
+    url: 
+    display: ACM Special Interest Group on Management of Data (SIGMOD), 2024 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+
 - title: "Knowledge Tracing Using Deep Learning Methods"
   image: 
   description: 
