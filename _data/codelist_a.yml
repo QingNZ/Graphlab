@@ -15,6 +15,12 @@
   description: VLDBJ 2022
   codelink: https://github.com/mufarhan/FulHL
   paperlink: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
+
+- name: HC2L (Hierarchical Cut 2-hop Labelling)
+  image: letter-h.png
+  description: SIGMOD 2024
+  codelink: https://github.com/henningkoehlernz/road-networks
+  paperlink: https://graphlabanu.github.io/website/publications/
   
 - name: HL (Highway Cover Labelling)
   image: letter-h.png
