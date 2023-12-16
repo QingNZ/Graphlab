@@ -3,8 +3,8 @@
   description: Labelling-based solutions are the current state-of-the-arts to render fast response time to distance queries on road networks. However, they still result in large search spaces on distance labels when road networks are large. We propose a novel solution based on a simple but efficient data structure, called balanced tree hierarchy, which can perform 1.5-4 times faster in query processing and achieve up to 60% smaller labelling size compared to the state-of-the-art approaches.
   authors: M. Farhan, H. Koehler, R. Ohms, and Q. Wang
   link:
-    url: https://arxiv.org/abs/2311.11063
-    display: ACM Special Interest Group on Management of Data (SIGMOD), 2024 (to appear)
+    url: https://dl.acm.org/doi/pdf/10.1145/3626731
+    display: ACM Special Interest Group on Management of Data (SIGMOD), 2024
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
