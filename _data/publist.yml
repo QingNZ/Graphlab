@@ -158,16 +158,6 @@
   highlight: 0
   news2: 
 
-- title: "A Regularized Wasserstein Framework for Graph Kernels"
-  image: ICDM2021-RWF.png
-  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
-  authors: A. Wijesinghe, Q. Wang and S. Gould
-  link:
-    url: https://arxiv.org/pdf/2110.02554.pdf
-    display: IEEE International Conference on Data Mining (ICDM), 2021 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-
 - title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
   image: TKDE2022-DGMN.jpg
   description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
@@ -177,6 +167,16 @@
     display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 (paper link)
   highlight: 1
   news2:
+
+- title: "A Regularized Wasserstein Framework for Graph Kernels"
+  image: ICDM2021-RWF.png
+  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
+  authors: A. Wijesinghe, Q. Wang and S. Gould
+  link:
+    url: https://arxiv.org/pdf/2110.02554.pdf
+    display: IEEE International Conference on Data Mining (ICDM), 2021 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
 - title: "Fast Fully Dynamic Labelling For Distance Queries"
   image: JVLDB2021-HLFUL.jpg
@@ -287,16 +287,6 @@
     display: IEEE International Conference on Big Data (IEEE BigData), 2020 (paper link)
   highlight: 0
   news2:  
-  
-- title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
-  image: NIPS2019-DFNets.png
-  description: We propose a novel spectral convolutional neural network model on graph-structured data, namely Distributed Feedback-Looped Networks (DFNets). This model is incorporated with a robust class of spectral graph filters, called feedback-looped filters, to provide better localization on vertices, while still attaining fast convergence and linear memory requirements.
-  authors: A. Wijesinghe and Q. Wang
-  link:
-    url: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
-    display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
 - title: "A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks"
   image: EDBT2019-HL.png
@@ -305,6 +295,16 @@
   link:
     url: https://arxiv.org/abs/1812.02363
     display: The 22nd International Conference on Extending Database Technology (EDBT), 2019 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+  
+- title: "DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters"
+  image: NIPS2019-DFNets.png
+  description: We propose a novel spectral convolutional neural network model on graph-structured data, namely Distributed Feedback-Looped Networks (DFNets). This model is incorporated with a robust class of spectral graph filters, called feedback-looped filters, to provide better localization on vertices, while still attaining fast convergence and linear memory requirements.
+  authors: A. Wijesinghe and Q. Wang
+  link:
+    url: https://proceedings.neurips.cc/paper/2019/file/f87522788a2be2d171666752f97ddebb-Paper.pdf
+    display: The 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
   
