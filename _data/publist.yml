@@ -18,16 +18,6 @@
   highlight: 0
   new2:
   
-- title: "BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks"
-  image: VLDBJ2023-Batch+.png
-  description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world complex networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
-  authors: M. Farhan, H. Koehler, and Q. Wang
-  link:
-    url: https://link.springer.com/article/10.1007/s00778-023-00799-9
-    display: The VLDB Journal, 2023 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
-
 - title: "Contrastive Learning for Supervised Graph Matching"
   image: UAI2023-GM.png
   description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and relevant. We propose StableGM, a new deep graph matching architecture based on stable marriage algorithms, which can theoretically guarantee the dual-optimality of matching solutions.
@@ -35,6 +25,16 @@
   link:
     url: https://openreview.net/forum?id=Vkv4vh7kkz
     display: The 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+  
+- title: "BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks"
+  image: VLDBJ2023-Batch+.png
+  description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world complex networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
+  authors: M. Farhan, H. Koehler, and Q. Wang
+  link:
+    url: https://link.springer.com/article/10.1007/s00778-023-00799-9
+    display: The VLDB Journal, 2023 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
@@ -88,6 +88,16 @@
   highlight: 0
   new2:
 
+- title: "BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale"
+  image: SIGMOD2022-BatchHL.png
+  description: Very recently, several batch-dynamic algorithms have been reported, mostly focusing on traditional graph problems such as graph connectivity, dynamic trees and k-clique counting. As of yet, batch-dynamic algorithms for shortest-path distance have been left unexplored, depsite that distance querying is a fundmental problem in many real-world applications. In this work, we propose a batch-dynamic method, BatchHL, to dynamize distance labellings efficiently in order to reflect large batches of updates on a graph.
+  authors: M. Farhan, Q. Wang, and H. Koehler
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
+    display: ACM Special Interest Group on Management of Data (SIGMOD), 2022 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
 - title: "Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering"
   image: AAAI2023-SC.png
   description: While a growing body of literature has been studying new Graph Neural Networks (GNNs) that work on both homophilic and heterophilic graphs, little has been done on adapting classical GNNs to less-homophilic graphs. In this work, we propose a novel graph restructuring method that can be integrated into any type of GNNs, including classical GNNs, to leverage their nice properties such as efficiency, simplicity, and explainability while alleviating their limitations.
@@ -97,6 +107,16 @@
     display: The 37th AAAI Conference on Artificial Intelligence (AAAI - Oral), 2023 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+
+- title: "A New Perspective on How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
+  image: ICLR2022-GraphSNN.png
+  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures, and discuss its connections with the WL test. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
+  authors: A. Wijesinghe and Q. Wang
+  link:
+    url: https://openreview.net/pdf?id=uxgg9o7bI_3
+    display: International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions), 2022 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
 - title: "Knowledge Tracing: A Survey"
   image: ACM-survey-2022.png
@@ -118,16 +138,6 @@
   highlight: 0
   new2:
 
-- title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
-  image: TKDE2022-DGMN.jpg
-  description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
-  authors: G. Abdelrahman and Q. Wang
-  link:
-    url: https://arxiv.org/abs/2108.08105
-    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 (paper link)
-  highlight: 1
-  news2:
-  
 - title: "Answering Shortest Path Distance Queries in Large Complex Networks"
   image: 
   description: 
@@ -137,26 +147,6 @@
     display: PhD thesis, Australian National University, 2022 (thesis link)
   highlight: 0
   new2:
-
-- title: "BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale"
-  image: SIGMOD2022-BatchHL.png
-  description: Very recently, several batch-dynamic algorithms have been reported, mostly focusing on traditional graph problems such as graph connectivity, dynamic trees and k-clique counting. As of yet, batch-dynamic algorithms for shortest-path distance have been left unexplored, depsite that distance querying is a fundmental problem in many real-world applications. In this work, we propose a batch-dynamic method, BatchHL, to dynamize distance labellings efficiently in order to reflect large batches of updates on a graph.
-  authors: M. Farhan, Q. Wang, and H. Koehler
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3514221.3517883
-    display: ACM Special Interest Group on Management of Data (SIGMOD), 2022 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-
-- title: "A New Perspective on How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
-  image: ICLR2022-GraphSNN.png
-  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures, and discuss its connections with the WL test. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
-  authors: A. Wijesinghe and Q. Wang
-  link:
-    url: https://openreview.net/pdf?id=uxgg9o7bI_3
-    display: International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions), 2022 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
   
 - title: "dK-Personalization: Publishing Network Statistics with Personalized Differential Privacy"
   image: 
@@ -167,6 +157,16 @@
     display: The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022 (paper link)
   highlight: 0
   news2: 
+
+- title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
+  image: TKDE2022-DGMN.jpg
+  description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
+  authors: G. Abdelrahman and Q. Wang
+  link:
+    url: https://arxiv.org/abs/2108.08105
+    display: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 (paper link)
+  highlight: 1
+  news2:
 
 - title: "Fast Fully Dynamic Labelling For Distance Queries"
   image: JVLDB2021-HLFUL.jpg
@@ -235,7 +235,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007%2F978-3-030-75765-6_29
     display: The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2021 (paper link)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Exploring Shortest Paths on Large-Scale Networks"
