@@ -108,16 +108,6 @@
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
-- title: "A New Perspective on How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
-  image: ICLR2022-GraphSNN.png
-  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures, and discuss its connections with the WL test. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
-  authors: A. Wijesinghe and Q. Wang
-  link:
-    url: https://openreview.net/pdf?id=uxgg9o7bI_3
-    display: International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions), 2022 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-
 - title: "Knowledge Tracing: A Survey"
   image: ACM-survey-2022.png
   description: Knowledge Tracing (KT) concerns about how to effectively track the learning progress of a student through their online interaction with learning materials. We present a detailed survey of the KT literature. A broad range of methods starting from early attempts to recent state-of-the-art methods using deep learning have been covered, while we highlight the theoretical aspects of models and the characteristics of benchmark datasets. We also shed light on key modelling differences between closely related methods, discuss current research gaps in the KT literature, and possible future research directions.
@@ -127,6 +117,16 @@
     display: ACM Computing Surveys, 2022 (paper link)
   highlight: 1
   news2:
+
+- title: "A New Perspective on How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
+  image: ICLR2022-GraphSNN.png
+  description: How to design expressive yet simple GNNs that can go beyond the WL test with a theoretically provable guarantee? We introduce a new hierarchy of local isomorphism to characterise different classes of local structures, and discuss its connections with the WL test. We also develop a general solution to inject structural properties into a message-passing aggregation scheme, and theoretically characterize how GNNs can be designed to be more expressive beyond the WL test.
+  authors: A. Wijesinghe and Q. Wang
+  link:
+    url: https://openreview.net/pdf?id=uxgg9o7bI_3
+    display: International Conference on Learning Representations (ICLR - Oral, 54 out of 3391 submissions), 2022 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
 - title: "Privacy-Preserving Data Publishing"
   image: 
@@ -158,6 +158,16 @@
   highlight: 0
   news2: 
 
+- title: "A Regularized Wasserstein Framework for Graph Kernels"
+  image: ICDM2021-RWF.png
+  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
+  authors: A. Wijesinghe, Q. Wang and S. Gould
+  link:
+    url: https://arxiv.org/pdf/2110.02554.pdf
+    display: IEEE International Conference on Data Mining (ICDM), 2021 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
 - title: "Deep Graph Memory Networks for Forgetting-Robust Knowledge Tracing"
   image: TKDE2022-DGMN.jpg
   description: Several recent attempts have enhanced deep knowledge tracing (KT) models with an external memory structure to represent knowledge states. However, challenges still remain, e.g., how to represent forgetting behaviours over time? How to identify relationships among latent concepts from questions? We tackle these challenges by introducing a novel forgetting-robust KT model, Deep Graph Memory Network (DGMN), to dynamically trace a student’s knowledge states over latent concepts. 
@@ -175,16 +185,6 @@
   link:
     url: https://link.springer.com/article/10.1007%2Fs00778-021-00707-z
     display: The VLDB Journal, 2021 (paper link)
-  highlight: 1
-  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-
-- title: "A Regularized Wasserstein Framework for Graph Kernels"
-  image: ICDM2021-RWF.png
-  description: We propose a learning framework for graph kernels which is theoretically grounded on regularizing optimal transport. Regularized Wasserstein (RW) discrepancy can preserve both features and structure of graphs via Wasserstein distances on features and their local variations, local barycenters and global connectivity. Two strongly convex regularization terms are introduced to improve the learning ability. The framework is robust and can guarantee the numerical stability in optimization.
-  authors: A. Wijesinghe, Q. Wang and S. Gould
-  link:
-    url: https://arxiv.org/pdf/2110.02554.pdf
-    display: IEEE International Conference on Data Mining (ICDM), 2021 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
 
@@ -225,7 +225,7 @@
   link:
     url: https://arxiv.org/abs/2102.08529
     display: The 24th International Conference on Extending Database Technology (EDBT), 2021 (paper link)
-  highlight: 1
+  highlight: 0
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
  
 - title: "dK-Projection: Publishing Graph Joint Degree Distribution with Node Differential Privacy"
