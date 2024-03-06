@@ -10,6 +10,8 @@ permalink: /publications/
 
 (For a list of recent publications see [below](#list-of-recent-publications))
 
+[Graph machine learning](#graph-machine-learning)), [Graph algorithms](#graph-algorithms)), [Knowledge tracing](#knowledge-tracing)) &nbsp;
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
