@@ -20,7 +20,7 @@
   
 - title: "Contrastive Learning for Supervised Graph Matching"
   image: UAI2023-GM.png
-  description: Deep graph matching techniques have shown promising results in recent years. In this work, we cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to effectively incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative and relevant. We propose StableGM, a new deep graph matching architecture based on stable marriage algorithms, which can theoretically guarantee the dual-optimality of matching solutions.
+  description: Deep graph matching techniques have shown promising results in recent years. We cast deep graph matching as a contrastive learning task. Then we explore the power of contrastive loss to incorporate an one-to-one mapping constraint into the learning objective through the choice of negative samples that are most informative. This leads to StableGM, a new deep graph matching architecture based on stable marriage algorithms, with theoretical guarantees of the dual-optimality of matching solutions.
   authors: G. Ratnayaka, Q. Wang, and Y. Li
   link:
     url: https://openreview.net/forum?id=Vkv4vh7kkz
@@ -30,7 +30,7 @@
   
 - title: "BatchHL+: Batch Dynamic Labelling for Distance Queries on Large-Scale Networks"
   image: VLDBJ2023-Batch+.png
-  description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, we provide formal proofs for the correctness and minimality of BatchHL+ through a delicate analysis of patterns of interactions. Empirically, we show that BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world complex networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
+  description: We develop a new batch-dynamic algorithm, called BatchHL+, which can dynamize distance labelling for distance queries much more efficiently than existing work. Theoretically, the correctness and minimality of BatchHL+ are proven through a delicate analysis of patterns of interactions. Empirically, BatchHL+ significantly outperforms the state-of-the-art methods on 15 real-world complex networks, with up to 3 orders of magnitude faster in reflecting updates of rapidly changing graphs for distance queries.
   authors: M. Farhan, H. Koehler, and Q. Wang
   link:
     url: https://link.springer.com/article/10.1007/s00778-023-00799-9
