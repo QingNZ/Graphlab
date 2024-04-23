@@ -9,12 +9,15 @@ permalink: /vacancies
 ### Current open opportunities:
 <br/>
 
- {% comment %} 
-#### Projects for ANU Students
-If you are a student at ANU with strong interests/backgrounds in graph algorithms or graph machine learning, see <a href="https://cecs.anu.edu.au/research/student-research-projects/algorithms-and-machine-learning-graphs">the list of available projects</a>.
+ 
+#### Projects for students who are looking for research opportunities
+
+If you are a student with strong interests/backgrounds in algorithms, see <a href="https://comp.anu.edu.au/study/projects/geometric-route-planning/">Geometric Route Planning</a>.
+
+If you are a student at ANU with strong interests/backgrounds in graph machine learning, see <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Graph Deep Learning - Theory and Practice</a>.
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
- {% endcomment %} 
+
  
 #### PhD opportunity: 
 
