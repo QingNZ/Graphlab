@@ -18,6 +18,7 @@ If you are a student at ANU with strong interests/backgrounds in graph machine l
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
 
+&nbsp;
  
 #### PhD opportunity: 
 
