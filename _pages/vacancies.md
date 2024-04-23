@@ -10,11 +10,11 @@ permalink: /vacancies
 <br/>
 
  
-#### Research Opportunities:
+#### Research Project Opportunities:
 
 If you are a student with strong interests/backgrounds in algorithms, see <a href="https://comp.anu.edu.au/study/projects/geometric-route-planning/">Geometric Route Planning</a>.
 
-If you are a student at ANU with strong interests/backgrounds in graph machine learning, see <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Graph Deep Learning - Theory and Practice</a>.
+If you are a student with strong interests/backgrounds in graph machine learning, see <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Graph Deep Learning - Theory and Practice</a>.
 
 Please be noted that our supervision capacity is limited and we can only run 1-3 projects per year. 
 
