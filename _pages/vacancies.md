@@ -10,7 +10,7 @@ permalink: /vacancies
 <br/>
 
  
-#### 1. Research Project Opportunities for Current Students at ANU:
+#### 1. Research Project Opportunities for Current Students at ANU ####
 
 - If you have strong interests/backgrounds in algorithms, see <a href="https://comp.anu.edu.au/study/projects/geometric-route-planning/">Geometric Route Planning</a>.
 
