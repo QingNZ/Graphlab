@@ -40,7 +40,7 @@ Please email your inquiries/applications to Dr. Muhammad Farhan (<a href = "mail
 <li> Contact details of 2-3 referees </li>
 </ol>
 
-Please note that applicants will need to apply for admission to a PhD program following the ANU HDR policy and meet the language requirements by ANU. 
+Please note that applicants will need to apply for admission following the ANU HDR policy and meet the language requirements by ANU. 
 
 
 &nbsp;
@@ -66,7 +66,7 @@ Please email your inquiries/applications to A/Prof. Qing Wang (<a href = "mailto
 <li> Please also attach a CV, academic transcripts, previous research work, e.g., Honors/Masters thesis, papers, etc. </li>
 </ol>
   
-Please note that applicants will need to apply for admission to a PhD program following the ANU HDR policy and meet the language requirements by ANU. 
+Please note that applicants will need to apply for admission following the ANU HDR policy and meet the language requirements by ANU. 
 
 <p></p>
 
