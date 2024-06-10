@@ -83,7 +83,7 @@ Please note that short-listed applicants for these PhD scholarships will need to
 
 &nbsp;
 
-#### (closed) Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" ####
+#### (Closed) Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs" ####
 
 [PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf) 
 
