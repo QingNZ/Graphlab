@@ -22,7 +22,8 @@ permalink: /vacancies
  
 #### 2. ANU School of Computing PhD opportunities: "Scalable Graph Algorithms" ####
 
-We are looking for an excellent candidate for a Ph.D. position in the Graph Research Lab (<a href="https://graphlabanu.github.io/website/">https://graphlabanu.github.io/website/</a>), School of Computing at the Australian National University. You will work under the supervision of Associate Professor Qing Wang, Dr Muhammad Farhan, Dr Henning Koehler and Professor Brendan McKay. You will be involved in developing new techniques and algorithms to advance state-of-the-art research in the area of graph algorithms, graph theory, and network science. Some related publications can be found at https://graphlabanu.github.io/website/projects/.
+We are looking for an excellent candidate for a Ph.D. position in the Graph Research Lab (<a href="https://graphlabanu.github.io/website/">https://graphlabanu.github.io/website/</a>), School of Computing at the Australian National University. You will work under the supervision of Associate Professor Qing Wang, Dr Muhammad Farhan, Dr Henning Koehler and Professor Brendan McKay. You will be involved in developing new techniques and algorithms to advance state-of-the-art research in the area of graph algorithms, graph theory, and network science. Some related publications can be found at <a href="https://graphlabanu.github.io/website/projects/.">https://graphlabanu.github.io/website/projects/.</a>
+
 
 The ideal candidate should have 
 
@@ -48,7 +49,7 @@ Please note that applicants will need to apply for admission following the ANU H
 #### 3. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs" ####
 
 
-Supported by a grant from the Australian Research Council, we are currently looking for PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. PhD students will be supervised by Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team.	Some related publications can be found at https://graphlabanu.github.io/website/projects/.
+Supported by a grant from the Australian Research Council, we are currently looking for PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. PhD students will be supervised by Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team.	Some related publications can be found at <a href="https://graphlabanu.github.io/website/projects/.">https://graphlabanu.github.io/website/projects/.</a>
 
 **Eligibility** 
 -  A Bachelor/Masters degree in computing or mathematics with first-class honours or equivalent; <br />
