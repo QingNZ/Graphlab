@@ -41,6 +41,17 @@ _____
 
 ### <a name="Conference-Presentations"></a>Conference Presentations
 
+<p>**SIGMOD 2024**</p> 
+
+<p>Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks <a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf"> (Slides) <a></p>
+
+
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_Slides.pdf" frameborder="0"></iframe>
+
+<br>
+ 
+
+
 <p>**ICLR 2023**</p> 
 
 <p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks [(Poster)](https://graphlabanu.github.io/website/downloads/ICLR2023_poster.pdf)</p>
@@ -63,7 +74,7 @@ _____
 <br>
 
 <p>**ICLR 2022**</p> 
-<p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a><a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster Video) <a></p>
+<p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a><a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster) <a></p>
 
 
 <iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
