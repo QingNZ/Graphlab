@@ -63,7 +63,7 @@ _____
 
 <p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks <a href="https://graphlabanu.github.io/website/downloads/ICLR2023-poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf"> (Slides) <a></p>
 
-<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf" frameborder="0"></iframe>
 
 <br>
 
@@ -71,7 +71,7 @@ _____
 <p>**AAAI 2023 (Oral) **</p> 
 <p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf"> (Slides) <a></p>
 
-<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf" frameborder="0"></iframe>
 
 
 <br>
@@ -79,7 +79,7 @@ _____
 <p>**SIGMOD 2022**</p> 
 <p>BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2022_slides.pdf):</p>
 
-<iframe width="300" height="400" src="https://users.cecs.anu.edu.au/~u5170295/files/SIGMOD2022_video.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="340" src="https://users.cecs.anu.edu.au/~u5170295/files/SIGMOD2022_video.mp4" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
@@ -87,13 +87,13 @@ _____
 <p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a><a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster) <a></p>
 
 
-<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178" frameborder="0"></iframe>
 
 <br>
 
 <p>**SIGMOD 2021**</p> 
 <p>Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf):</p>
-<iframe width="300" height="400" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="340" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
@@ -105,12 +105,16 @@ _____
 
 
 <p>**SIGIR 2019**</p> 
-<p>Knowledge Tracing with Sequential Key-Value Memory Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)</p>
+<p>Knowledge Tracing with Sequential Key-Value Memory Networks <a href="https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf"> (Slides) <a></p>
+
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads//SIGIR2019_slides.pdf" frameborder="0"></iframe>
+
+<br>
 
 <p>**NeurIPS 2019**</p> 
 <p>Geometric Deep Learning Techniques on Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/NeurIPS2019-slides.pdf)</p>
 
-<iframe width="800" height="420" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/NeurIPS2019_poster.pdf" frameborder="0"></iframe>
 
 <br>
 
