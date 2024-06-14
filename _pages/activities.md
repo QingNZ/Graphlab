@@ -84,10 +84,10 @@ _____
 <br>
 
 <p>**ICLR 2022 (Oral) **</p> 
-<p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a><a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster) <a></p>
+<p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman?  <a href="https://graphlabanu.github.io/website/downloads/ICLR2022-poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2022-slides.pdf"> (Slides) <a></p>
 
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2022-slides.pdf" frameborder="0"></iframe>
 
-<iframe width="800" height="340" src="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178" frameborder="0"></iframe>
 
 <br>
 
