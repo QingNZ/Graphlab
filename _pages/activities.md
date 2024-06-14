@@ -46,7 +46,7 @@ _____
 <p>Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks <a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf"> (Slides) <a></p>
 
 
-<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf" frameborder="0"></iframe>
 
 <br>
  
