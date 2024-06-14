@@ -46,7 +46,7 @@ _____
 <p>Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks <a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf"> (Slides) <a></p>
 
 
-<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_Slides.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf" frameborder="0"></iframe>
 
 <br>
  
@@ -56,13 +56,15 @@ _____
 
 <p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks [(Poster)](https://graphlabanu.github.io/website/downloads/ICLR2023_poster.pdf)</p>
 
-<p> &nbsp; </p>
+<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2023-poster.pdf" frameborder="0"></iframe>
+
+<br>
 
 
 <p>**AAAI 2023**</p> 
 <p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> (Poster) <a></p>
 
-<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.pdf" frameborder="0"></iframe>
+
 
 <br>
 
