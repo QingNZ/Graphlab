@@ -46,24 +46,32 @@ _____
 <p>Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks <a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf"> (Slides) <a></p>
 
 
-<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_poster.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/SIGMOD2024_slides.pdf" frameborder="0"></iframe>
 
 <br>
- 
+
+<p>**ICML 2023**</p> 
+<p>Local Vertex Colouring Graph Neural Networks  <a href="https://graphlabanu.github.io/website/downloads/ICML2023_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICML2023_slides.pdf"> (Slides) <a></p>
+
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICML2023_slides.pdf" frameborder="0"></iframe>
+
+<br>
+
 
 
 <p>**ICLR 2023**</p> 
 
-<p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks [(Poster)](https://graphlabanu.github.io/website/downloads/ICLR2023_poster.pdf)</p>
+<p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks <a href="https://graphlabanu.github.io/website/downloads/ICLR2023-poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf"> (Slides) <a></p>
 
-<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2023-poster.pdf" frameborder="0"></iframe>
+<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf" frameborder="0"></iframe>
 
 <br>
 
 
-<p>**AAAI 2023**</p> 
-<p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-poster.png"> (Poster) <a></p>
+<p>**AAAI 2023 (Oral) **</p> 
+<p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf"> (Slides) <a></p>
 
+<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf" frameborder="0"></iframe>
 
 
 <br>
@@ -71,39 +79,30 @@ _____
 <p>**SIGMOD 2022**</p> 
 <p>BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2022_slides.pdf):</p>
 
-<iframe width="560" height="315" src="https://users.cecs.anu.edu.au/~u5170295/files/SIGMOD2022_video.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="400" src="https://users.cecs.anu.edu.au/~u5170295/files/SIGMOD2022_video.mp4" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-<p>**ICLR 2022**</p> 
+<p>**ICLR 2022 (Oral) **</p> 
 <p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman? <a href="https://recorder-v3.slideslive.com/?share=62408&s=0e876146-647b-4b2d-b32e-a8d3d5f2c178"> (Oral Video) <a><a href="https://recorder-v3.slideslive.com/?share=62283&s=fc8ee420-9d23-479a-9c8f-6f800b09f07d"> (Poster) <a></p>
 
 
-<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
+<iframe width="300" height="400" src="https://graphlabanu.github.io/website/downloads/ICLR2022_Poster.pdf" frameborder="0"></iframe>
 
 <br>
 
 <p>**SIGMOD 2021**</p> 
 <p>Query-by-Sketch: Scaling Shortest Path Graph Queries on Very Large Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGMOD2021_slides.pdf):</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="400" src="https://www.youtube.com/embed/zc5n2SsCtbQ" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-<p>**EDBT 2021**</p> 
-<p>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2021_slides.pdf) [(Video)](https://graphlabanu.github.io/website/downloads/edbt2021-video.pdf)</p>
 
-<iframe width="800" height="440" src="https://graphlabanu.github.io/website/downloads/EDBT2021_Poster.pdf" frameborder="0"></iframe>
 
-<br>
-
-<p>**PAKDD 2021**</p> 
-<p>dK-Projection: Publishing Graph Joint degree distribution with Node Differential Privacy [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2021_slides.pdf)</p>
 
 <p>**ICDM 2020**</p> 
 <p>ErGAN: Generative Adversarial Networks for Entity Resolution [(Slides)](https://graphlabanu.github.io/website/downloads/ICDM2020_slides.pdf)</p>
 
-<p>**PAKDD 2020**</p> 
-<p>dK-Microaggregation: Anonymizing Graphs with Differential Privacy Guarantees [(Slides)](https://graphlabanu.github.io/website/downloads/PAKDD2020_slides.pdf)</p>
 
 <p>**SIGIR 2019**</p> 
 <p>Knowledge Tracing with Sequential Key-Value Memory Networks [(Slides)](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)</p>
@@ -121,7 +120,6 @@ _____
 
 <p>**EDBT 2019**</p> 
 
-<p>Publishing Differentially Private Datasets via Stable Microaggregation [(Poster)](https://graphlabanu.github.io/website/downloads/EDBT2019_poster.pdf)</p>
 
 <p>A Highly Scalable Labelling Approach for Exact Distance Queries in Complex Networks [(Slides)](https://graphlabanu.github.io/website/downloads/EDBT2019_slides.pdf)</p>
 
