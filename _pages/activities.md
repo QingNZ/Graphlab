@@ -68,7 +68,7 @@ _____
 <br>
 
 
-<p>**AAAI 2023 (Oral) **</p> 
+<p>**AAAI 2023 - Oral**</p> 
 <p>Restructuring Graphs for Higher Homophily via Adaptive Spectral Clustering <a href="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf"> (Slides) <a></p>
 
 <iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/AAAI2023-slides.pdf" frameborder="0"></iframe>
@@ -83,7 +83,7 @@ _____
 
 <br>
 
-<p>**ICLR 2022 (Oral) **</p> 
+<p>**ICLR 2022 - Oral**</p> 
 <p>A New Perspective on “How Graph Neural Networks Go Beyond Weisfeiler-Lehman?  <a href="https://graphlabanu.github.io/website/downloads/ICLR2022-poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2022-slides.pdf"> (Slides) <a></p>
 
 <iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2022-slides.pdf" frameborder="0"></iframe>
