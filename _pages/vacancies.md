@@ -12,6 +12,8 @@ permalink: /vacancies
 
 #### 1. Research Project Opportunities for ANU Students
 
+- <a href="https://comp.anu.edu.au/study/projects/deep-learning-for-efficient-route-planning/">Deep Learning for Efficient Route Planning</a>.
+
 - <a href="https://comp.anu.edu.au/study/projects/geometric-route-planning/">Geometric Route Planning</a>.
 
 - <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Graph Deep Learning - Theory and Practice</a>
