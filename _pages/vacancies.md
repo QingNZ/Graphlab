@@ -20,6 +20,8 @@ permalink: /vacancies
 
 - <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Scalable Graph Algorithms for Data Science</a>
 
+- <a href="https://comp.anu.edu.au/study/projects/representation-learning-for-multi-view-graphs-1/">Representation Learning for Multi-View Graphs</a>
+
 &nbsp;
 
 #### 2. ANU School of Computing PhD opportunities: "Scalable Graph Algorithms"
