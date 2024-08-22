@@ -33,6 +33,12 @@
   description: EBDT 2021
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://openproceedings.org/2021/conf/edbt/p255.pdf
+
+- name: N-WL (Neighbourhood WL)
+  image: letter-n.png
+  description: ICLR 2023
+  codelink: https://github.com/mufarhan/N-WL
+  paperlink: https://openreview.net/forum?id=5cAI0qXxyv
   
 - name: ParDHL (Parallel Dynamic Highway Cover Labelling)
   image: letter-p.png
