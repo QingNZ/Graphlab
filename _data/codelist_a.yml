@@ -34,7 +34,7 @@
   codelink: https://github.com/mufarhan/IncHL_Plus
   paperlink: https://openproceedings.org/2021/conf/edbt/p255.pdf
 
-- name: N-WL (Neighbourhood WL)
+- name: N-WL (Neighbourhood Weisfeiler Leman)
   image: letter-n.png
   description: ICLR 2023
   codelink: https://github.com/mufarhan/N-WL
