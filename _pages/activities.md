@@ -61,9 +61,9 @@ _____
 
 <p>**ICLR 2023**</p> 
 
-<p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks <a href="https://graphlabanu.github.io/website/downloads/ICLR2023-poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf"> (Slides) <a></p>
+<p>N-WL: A New Hierarchy of Expressivity for Graph Neural Networks <a href="https://graphlabanu.github.io/website/downloads/ICLR2023_poster.pdf"> (Poster) <a><a href="https://graphlabanu.github.io/website/downloads/ICLR2023_slides.pdf"> (Slides) <a></p>
 
-<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2023-slides.pdf" frameborder="0"></iframe>
+<iframe width="800" height="340" src="https://graphlabanu.github.io/website/downloads/ICLR2023_slides.pdf" frameborder="0"></iframe>
 
 <br>
 
