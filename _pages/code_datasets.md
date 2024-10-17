@@ -61,11 +61,4 @@ _(Listed in alphabetical order of the model/algorithm/method names)_
 
 <br>
 
-### Courses
 
-<ul>
-<li>UBC: <a href="https://lrjconan.github.io/DL-structures/">Deep Learning with Structures</a></li>
-<li>Stanford: <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a></li>
-</ul>  
-
-<br> 
