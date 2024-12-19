@@ -9,6 +9,18 @@
   description: AAAI 2023
   codelink: https://github.com/seanli3/graph_restructure
   paperlink: https://ojs.aaai.org/index.php/AAAI/article/view/26038
+
+- name: Asymmetric Learning for Spectral GNNs (Asymmetric Optimiser)
+  image: letter-a.png
+  description: AAAI 2025
+  codelink: https://github.com/Mia-321/asym-opt
+  paperlink: https://arxiv.org/pdf/2412.11739
+
+- name: A Sheaf Neural Framework for Influence Maximization (DeepSN)
+  image: letter-d.png
+  description: AAAI 2025
+  codelink: https://github.com/Aselahp/DeepSN/
+  paperlink: https://arxiv.org/pdf/2412.12416
   
 - name: Spectral GNN with Feedback-Looped Filters (DFNet)
   image: letter-d.png
