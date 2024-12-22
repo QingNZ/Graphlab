@@ -9,7 +9,7 @@
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
 - title: "Dual-Hierarchy Labelling: Scaling Up Distance Queries on Dynamic Road Networks"
-  image: SIGMOD2025-DCL.png
+  image: SIGMOD2025-DHL.png
   description: Current methods for computing shortest-path distances in dynamic road networks face limitations with slow queries or inefficient maintenance, especially at scale. We introduce Dual-Hierarchy Labelling (DHL), a state-of-the-art approach that achieves significantly faster construction and updates, processes queries 2–4 times quicker, and uses only 10–20% of the labeling space.
   authors: M. Farhan, H. Koehler, and Q. Wang
   link:
