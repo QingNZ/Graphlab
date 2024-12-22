@@ -1,3 +1,32 @@
+- title: "Asymmetric Learning for Spectral Graph Neural Networks"
+  image: AAAI2025-AL.png
+  description: Optimizing spectral graph neural networks (GNNs) remains a critical challenge in the field due to poorly understood dynamics. To address this, we analyze differences between graph convolution and feature transformation parameters, revealing their role in creating poorly conditioned problems. We then introduce the block condition number of the Hessian matrix and propose an asymmetric learning approach that dynamically preconditions gradients to improve optimization.
+  authors: F. Liu and Q. Wang
+  link:
+    url: https://arxiv.org/abs/2412.11739
+    display: The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+
+- title: "Dual-Hierarchy Labelling: Scaling Up Distance Queries on Dynamic Road Networks"
+  image: SIGMOD2025-DCL.png
+  description: Current methods for computing shortest-path distances in dynamic road networks face limitations with slow queries or inefficient maintenance, especially at scale. We introduce Dual-Hierarchy Labelling (DHL), a state-of-the-art approach that achieves significantly faster construction and updates, processes queries 2–4 times quicker, and uses only 10–20% of the labeling space.
+  link:
+    url: TBC
+    display: ACM Special Interest Group on Management of Data (SIGMOD), 2025
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+
+- title: "DeepSN: A Sheaf Neural Framework for Influence Maximization"
+  image: AAAI2025-DeepSN.png
+  description: Influence maximization is a complex network science challenge focused on finding key vertices that trigger the widest spread of influence across a network. To tackle this, we propose DeepSN, a novel graph neural network (GNN) architecture based on sheaf theory, which models influence propagation as a sheaf diffusion-reaction process, capturing the complex dynamics of real-world information diffusion.
+  authors: A. Hevapathige, Q. Wang, and A. N. Zehmakan
+  link:
+    url: https://arxiv.org/abs/2412.12416
+    display: The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
+
 - title: "Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks"
   image: SIGMOD2024-HCL.png
   description: Labelling-based solutions are the current state-of-the-arts to render fast response time to distance queries on road networks. However, they still result in large search spaces on distance labels when road networks are large. We propose a novel solution based on a simple but efficient data structure, called balanced tree hierarchy, which can perform 1.5-4 times faster in query processing and achieve up to 60% smaller labelling size compared to the state-of-the-art approaches.
