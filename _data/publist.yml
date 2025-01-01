@@ -28,6 +28,16 @@
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/)) 
 
+- title: "Stable Tree Labelling for Accelerating Distance Queries on Dynamic Road Networks"
+  image: 
+  description: 
+  authors: H. Koehler, M. Farhan, and Q. Wang
+  link:
+    url: https://openproceedings.org/2025/conf/edbt/paper-127.pdf
+    display: The 28th International Conference on Extending Database Technology (EDBT), 2025 (paper link)
+  highlight: 0
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
 - title: "Hierarchical Cut Labelling - Scaling Up Distance Queries on Road Networks"
   image: SIGMOD2024-HCL.png
   description: Labelling-based solutions are the current state-of-the-arts to render fast response time to distance queries on road networks. However, they still result in large search spaces on distance labels when road networks are large. We propose a novel solution based on a simple but efficient data structure, called balanced tree hierarchy, which can perform 1.5-4 times faster in query processing and achieve up to 60% smaller labelling size compared to the state-of-the-art approaches.
