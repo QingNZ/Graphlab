@@ -1,3 +1,24 @@
+- title: "Learning Partial Graph Matching via Optimal Partial Transport"
+  image: ICLR2025-GCAN.png
+  description: We define a novel optimization problem for partial graph matching, inspired by optimal partial transport. This formulation provides a robust optimization objective that carefully balances the selection of matched and unmatched nodes. To solve this problem, we reveal a notable embedding of partial graph matching into a linear sum a signment problem. Based on these theoreical insights, we develop a deep learning architecture tailored for partial graph matching tasks.
+  authors: G. Ratnayaka, J. Nichols, and Q. Wang
+  link:
+    url: https://openreview.net/pdf/2c821b14d26c366e2276e35179399a2c6de8e9a5.pdf
+    display: International Conference on Learning Representations (ICLR), 2025 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
+- title: "Towards Bridging Generalization and Expressivity of Graph Neural Networks"
+  image: ICLR2025-Generalization.png
+  description: Expressivity and generalization are two critical aspects of GNNs. Theoretical studies conjecture a trade-off between the two: highly expressive models risk overfitting, while those focused on generalization may sacrifice expressivity. However, empirical evidence often contradicts this assumption, with expressive GNNs frequently demonstrating strong generalization. We explore this contradiction by introducing a novel framework that bridges generalization and expressivity of GNNs.
+  authors: S. Li, F. Geerts, D. Kim, and Q. Wang
+  link:
+    url: https://arxiv.org/abs/2410.10051
+    display: International Conference on Learning Representations (ICLR), 2025 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
+
 - title: "Asymmetric Learning for Spectral Graph Neural Networks"
   image: AAAI2025-AL.png
   description: Optimizing spectral graph neural networks (GNNs) remains a critical challenge in the field due to poorly understood dynamics. To address this, we analyze differences between graph convolution and feature transformation parameters, revealing their role in creating poorly conditioned problems. We then introduce the block condition number of the Hessian matrix and propose an asymmetric learning approach that dynamically preconditions gradients to improve optimization.
