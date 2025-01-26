@@ -17,8 +17,7 @@
     display: International Conference on Learning Representations (ICLR), 2025 (paper link)
   highlight: 1
   news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
-
-
+  
 - title: "Asymmetric Learning for Spectral Graph Neural Networks"
   image: AAAI2025-AL.png
   description: Optimizing spectral graph neural networks (GNNs) remains a critical challenge in the field due to poorly understood dynamics. To address this, we analyze differences between graph convolution and feature transformation parameters, revealing their role in creating poorly conditioned problems. We then introduce the block condition number of the Hessian matrix and propose an asymmetric learning approach that dynamically preconditions gradients to improve optimization.
