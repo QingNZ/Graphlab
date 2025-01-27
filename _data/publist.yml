@@ -10,7 +10,7 @@
 
 - title: "Towards Bridging Generalization and Expressivity of Graph Neural Networks"
   image: ICLR2025-Generalization.png
-  description: Expressivity and generalization are two critical aspects of GNNs. Theoretical studies conjecture a trade-off between the two: highly expressive models risk overfitting, while those focused on generalization may sacrifice expressivity. However, empirical evidence often contradicts this assumption, with expressive GNNs frequently demonstrating strong generalization. We explore this contradiction by introducing a novel framework that bridges generalization and expressivity of GNNs.
+  description: Expressivity and generalization are two critical aspects of GNNs. Theoretical studies conjecture a trade-off between the two - highly expressive models risk overfitting, while those focused on generalization may sacrifice expressivity. However, empirical evidence often contradicts this assumption, with expressive GNNs frequently demonstrating strong generalization. We explore this contradiction by introducing a novel framework that bridges generalization and expressivity of GNNs.
   authors: S. Li, F. Geerts, D. Kim, and Q. Wang
   link:
     url: https://arxiv.org/abs/2410.10051
