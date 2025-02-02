@@ -1,3 +1,13 @@
+- title: "Divide-and-Conquer: Scalable Shortest Path Counting on Large Road Networks"
+  image: SIGMOD2025-SPCounting.png
+  description: Unlike traditional shortest path problems, shortest path counting requires enumerating all possible shortest paths, making it computationally challenging. We propose a novel divide-and-conquer approach based on a count reconstruction theorem that efficiently combines shortest subpath counts from smaller subgraphs to accurately reconstruct shortest path counts for the entire graph. Experimental results show that our approach significantly outperforms state-of-the-art solutions.
+  authors: M. Farhan, H. Koehler, and Q. Wang
+  link:
+    url: 
+    display: ACM Special Interest Group on Management of Data (SIGMOD), 2025 (paper link)
+  highlight: 1
+  news2: (Source code available [here](https://graphlabanu.github.io/website/code_datasets/))
+
 - title: "Learning Partial Graph Matching via Optimal Partial Transport"
   image: ICLR2025-GCAN.png
   description: We define a novel optimization problem for partial graph matching, inspired by optimal partial transport. This formulation provides a robust optimization objective that carefully balances the selection of matched and unmatched nodes. To solve this problem, we reveal a notable embedding of partial graph matching into a linear sum a signment problem. Based on these theoreical insights, we develop a deep learning architecture tailored for partial graph matching tasks.
